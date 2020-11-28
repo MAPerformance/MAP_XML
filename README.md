@@ -4,6 +4,10 @@ _Middle Ages & Performances_
 
 Simon Gabay, simon.gabay[at]unige.ch
 
+### Site
+
+<a href="https://maperformance.github.io" target="_blank">maperformance.github.io</a>
+
 ### Data
 
 You will find here the documentation fully encoded in TEI and XSLT scripts for basic extraction.
