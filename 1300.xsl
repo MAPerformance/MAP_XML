@@ -4,9 +4,9 @@
     exclude-result-prefixes="xs"
     version="2.0"
     xpath-default-namespace="http://www.tei-c.org/ns/1.0">
-    
+
     <xsl:output method="text" encoding="UTF-8"/>
-    
+
     <xsl:template match="/">
         <xsl:text>"title",</xsl:text>
         <xsl:text>"place",</xsl:text>
@@ -41,7 +41,7 @@
                     <xsl:text>"</xsl:text><xsl:value-of select="substring-after(ab/location/geo,',')"/><xsl:text>",</xsl:text>
                     <xsl:text>"</xsl:text><xsl:value-of select="$date"/><xsl:text>",</xsl:text>
                     <xsl:text>"Green",</xsl:text>
-                    &lt;h1&gt;<xsl:value-of select="$settlement"/>&lt;/h1&gt;&lt;div class='scroller;'&gt;&lt;ol&gt;
+                    &lt;h1&gt;<xsl:value-of select="$settlement"/>&lt;/h1&gt;&lt;div class='scroller'&gt;&lt;ol&gt;
                     <xsl:for-each select="//settlement">
                         <xsl:variable name="ID2">
                             <xsl:value-of select="../../../@xml:id"/>
@@ -53,7 +53,7 @@
                     &lt;/ol&gt;&lt;/div&gt;
                     <xsl:text>&#10;</xsl:text>
                 </xsl:if>
-                
+
                 <!-- <xsl:choose>
                     <xsl:when test="$date &gt;= 1600"><xsl:text>"Red",</xsl:text></xsl:when>
                     <xsl:when test="$date &gt;= 1500 and $date &lt; 1600"><xsl:text>"Brown",</xsl:text></xsl:when>
@@ -66,5 +66,5 @@
             </xsl:if>
         </xsl:for-each>
     </xsl:template>
-    
+
 </xsl:stylesheet>
