@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Joseph le Juste</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2938">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Joseph le Juste</title>
+                  </item>
+                  <item>
+                     <date when="1559"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Draguignan</settlement>
+                        <region>Provence</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>43.537727, 6.464993</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 161.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Joseph le Juste est le nom d'un des disciples de Jésus-Christ. Il serait devenu le
+          douzième apôtre en remplacement de Judas, si le sort n'eût désigné Barnabé de préférence à
+          lui. Son histoire faisait partie du cycle des Actes des Apôtres. - Il est assez malaisé de
+          distinguer, parmi les nombreuses solennités plus ou moins théâtrales qui furent célébrées
+          à Draguignan au moyen âge, celles qui réellement appartiennent à l'histoire des mystères
+          dramatiques. Il n'est pas probable que le mystère du Vieux Testament ou les textes que
+          nous possédons de la Passion, aient jamais servi, même par fragments, même traduits en
+          provençal, aux représentations du Testament, vieux et nouveau qui se célébraient
+          annuellement à Draguignan à l'occasion de la Fête-Dieu. Ces spectacles, plus pompeux que
+          vraiment dramatiques, étaient probablement mimés et figurés en grande partie.
+          (Voy. ci-après mystères mimés.)</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8600"
+                    source="S2938"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>maître Textoris, notaire, qui, durant quinze années, fut dans cette ville
+                l'entrepreneur attitré de tous les jeux dramatiques, reçut quatre écus pour faire
+                les frais de l'histoire de Joseph le Juste, « qu'il et ses compagnons ont entreprins
+                jouer auls prochaines festes de Pentecouste ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Registre des ordonnances du conseil communal de Draguignan,
+                  BB 13, fol. 420v –cf. Revue des sociétés savantes, 6e série, t. III, mai-juin
+                  1876, p. 473.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Salaire</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Notaire</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

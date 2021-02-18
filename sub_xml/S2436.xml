@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fictions</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2436">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Fictions</title>
+                  </item>
+                  <item>
+                     <date when="1498"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Reims</settlement>
+                        <region>Champagne</region>
+                        <country/>
+                        <placeName type="bishopric">Reims</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.258329, 4.031696</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Guillaume Coquillart, 1975. p. xxxi. – Koopmans, 1997-2. p. 53.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Couronnement</item>
+                  <item>Ascencion</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Il s’agit du couronnement de Louis XII. - Il est probable que l’une de ces fictions
+          soit le Débat des dames et des armes. [Guillaume Coquillart] - Le couronnement à
+          traditionnellement lieu à l’Ascencion.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8022"
+                    source="S2436"
+                   
+                   
+                   >
+                  <head>28 avril 1498</head>
+                  <div type="transcription">
+                     <p>M. Coquillart, chantre ; C. Barat, chanoine, et moi, fumes visiter les lieux pour
+                faire les fiction à l'entrée du roy. Le dimanche, MM. les échevins m'ordonnèrent
+                d'envoyer quérir Jean Hanse à Châlons et P. Burrier à Metz pour besogner auxdites
+                fictions.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Guillaume Coquillart, 1975. p. xxxi – Koopmans, 1997-2. p. 53.</bibl>
+                        <bibl type="additional"> « Jean Foulquart, extrait des mémoires », Revue de
+                  Champagne et de Brie, I, 1876, pp. 418-426 ; II, 1877, pp. 45-49, 136-139, 467-472
+                  ; III, 1877, pp. 123-125, 289-292 ; VII, 1879, pp. 191-208.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Koopmans fait remarquer qu’il peut s’agir du père comme du fils.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

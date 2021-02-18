@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de l’Apocalypse</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2944">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de l’Apocalypse</title>
+                  </item>
+                  <item>
+                     <date when="1560"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Amiens</settlement>
+                        <region>Somme/Picardie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Beauvais</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.894067, 2.295753</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 162.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Juridiction : Ecclésiastique</item>
+                  <item>Juridiction : Coopération</item>
+                  <item>Juridiction : Municipale</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Publiquement</item>
+                  <item>Chambre</item>
+               </list>
+               <note>Dès le milieu du XVIe siècle les parlements, les évêques et même beaucoup
+          d'échevinages se montraient hostiles à la représentation des mystères. L'Apocalypse fut
+          encore jouée à Amiens en 1560 ; mais les acteurs durent se soumettre à une censure
+          préalable et limiter à une semaine leurs représentations ; encore n'arrachèrent-ils cette
+          autorisation qu'après deux refus successifs. La pièce suivante témoigne de ces faits :
+          cf. doc.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8606"
+                    source="S2944"
+                   
+                   
+                   >
+                  <head>18 juillet 1560, Délibération échevinale</head>
+                  <div type="transcription">
+                     <p>Eschevinage de joeudy, 18e jour de juillet 1560. Veue la requeste de Jacques Macron
+                et ses aultres compaignons joueurs de moralitez, histoires, farces et vielles,
+                tendantes par icelles ad ce qu'il leur fust permis jouer en ceste ville l'Apocalipse
+                et autres histoires, moralitez et farces honnestes et non scandaleuses, par tel
+                espace de temps que bien leur sembleroit. Sire Adrien Vilain a esté d'advis que
+                avant leur accorder ladite permission, ilz doibvent monstrer les jeux qu'ilz
+                entendent jouer, pour les communiquer aux docteurs, actendu que par la Saincte
+                Escripture il est deffendu que tele manière de gens jouent publiquement la parole de
+                Dieu. Sire François de Canteleu d'advis de leur donner ladite permission, pour huit
+                ou dix jours, a la charge qu'ilz ne joueront chose qui soit contre I’honneur de Dieu
+                et de l'Eglise. Charles Gorin, prevost, de faire veoir les jeux, et si on n'y trouve
+                chose prohibée, leur donner congié de jouer huict jours. Pierre Watel a esté d'advis
+                de leur octroyer ladite permission pour huict jours, actendu que les jeux qu'ilz
+                voeullent jouer sont imprimez, avec privilège du roy, a la charge touteffois qu'ilz
+                ne joueront riens contre l'honneur de Dieu et de l'Eglise, et leur déclarer que s'il
+                est trouvé qu'ilz ayent ce faict, ils en responderont. Dubois a esté de pareil avis.
+                Me Loys des Essars, idem. Dubeguin a esté d'advis de ne leur donner aucune
+                permission, actendu qu'ilz ont ja esté refusez deux fois depuis huict jours.
+                Lenglet, idem, joinct qu'il n'y a que VIII mois ou un an qu'ilz ont joué en ceste
+                ville. Gaugier, de pareil advis. Delattre, idem. Picard, Riolen et Ledoulx, d'advis
+                semblable. Wateble, de mesme advis que Watel. Me Jehan Rohault, de pareil advis. Et
+                Simon des Essars, idem. Oys lesquelz advis a esté conclu et arresté qu'il sera dict
+                aux supplians qu'ils ayent a mectre es mains de Me Jehan Rohault, advocat de ladite
+                ville, l'Apocalipse et tous les autres jeux qu'ils entendent jouer, pour iceulx
+                communiquer a maistre Adam, ou autre docteur affin que si on n'y trouve donner leur
+                permission iceulx jouer en chambre durant l'espace de huict jours sans pouvoit jouer
+                les festes et dimanches durant les vespres.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Petit de Julleville, 1880, t. 2. p. 162 – Runnalls, 2003. p. 263 – Lavéant,
+                  2007. p. 417</bibl>
+                        <bibl type="additional"> AMA, Délibérations échevinales BB33, f 145v. – Revue des
+                  sociétés savantes, 2e série, t. II, juillet 1859, p. 107 et suiv.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Autorisation (hésitation)</item>
+                        <item>Autorisation sous condition</item>
+                        <item>Condition : Censure</item>
+                        <item>Condition : Sans scandale // Juridiction : Coopération</item>
+                        <item>Contrôle : Avocat</item>
+                        <item>Contrôle : Docteur // Contrôle : Prévôt</item>
+                        <item>Sujet : Ecritures saintes</item>
+                        <item>Condition : Temps de jeu limité</item>
+                        <item>Autorisation (réfus d'-)</item>
+                        <item>Cause : Théologique</item>
+                        <item>Juridiction : Royale</item>
+                        <item>Temps sacré (statut du -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item>Dimanche</item>
+                        <item>Fêtes</item>
+                        <item>Vêpres (pas pendant les -)</item>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

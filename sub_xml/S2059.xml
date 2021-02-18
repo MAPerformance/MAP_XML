@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de l’Assomption de Notre-Dame</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2059">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de l’Assomption de Notre-Dame</title>
+                  </item>
+                  <item>
+                     <date when="1442"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Montauban</settlement>
+                        <region>Quercy/Toulouse</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>44.016079, 1.352950</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 15.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Récurrence : Coutume</item>
+                  <item>Organisation : Annulation</item>
+                  <item>Cause : Maladie</item>
+                  <item>Peste</item>
+                  <item>Organisation : Décision du lieu</item>
+                  <item>Organisation : Distribution des responsabilités</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Chanoine</item>
+                  <item>Ordre : Carmel</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Eglise</item>
+               </list>
+               <note>Bernard de la Roche-Fontenilles, évêque de Montauban (entre les années 1429 et 1445)
+          eut à juger, en 1442, un différend qui s'était élevé entre les religieux chanoines de sa
+          cathédrale et les carmes, relativement à la représentation d'un mystère de Notre-Dame que
+          carmes et chanoines avaient l'usage de représenter alternativement tous les ans dans
+          l'église Saint-Jacques. La peste qui sévit à Montauban en 1441 avait empêché les chanoines
+          d'user cette année-là de leur tour ; ils voulaient le reprendre l’année suivante et les
+          carmes s'y opposaient. L'évêque donna gain de cause aux chanoines à condition…
+          cf. Doc.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7502"
+                    source="S2059"
+                   
+                   
+                   >
+                  <head>Jugement de l’évêque</head>
+                  <div type="transcription">
+                     <p>« A l'advenir la coastume serait observée non obstant les empeschemens qui
+                surviendraient tant pour l'an du tour que pour l'observance de tout le reste ».
+                Cette dernière réserve avait pour but de couper court à une innovation que les
+                religieux du chapitre voulaient introduire dans le mystère. « Ils s'étaient proposé,
+                raconte un historien de Montauban, de faire paroistre les douze apostres et autres
+                personnages dans l'église Saint-Jacques et puis dans le canton de la Favrie la
+                veille de la feste, après avoir fait paroistre auparavant dans la ville certains
+                personnages nommes Barbostales, pour y faire sans doute les bouffons.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Histoire manuscrite de Montauban, par le Chanoine Perrin de
+                  Grand-Pré, à la Bibliothèque de Montauban, ch. XXIV, p. 132 – Lebret, Histoire de
+                  Montauban, 1841, t. I, p. 200 et sqq. – Daux, Camille, Histoire de l’église de
+                  Montauban (Paris : Bray et Retaux), 1881, t. I, p. 21.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Autorisation sous condition</item>
+                        <item>Contrôle : Evêque</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

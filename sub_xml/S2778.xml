@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Vendition de Joseph</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2778">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Vendition de Joseph</title>
+                  </item>
+                  <item>
+                     <date when="1540"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Limoges</settlement>
+                        <region>Limousin</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>45.833619, 1.261105</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 139.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Interdiction</item>
+                  <item>Juridiction : Conflit</item>
+                  <item>Organisation : Annulation</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Bourgeois</item>
+                  <item>Clerc-public</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Cimetière</item>
+                  <item>Abbaye</item>
+               </list>
+               <note>Nous croyons devoir faire ici mention de deux projets de représentations qui
+          n'aboutirent pas. Quatre bourgeois de Limoges demandèrent, en 1540, l'autorisation de
+          faire représenter les mystères de Job, et de la Vendition de Joseph. - Les bourgeois
+          n'acceptèrent point ces conditions et il ne fut pas donné suite à leur projet. On se
+          souvient que dès l'année 1290 on jouait les miracles de Saint-Martial dans le cimetière de
+          l'abbaye de ce nom. - Joué « sous les arbres », sorte d'esplanade qui dépendait du
+          cimetière de l'abbaye de Saint-Martial.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8353"
+                    source="S2778"
+                   
+                   
+                   >
+                  <head>Délibération capitulaire</head>
+                  <div type="transcription">
+                     <p>Le chapitre consentit, « a condition qu'on obtiendroit la permission de monsieur
+                l'abbé et qu'on restabliroit toutes choses dans l’estat ou elles estoient alors et
+                que si le cimetière estoit pollu a ceste occasion, il seroit reconcilié a leurs
+                despens ; qu'en outre il seroit fait a leurs frais un lieu de spectacle et un
+                eschafaud pour tous les messieurs (chanoines) et autres de gremio et que chacun
+                d'eux pourroit y amener un serviteur ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Registres capitulaires de Saint-Martial, fol. 54,
+                  recto.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération capitulaire</item>
+                        <item>Autorisation sous condition</item>
+                        <item>Contrôle : Abbé</item>
+                        <item>Pollution du cimetière</item>
+                        <item>Condition : Responsabilité si dégâts // Organisation : Construction des
+                  loges</item>
+                        <item>Organisation : Loges des chanoines // </item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

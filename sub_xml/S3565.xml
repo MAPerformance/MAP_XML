@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Entrée de la Reine et du Dauphin</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3565">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Entrée de la Reine et du Dauphin</title>
+                  </item>
+                  <item>
+                     <date when="1532"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Nantes</settlement>
+                        <region>Loire-Atlantique/Bretagne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Nantes</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>47.218371, -1.553621</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Type : Entrée</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Carrefour</item>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9697"
+                    source="S3565"
+                   
+                   
+                   >
+                  <head>14 août 1532</head>
+                  <div type="transcription">
+                     <p>Aultres mises faictes par ledit Pelletier, présent comptable à la joyeuse venue et
+                entrée des Roy, Royne et de Monseigneur le Daulphin, duc propriétaire de ce pays et
+                duché de Bretaigne, de Messeigneurs d'Orléans et d'Angoulesme et de Mesdames,
+                faictes en ceste ville de Nantes, le 14e jour d'aougst 1532, et de plusieurs autres
+                princes ou seigneurs estans en leurs compaignie Kervela, 6 livres, 5 soulz monnoye,
+                pour ses peines, sallaires et vaccacions d'estre allé à Poictiers, vers maistre
+                Jehan Bouschet, pour l'amener avec luy en ceste ville, pour composer les dictons
+                pour ceulx qui jouerent les misteres par les carrefours de ceste ville es entrées de
+                la Royne et de Monseigneur le Daulphin.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Salaire</item>
+                        <item>Type : Comptabilité</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Transcription d’après l’inventaire. Voir série AA, 30. Entrée de François Ier et
+                de la reine Eléonore.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miracle de Théophile</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2764">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Miracle de Théophile</title>
+                  </item>
+                  <item>
+                     <date when="1539"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Le Mans</settlement>
+                        <region>Sarthe</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Le Mans</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>48.006110, 0.199556</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Piolin, 1858. p. 37. – Piolin, 1861, t. 5. p. 241. – Petit de Julleville, 1880, t.
+              2. p. 136. – Sepet, 1894. p. 26</bibl>
+                  <bibl type="additional">Archives du Chapitre du Mans, B.15, Ms. de la bibliothèque du
+              Mans n°257.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Finance : Salaire</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Dimanche</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Eglise (Parvis)</item>
+               </list>
+               <note>Le 5 septembre 1539, le chapitre de Saint-Julien du Mans accorda la permission de
+          jouer, le dimanche et le lundi suivants, le miracle de Théophile, sur la place située
+          devant l'église des Jacobins, et il ordonna que durant ces deux jours on ne sonnerait
+          point les cloches de l'église cathédrale depuis la messe capitulaire, qui se chantait à
+          neuf heures du matin, jusqu'à trois heures de l'après-midi, où se célébraient les vêpres.
+          Il ordonna de plus à son trésorier de donner six livres au receveur des jeux. [Piolin] -
+          Les chanoines font donner six livres aux receveur des jeux publics. [Piolin]</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

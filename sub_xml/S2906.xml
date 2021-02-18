@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Vie de Job</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2906">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Vie de Job</title>
+                  </item>
+                  <item>
+                     <date when="1556"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Rouen</settlement>
+                        <region>Seine-Maritime/Haute-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rouen</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>49.443232, 1.099971</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Gosselin, 1868. p. 43. – Petit de Julleville, 1880, t. 2. p. 159. – Rousse,
+              2003.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Coût</item>
+                  <item>Organisation : Représentations multiples</item>
+                  <item>Juridiction : Ecclésiastique</item>
+                  <item>Juridiction : Municipale</item>
+                  <item>Juridiction : Coopération</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Troupe</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>La première troupe de comédiens ambulants qu'on ait vue à Rouen y parut en 1556, au
+          mois d'octobre. Le directeur, Pierre Lepardonneur, cinq acteurs et « trois petits enfants
+          chantres » la composaient. Il ne s'y trouvait aucune femme. Installés au jeu de Paume du
+          port de Salut, ils jouaient depuis trois jours, lorsqu'au milieu d'une représentation de
+          la Vie de Job deux sergents du Parlement vinrent leur enjoindre de cesser leur jeu.
+          Lepardonneur et les siens, suivis du public, se rendent au Parlement, présentent une
+          respectueuse requête, allèguent leurs dépenses faites, et non payées, s'engagent à ne plus
+          annoncer leurs pièces au son du tambourin, suppliant qu'on tolère leurs jeux. La cour rend
+          son arrêt : « Comme c'est la première fois qu'une troupe se présente et joue en public
+          moyennant salaire, » la cour ordonne que le provincial des Carmes et le pénitencier de
+          Notre-Dame examineront préalablement le répertoire de ces étrangers. Le lendemain, cet
+          examen ayant été favorable, la cour permet la reprise des jeux, à condition qu'on ne
+          jouera que le dimanche après vêpres et qu'on ne fera sonner ni tambourin ni autre
+          instrument faisant bruit pour assembler le peuple ; enfin elle interdit la représentation
+          de la farce du Retour de mariage Lepardonneur reparut à Rouen en janvier 1558 ; mais cette
+          fois le Parlement lui interdit de jouer, « parce que ces représentations entraînaient à de
+          vaines et inutiles dépenses ». - depuis 1523 (commencement de la Réforme), le Parlement a
+          rendu plus de trente arrêts pour « défendre de sonner le tabourin ou autre instrument
+          faisant bruit ; » (sans compter les arrêts concernant les livres, libelles, chansons,
+          pasquinades, etc.).</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8477"
+                    source="S2906"
+                   
+                   
+                   >
+                  <head>5 octobre 1556, Arrêt du parlement.</head>
+                  <div type="transcription">
+                     <p>Nos seigneurs, Depuis notre installation jusqu’à ce jour au Port-de-Salut, nous
+                nous sommes conduits honnestement et sans nul reproche. Nous avons fait, pour la
+                récréation des habitants de cette ville, de grandes dépenses dont nous sommes encore
+                redevables ; en outre, il nous a fallu achepter des draps de soie, des toiles et
+                tant d’autres choses pour la décoration, qui ne sont payées, mais qui l’eussent
+                jesté, si aulcun empeschement ne nous eût esté donné. Nous vous supplions donc, nos
+                Seigneurs, de nous permettre de parachever nostre jeu, et nous nous engageons pour
+                l’advenir à ne faire sommer le tabourin par la ville, ne autre instrument faisant
+                bruict, et aussi à communiquer à telle personne qu’il vous plaira ce que nous aurons
+                intention de jouer.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Gosselin, 1868. p. 43 – Petit de Julleville, 1880, t. 2. p. 159.</bibl>
+                        <bibl type="additional"> Archives du Palais-de-justice, Arrêt du parlement, 25
+                  octobre 1556.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Arrêt</item>
+                        <item>Autorisation (demande d'-)</item>
+                        <item>Motif : Récréation // Description : Organisation</item>
+                        <item>Organisation : Obtention des accessoires // Organisation : Monstre</item>
+                        <item>Condition : Sans monstre</item>
+                        <item>Censure</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8478"
+                    source="S2906"
+                   
+                   
+                   >
+                  <head>25 octobre 1556, Arrêt du parlement.</head>
+                  <div type="transcription">
+                     <p>Comme c’est la première fois qu’une troupe se présente et joue en public moyennant
+                sallaire, la Cour ordonne que frère Mathieu des Landes, provincial des Carmes, et
+                Jehan Lambert, chanoine et pénitencier de Notre-Dame, vont examiner les moralités et
+                farces que les requérants se proposent de jouer.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Gosselin, 1868. p. 43 – Petit de Julleville, 1880, t. 2. p. 159.</bibl>
+                        <bibl type="additional"> Archives du Palais-de-justice, Arrêt du parlement, 25
+                  octobre 1556.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Censure</item>
+                        <item>Contrôle : Théologien</item>
+                        <item>Contrôle : Magistrat municipal // Juridiction : Coopération</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Provincial</item>
+                        <item>Pénitencier</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>24 octobre (le délibéré étant rendu le lendemain, le 25).</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8479"
+                    source="S2906"
+                   
+                   
+                   >
+                  <head>25 octobre 1556, Arrêt du parlement</head>
+                  <div type="transcription">
+                     <p>Permet aux suppliants d’achever leur jeu ainsi qu’ils l’ont commencé, parce qu’ils
+                ne feront leurs dits jeux que le dimanche après vespres et ne feront sonner le
+                tabourin ne autre instrument faisant bruict pour assembler le peuple et aussi qu’ils
+                ne joueront la farce du Retour de mariage, et que en tous leurs jeux jusqu’à
+                l’achèvement d’iceux se y conduiront honnestement et modestement ; Et les dites
+                moralités achevées, défense d’en jouer d’autres sans nouvelle permission.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Archives du Palais-de-justice, Arrêt du parlement, 25
+                  octobre 1556. - http://gallica.bnf.fr/ark:/12148/bpt6k160160/f321</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Autorisation sous condition</item>
+                        <item>Condition : Temps de jeu limité</item>
+                        <item>Condition : Sans monstre</item>
+                        <item>Interdiction (sans autorisation)</item>
+                        <item>Condition : Sans scandale // Condition : Sujet sacré</item>
+                        <item>Temps sacré (statut du -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item>Dimanche</item>
+                        <item>Vêpres (après)</item>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2537">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1510"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Vienne</settlement>
+                        <region>Dauphiné</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>45.525587, 4.874339</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 1. p. 404. – Petit de Julleville, 1880, t. 2.
+              p. 100</bibl>
+                  <bibl type="additional"> Giraud, Composition, mise en scène et représentation des Trois
+              Doms, p. 111.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+                  <item>Dimanche</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Jardin d'abbaye</item>
+               </list>
+               <note>On loua les loges quatre écus au soleil pour toute la durée des représentations ; les
+          autres places coûtaient un demi-sou par jour, comme nous l'apprennent les registres
+          consulaires devienne. - Nulle part nous n'apprenons ce que les loges pouvaient contenir de
+          spectateurs. Il y en eut quatre-vingt-seize à Vienne, en 1510; mais c'est par hypothèse
+          que nous évaluerons à six ou huit le nombre des personnes que chaque loge pouvait
+          recevoir, et à quatre mille cinq cents ou cinq mille environ celui des spectateurs qui
+          pouvaient assister ensemble à la représentation. [Julleville t. 1, p. 404]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8127"
+                    source="S2537"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Lan que dessus mil cinq cens dix et le dimenche dix-neufvieme de may, jour de
+                Penthecostes, et les aultres jours ensuyvans, jusques au lundi XXVIIe du dict moys
+                inclusivement, fust joué le mistere de la glorieuse Passion Notre Seigneur a
+                commancer avant l'adnontiation jusques à l'ascension que sont neuf jours ensuyvans :
+                au grant jardin de l'abbays de Saint-Pierre furent faicts les plus beaux escharfaux
+                questoyent a deux estages oullre le bas pour le commun peuple et y avoit quatre
+                vingt seize chambres serrans a clé chescune, et se loueyoit chescune quatre escus au
+                soleil et payoit Ion chescun entrant au jeu deux liards; les tentes dessus estoyent
+                sarges de drapt cosar lune a laulre tendus leur cordages de coleur blanc et noyr que
+                faisoit si beau veoir que Ion vist jamais escharfaux. Et furent les feinctes si bien
+                faictes sans redicle et riches, car yl y avoit huit maistres de feintes que chescun
+                prenoit cinquante florins petits ou peu plus ou peu moins sellon la science des
+                dicts maistres. Paradis et enfert merveilleusement somptueux et les apostres
+                estoyent tous abbillés de sattin brun collieur non ressemblant lautre, mais et dune
+                fasson avecques leurs manteaulx et escharpes et les dyables changeoyent d'abbis
+                quasi tous les jours, dont il y en avoit d'abbillés de veloux et sattin ; touchant
+                les joueurs ils firent si très bien et sans faulle la plus belle sillence a force
+                trompetes en nombre de neuf, et instrumens de toutes sortes, orgues, chanteries. Et
+                list Ion la monstre générale le jour de l'Ascension Notre Seigneur, les cloches des
+                églises bauldoyans par la ou l'on passoit et fust entrepris et parachevé quen eurent
+                la totale charge noble Claude Nantel, Jehan de Bourg dict lanciens, Jean Jaillard et
+                moy secretayre quatriesme. Et fust entreprys la Toussaint devant, et y eut une
+                grosse diligence, plaise a Dieu que soit a son honneur et au soulagement de nos
+                âmes. Amen.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Registres consulaires de Vienne de 1506 à 1511, p. 72. Cités
+                  par Giraud, Composition, mise en scène et représentation du mystère des Trois
+                  Doms. Appendice B, p. 1 10</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                        <item>Représentation (matériel pour la -) // Finance : Dépenses</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- D'après les calculs de M. Giraud (Composition, mise en scène et représentation
+                des Trois Doms, p. 111), le florin valait à Romans (ville voisine de Vienne), en
+                1509, 2 fr., 83. L'écu au soleil ou à la couronne valait 3 florins, ou 8fr., 49.
+                Mais si l'on tient compte que la puissance de l'argent est fort diminuée depuis
+                quatre siècles, on peut, comme nous avons fait déjà, décupler ces chiffres pour
+                obtenir approximativement la somme qu'ils représentent actuellement.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

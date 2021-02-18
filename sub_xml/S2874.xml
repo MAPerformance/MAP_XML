@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère du Jugement dernier</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2874">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère du Jugement dernier</title>
+                  </item>
+                  <item>
+                     <date when="1550"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Orléans</settlement>
+                        <region>Loiret/Orléanais</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Orléans</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>47.902964, 1.909251</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Lottin, 1836, t. 1,1. p. 395. – Cuissard, 1879. – Petit de Julleville, 1880, t. 2.
+              p. 157. – Roy, 1902. p. 178. – Chocheyras, 1971. p. 23.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Autorisation sous condition</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Archevêque</item>
+                  <item>Chapitre</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9402"
+                    source="S2874"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>En 1550, l'archevêque de Lyon, qui habitait à Orléans une maison située dans le
+                cloître Sainte-Croix, demanda au chapitre de cette cathédrale la permission de
+                dresser deux échafauds ou jubés, pour y faire représenter par des gens à lui le
+                mystère du Jugement dernier. Cette permission lui fut accordée à condition que
+                toutes choses fussent remises en leur premier état, après la représentation.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

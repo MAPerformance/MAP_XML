@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2877">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1550"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Rouen</settlement>
+                        <region>Seine-Maritime/Haute-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rouen</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>49.443232, 1.099971</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 157 – Gosselin, Recherches sur les
+              origines et l'histoire du théâtre à Rouen, Rouen, 1868, p. 39.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Confrérie de la Passion</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Vers 1550. - Les confrères de la Passion de Paris donnèrent quelquefois des
+          représentations hors de cette ville, absolument comme aujourd'hui les acteurs de la
+          Comédie-Française se transportent en province ou même à l'étranger. Ainsi, par suite d'un
+          arrangement intervenu vers 1550 entre eux et la confrérie établie sous le même nom à
+          Rouen, ils envoyèrent chaque année quelques-uns des leurs jouer la Passion dans celte
+          dernière ville ; naturellement ce service était payé.</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

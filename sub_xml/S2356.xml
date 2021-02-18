@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2356">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1487"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Lyon</settlement>
+                        <region>Lyonnais</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Lyon</placeName>
+                        <placeName type="eccl_province">Lyon</placeName>
+                        <geo>45.764043, 4.835659</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Brouchoud, 1865. p. 13. – Brouchoud, 1865. p. 18. – Petit de Julleville, 1880, t.
+              2. p. 54</bibl>
+                  <bibl type="additional"> Archives de la ville, BB 19, f°50 à 55.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Organisation : Retard</item>
+                  <item>Cause : Troubles politiques</item>
+                  <item>Juridiction : Ecclésiastique</item>
+                  <item>Juridiction : Municipale</item>
+                  <item>Juridiction : Conflit</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Le 12 juillet 1487, deux serviteurs du cardinal de Bourbon, archevêque de Lyon, furent
+          députés auprès des échevins pour les prier de concourir aux frais d'une représentation de
+          la Passion. Les échevins, quoique fort peu favorables, à Lyon, aux jeux du théâtre,
+          accordèrent 30 livres et prirent les mesures de police nécessaires. Mais s'étant ravisés
+          ensuite, le 2 août, ils envoyèrent le procureur général demander à l'archevêque de vouloir
+          bien différer « les cris et monstres du jeu jusqu'à ce que la guerre fût terminée par
+          victoire, ou bonne paix ». Le prélat refusa, en termes assez vifs, de céder au vœu des
+          échevins ; ceux-ci se résignèrent, et se bornèrent à fixer le nombre des habitants chargés
+          de veiller durant les jeux à la garde de la cité. [Brouchoud]
+          http://books.google.nl/books?id=dr0aAQAAMAAJ&amp;pg=PA43&amp;dq=myst%C3%A8re+de+la+passion+lyon+1487&amp;hl=fr&amp;sa=X&amp;ei=y1RST4mFIsKDOvWl_KUK&amp;redir_esc=y#v=onepage&amp;q=myst%C3%A8re%20de%20la%20passion%20lyon%201487&amp;f=false</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

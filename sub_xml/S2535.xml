@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Blaise</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2535">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Blaise</title>
+                  </item>
+                  <item>
+                     <date when="1510"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Laval</settlement>
+                        <region>Mayenne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Le Mans</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>48.077863, -0.770138</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Piolin, 1858. p. 63. – Piolin, 1861, t. 5. p. 239. – Petit de Julleville, 1880, t.
+              2. p. 99.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Cause : Maladie</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Piolin dit Pissanesse, Petit de Julleville Avesnière. - Le mystère de saint Blaise
+          fut joué en présence du comte de Laval ; la représentation dura quatre jours; une
+          coqueluche épidémique et dangereuse se déclara pendant les jeux.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8125"
+                    source="S2535"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Par lieux fust joué misteres, Et mesmement en Avenieres, Le mystère monsieur Sainct
+                Blaise A volée, ou fust chacun aise Pour l'espace de quatre jours, Ou monsieur en
+                vit tout le cours. Mais durant le jeu, sans que huche, Descendit une coqueluche Du
+                pais d'amont juc a ce val, Qui nous fist souffrir moult de mal ; Et prenoit en la
+                teste et rains Tant que par terre en jecta maints ; Et des tirans joue le quart,
+                Combien que du mal eu ma part.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Le Doyen, 1839. p. 133.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Petit de Juleville met en note que monsieur est le duc, mais juste avant dit
+                que c’est le comte de Laval. Nous conservons la seconde option, conforme à celle de
+                Piolin.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

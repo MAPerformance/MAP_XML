@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Farce d’Hipocrisie, Faintise et Faux-semblant</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2069">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Farce d’Hipocrisie, Faintise et Faux-semblant</title>
+                  </item>
+                  <item>
+                     <date from="1444" to="1445"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Troyes</settlement>
+                        <region>Aube/Champagne</region>
+                        <country/>
+                        <placeName type="bishopric">Troyes</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.296592, 4.074735</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Vallet de Viriville, 1841-1842. p. 451. – Petit de Julleville, 1886.
+              p. 330.</bibl>
+                  <bibl type="additional"> Boutiot, « Recherches sur le théâtre à Troyes ». Mémoires de la
+              Société d'Agriculture, des Sciences, Arts et Belles-Lettres de l'Aube, 1854.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Représentation (farce)</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Saints Innocents</item>
+                  <item>Circoncision</item>
+                  <item>Dimanche</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Evêque</item>
+                  <item>Chanoine</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Eglise</item>
+               </list>
+               <note>1444 ou 1445 ? - On voit qu’en l’année 1444, les chanoines de Saint-Etienne, avec ceux
+          de Saint-Urbain, au jour de la fête de Innocens et à celle de la Circoncision de N. S.,
+          prenoient le plaisir de déguisemens et faisoient des farces aux quelles se trouvoit une
+          foule de spectateurs, et le dimanche dans l’Octave de la Circoncision, les chanoines de
+          Saint-Pierre, accompagnés de ceux des dites deux églises collegiales, déguisés de
+          différentes manières d’habits, se réjouissoient ensemble, la veille, le jour et le
+          lendemain de cette fête. Le lieu le plus commun et le plus fréquenté de la ville étoit
+          celuy qu’ils choisissoient pour être vus du peuple qu’ils faisoient assembler au son de la
+          trompette et du clairon, et, sur de hauts échafauts qui étoient dressés à cet effet, ils
+          paroissoient vêtus comme des rois ou de princes et y faisoient des jeux de bouffoneries.
+          Parmi les personnages qu’ils avoient, il y en avoit trois qui se nommoient Hipocrisie,
+          Faintise et Faux-semblant. Ils se livroient à tout ce qui est capable de faire rire et
+          parmis leur plaisanteries, ils censuroient et injurioient à mots couverts l’évêque et
+          quelques personnes notables de la dite église.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7514"
+                    source="S2069"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>En 1445, à Troyes, la fête des Fous, interdite depuis sept ans, par la Pragmatique
+                sanction de Charles VII (1438) fut renouvelée bruyamment sous prétexte que la
+                Pragmatique était ou allait être abolie. La fête dura plusieurs jours, dans
+                l'église, avec beaucoup de scandale, et le dimanche après la Circoncision (3 janvier
+                1445), « ceux des chapitres de Saint-Pierre, de Saint-Etienne et de Saint-Urbain,
+                non contents, des excès qu'ils avaient fait la veille, le jour et le lendemain de la
+                fête, firent assembler, à son de trompe, le peuple de la ville, au lieu le plus
+                fréquenté, et, sur de hauts échafauds, firent un certain jeu de personnages,
+                vitupérant et injuriant tacitement l'Evêque et les plus notables de la cathédrale,
+                qui avaient en vertu de la Pragmatique demandé la suppression de la fête. Il y avait
+                en ce jeu notamment trois personnages qui se nommaient Hypocrisie, Feintise et
+                Faux-Semblant, que les assistants jugèrent être l'Evêque et deux des chanoines qui
+                avaient voulu empêcher la fête ; ce dont les gens d'entendement furent mécontents et
+                scandalisés. Et de plus, et qui pis est, ceux qui faisaient le jeu, disaient aucunes
+                paroles erronées et qui sentaient mal en la foi. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Vallet de Viriville, 1841-1842. p. 451 – *Petit de Julleville, 1886.
+                  p. 330</bibl>
+                        <bibl type="additional"> Duhalle, cf. ref. dans l’article précédent.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Description : Représentation</item>
+                        <item>Contrôle : Evêque</item>
+                        <item>Contrôle : Chanoine // Interdiction (tentative d'-)</item>
+                        <item>Concile de Bâle (pragmatique sanction) // </item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

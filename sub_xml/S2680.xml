@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moralité des Peines d’enfer</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2680">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Moralité des Peines d’enfer</title>
+                  </item>
+                  <item>
+                     <date when="1530"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Andouillé</settlement>
+                        <region>Mayenne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Le Mans</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>48.178596, -0.794220</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Piolin, 1858. p. 69. – Piolin, 1861, t. 5. p. 240. – Petit de Julleville, 1880, t.
+              2. p. 116.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Ce titre paraît désigner une moralité plutôt qu'un mystère. [Petit de Julleville] -
+          Pièce connue sous le nom de Grande Diablerie. Représentations à Saumur, Doué,
+          Montmorillon, Langeais, Saint Espain, Angers, Saint Maixent et Poitiers. Le texte est de
+          Eloi d’Amernai, qui explique comment il a conçu le poème (cf. doc).</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8266"
+                    source="S2680"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Aussi que ne soys trop broullié, Les paynes d'enfer, Andoullié. Ou avoit moult
+                grant diablerie Qui firent moult grant ullerye.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Le Doyen, 1839. p. 227.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8267"
+                    source="S2680"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Un jour, étant couché dans ma chambre, il me sembla qu'on me transportait aux
+                portes des enfers, et que j'entendais Satan qui conversait familièrement avec
+                Lucifer, et lui racontait toutes les ruses qu'il employait pour tenter les
+                chrétiens : car pour les hérétiques et les infidèles, comme ils me sont dévoués, je
+                ne m'en embarrasse guère. Le diable, croyant n'être entendu de personne, découvrait
+                à son maître toutes ses ruses sans déguisement. Et lorsque je fus de retour chez
+                moi, je pris promptement une plume, de l'encre et du papier, et m'atant mis à
+                écrire, je couchai sur le papier, non tout ce que j'avais entendu, mais seulement ce
+                que ma faible mémoire avait pu retenir, afin que les chrétiens, instruits des tours
+                de Satan, puissent les prévenir et les éviter.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">- Les frères Parfaicts, Histoire du théâtre français,
+                  t. III, pp. 98-103, le comte de Douhet, Piolin, 1858.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Motif : Enseignement</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

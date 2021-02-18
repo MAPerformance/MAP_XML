@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion et de la Résurrection</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2725">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion et de la Résurrection</title>
+                  </item>
+                  <item>
+                     <date when="1534"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Saumur</settlement>
+                        <region>Maine-et-Loire/Anjou</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Angers</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>47.260135, -0.080893</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 125 – Du Fail, Propos rustiques, ch.
+              xiv. (Biblioth. elzévir.,t. I, p. 131, ou édit. Arth. de la Borderie, p. 175.)</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Ces mystères furent représentés à Saumur trois semaines après la représentation de
+          Poitiers ; on y vit « d'excellentes fainctes ». Les épitres familières de Jean Bouchet
+          renferment quelques détails intéressants concernant cette représentation. L'épître LXXXIX
+          est adressée à maistre Thomas le Prévost (de Rouen), ordonnateur des jeux de Saumur; où on
+          l'avait fait venir tout exprès de sa province. Jean Bouchet y parle (cf. doc). - Nous
+          avons dit ailleurs l'importance du facteur dans une représentation de mystère. Le facteur,
+          ou metteur en œuvre, accommodait aux circonstances et aux nécessités locales un texte
+          composé en vue d'une autre représentation et pour une autre ville. Un bon facteur
+          s'estimait très haut. Les gens de Saumur avaient été chercher Prévost jusqu'en Normandie,
+          pour l'amener à Saumur, sans doute à grands frais. - Au reste, cette représentation de
+          Saumur paraît avoir fourni matière à plus d'une plaisanterie. Noël du Fail, dans ses
+          Propos rustiques parle de la « passion de Saumur, ou les femmes des anges aimèrent les
+          dyables », faisant, à ce qu'il semble, allusion à quelque aventure galante arrivée parmi
+          les acteurs du mystère. Dans Rabelais, Panurge s'écrie quelque part : « Il m'est advis que
+          je joue encores le Dieu de la Passion de Saulmur, accompagné de ses anges et chérubins. »
+          La Passion de Saulmur était ainsi passée en proverbe. Nous pensons qu'il faut rapporter à
+          la représentation de 1534 une amusante anecdote, racontée par Guillaume Bouchet dans les
+          Serées : cf. doc 2.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8309"
+                    source="S2725"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>De ceulx lesquelz joueront la Passion Tant a Poictiers qu'a Saulmur ceste année Si
+                la saison n'est par Mars condamnée… On m'avoit dit que messieurs de Saulmur Pour de
+                leur jeu droisser un avant-mur, Avoient trouvé facteur en Normandie, Sçavant,
+                expert, et de science hardie, Dont a Poictiers estoit grant le renom. C'est toy,
+                Prevost, duquel n'ay sceu le nom Jusqu'aujourd'huy, après ta lettre veue, Monstrant
+                assez ta personne pourveue De grans savoirs, et plus qu'on n'en disoit, Jaçoit que
+                Famé un grand bruyt en faisoit… Après qu'aurons mis fin aux entreprinses. Ou nous
+                devons nous garder de surprinses, J'entends de ceulx qui ne prennent plaisir A telz
+                esbatz, venans de sainct désir, Car difficil sera de si bien faire Que l'envieux n'y
+                contreuve un forfaire. Tu es en lieu de gens de bien remply, Gens de vertuz, pays
+                bien accoraply, Gens de scavoir et de magnificence, Gens liberaulx et de
+                munificence ; Et si seras par culz recompensé De tes labeurs, mieulx que tu n'as
+                pensé.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                        <item>Recrutement</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8310"
+                    source="S2725"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Une personne de la compagnie va nous conter qu'il avait veu jouer la Passion a
+                Saulmur ou il y a encore quelque reste de théâtre ancien, et qu'entre autres choses
+                fort singulières qu'il avoit remarquées en ces jeux, c'estoit que le paradis esloit
+                si beau a cause de l'excellence de la peinture que celuy qui l'avoit fait, se
+                vantant de son ouvrage, disoit a tous ceux qui admiroient ce paradis : « Voila bien
+                le plus beau paradis que vous vistes jamais ne que vous verrez. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Guillaume Bouchet, sérée 28e.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                        <item>Description : Décor</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

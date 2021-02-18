@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bien avisé</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3567">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Bien avisé</title>
+                  </item>
+                  <item>
+                     <date from="1455" to="1458"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Nantes</settlement>
+                        <region>Loire-Atlantique/Bretagne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Nantes</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>47.218371, -1.553621</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9699"
+                    source="S3567"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Supplie luy estre fait roison des paines et travaulx que il eut et soustint aux
+                jeuz de Bien advisé et mal advisé, que le duc et la ville firent joer dernierement
+                ou Bouffay de ceste dite ville, tant pour fere fere la roe de fortune, pour fere
+                charréer le boays d'icelle et grand nombre de clays et de boays, et autres plusieurs
+                choses à faire les chauffaulx tant pour les joeurs que pour le peuple qui estoit à
+                veoir lesdits jeuz, où il alla et envoya par plusieurs et diverses foiz et y fist de
+                grandes diligences, qu'il plaese à mesdits seigneurs des comptes en ordonner à leur
+                bon plaesir. Il en lui est pour ce passé aucune chose, pour ce que lesdites choses
+                sont et consernent le fait de la ville, à l'occasion de quoy les gaiges sont
+                ordonnés audit miseur… Ensuyvent les mises faictes pour le fait du mistére de Bien
+                advisé et mal advisé tant pour matières, ouvriers, que pour autres choses ainsi
+                qu'il ensuist, quel fut joé devant le duc et la duchesse. Pour une douzaine estam
+                vert et doré pour la goulle d'enfer, 2 s 6 d. Pour deux grandes peaux de parchemin
+                et deux cordes de bocau pour faire le tonnerre, 3 s 9 d. Pour deux livres rouzine à
+                faire sortir le feu par les nazeaux de ladite goulle, 16 d. Pour un cent de queues
+                de vaches à mettre sur la goulle, 5 s. Pour 7 linceulx à 5 s chacun, 5 touailles à 3
+                s 4 d chacune mis à faire ladite goulle les orailles et les cornes, 51 s 8 d A Louis
+                Blanchart et son père pour la façon de ladite goulle, et icelle avoir painte et
+                fourny et mis autres choses qui y failloint, 112 s 11 d. Pour l'empirement de quatre
+                bourgrains noirs, pour tandre devant l'enfer, queulx furent rompuz et souillez, 20
+                s. Pour pain et vin aux clerons du duc, durant les deux jours dudit mistère, 5 s 4
+                d. Somme des mises pour le mistère, 100 l 19 s 4 d. — Autres mises faictes quant le
+                duc fist tirer la bombarde, quelle tira deux fois et les cannons de la ville. A
+                celui qui bouta le feu par deux foiz à la bombarde, 5 s. A Jehanin Laloyau,
+                canonnier, pour 22 livres de sa pouldre de canon qu'il bailla pour ce que elle
+                estoit meilleure que celle de la ville pour faire tirer la bombarde, à 3 s la livre
+                66 s. Somme toute, 10 l 16 s 10 d. — Mises faites pour l'entrée du duc (Arthur III,
+                connétable de France), qui fut le XVe jour de novembre 1457. Pour sept trézaines
+                fouace pour les dressouers, à 2 s la trézaine, 14 s. Pour deux livres dragées pour
+                deux dressouers, à 8 s 4 d la livre, 16 s 8 d. — Pour ung présent de poisson donné à
+                mestre Pierre Chauvin, à son disgner, pour ce qu'il avoit fait la harangue devant le
+                duc pour la ville. Et fut baillé ledit poisson par commandement de Guillaume Pero
+                procureur du duc, Guillaume de Montigné, procureur de la ville, Jamet Thomas et
+                autres, quel poisson cousta 21 s 2 d. Somme de l'entrée du duc 31 l 3 s 6 d 42.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

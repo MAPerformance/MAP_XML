@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Sainte Barbe</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2707">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Sainte Barbe</title>
+                  </item>
+                  <item>
+                     <date when="1533"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Limoges</settlement>
+                        <region>Limousin</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>45.833619, 1.261105</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 120.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Le Mystère de Théophile suit le mystère de Sainte Barbe, Limoges, 1533.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8290"
+                    source="S2707"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>au mois d'aoust au dit an (1533) fust représanté le mistere de sainte Barbe par
+                personnages</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Annales manuscrites de Limoges, dites Manuscrit de 1638
+                  (Limoges, 1873, p. 324)</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8291"
+                    source="S2707"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Pour amplier et décorer les dictes ostensions et esmouvoir le peuple a dévotion,
+                furent jouez par grant appareil le mistere de sainte Barbe et de Théophile par
+                personnaiges, durant IX journées .</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Registres consulaires de Limoges. (Limoges, 1867, t. I,
+                  p. 226).</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

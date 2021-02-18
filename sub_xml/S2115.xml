@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moralité de Notre Dame</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2115">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Moralité de Notre Dame</title>
+                  </item>
+                  <item>
+                     <date when="1453"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Bouafles</settlement>
+                        <region>Eure/Haute-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Evreux</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>49.210024, 1.385689</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Gosselin, 1868. p. 19. Petit de Julleville, 1880, t. 2.
+              p. 29.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Pluralisme juridique</item>
+                  <item>Sujet : Ecritures saintes</item>
+                  <item>Procès</item>
+                  <item>Juridiction : Conflit</item>
+                  <item>Juridiction : Ecclésiastique</item>
+                  <item>Juridiction : Municipale</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Chapelain</item>
+                  <item>Prêtre</item>
+                  <item>Clerc-acteur</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>A Bouaffles (près Vieux-Rouen, Seine-Inférieure, doyenné de Beaudemont), le sieur de
+          Vieux-Pont joua, ou fit jouer, en 1452, les « Miracles de Notre-Dame » ; - La pièce ainsi
+          vaguement désignée, « les Miracles de Notre-Dame », fut probablement quelqu'une des pièces
+          que nous avons étudiées sous ce titre ou bien une œuvre analogue. Nous n'avons aucun
+          renseignement sur ce point. [Petit de Juleville] - Garnot donne la représentation en 1453,
+          en citant précisément la cote : il semble qu’il y ait erreur de la part de Gosseelin, et
+          donc Julleville, qui datent la représentation de 1462.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7557"
+                    source="S2115"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>En 1453, une moralité a lieu dans un village du Vexin, Bouafles (Eure, canton des
+                Andelys), avec l’autorisation de la justice séculière ; un chapelain voisin, qui a
+                tenu un rôle de bouffon, se voit condamné à une lourde amende de quarante francs, et
+                le desservant du lieu, qui a trouvé le texte, l’est à quinze francs. Le sujet de la
+                pièce n’est ici pas en cause, car il s’agit d’un « miracle de Notre Dame » ; mais la
+                cour n’avait pas donné auparavant son accord, ni examiné le texte. _____ Le Sieur de
+                Vieux-Pont avait négligé de se munir d'une autorisation de l'official, se croyant
+                suffisamment couvert par celle qu'il tenait du pouvoir séculier. Sa négligence fut
+                punie par deux jours d'emprisonnement. Il aurait dû « soumettre le livre à l’examen
+                de l’official ». [Gosselin/Julleville]</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Garnot, 1995. p. 45</bibl>
+                        <bibl type="additional"> ADSM, G 260, f°38v.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Jugement ecclésiastique</item>
+                        <item>Autorisation accordée</item>
+                        <item>Cause : Statut de clerc</item>
+                        <item>Clerc (statut de -)</item>
+                        <item>Représentation (manuscrit de la -) // Condamnation : Amende</item>
+                        <item>Autorisation sous condition</item>
+                        <item>Condition : Censure // </item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

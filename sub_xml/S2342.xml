@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2342">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1485"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Tours</settlement>
+                        <region>Indre-et-Loire/Touraine </region>
+                        <country>France</country>
+                        <placeName type="bishopric">Tours</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>47.394144, 0.684840</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 49.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Reine</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7925"
+                    source="S2342"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Quinze livres treize sols neuf deniers tournois (furent) donnés le 30 jr de juil.
+                1485 pour le louaige de deux, eschafaulx ou estoient les dames, damoiselles,
+                gentilshommes et officiers de ladicte dame a voir jouer la Passion a Tours.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Jal, Dictionnaire critique au mot Passion, p. 942 – Archives
+                  Nat. Argenterie de la Reine, 1484, KK. 80, f° 81, v°.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Location de places</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- « La dicte dame » était Marguerite d'Autriche, fille de Maximilien, alors âgée
+                de cinq ans et demi et fiancée à Charles VIII, qui ne l'épousa pas.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

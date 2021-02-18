@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Vengeance de Notre Seigneur</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2075">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Vengeance de Notre Seigneur</title>
+                  </item>
+                  <item>
+                     <date when="1446"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Amiens</settlement>
+                        <region>Somme/Picardie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Beauvais</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.894067, 2.295753</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 18</bibl>
+                  <bibl type="additional"> Dusevel, Histoire d’Amiens, p. 295 – Louandre, Histoire
+              d’Abbeville, p. 318.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7526"
+                    source="S2075"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>«Quant au fait des jeux de la Vengence qui doivent estre fais les festes de
+                Penthecoustes prochain venans, ung hourt sera fait des deniers de la ville, comme
+                l'annee passee que l'on joua la Passion Nostre Seigneur, et la despence se fera
+                raisonnablement par mesd. seigneurs en leurd. hourt; et aussi ont ordonné que les
+                portes seront closes, excepté les portes de Montrescu et de Beauvais, durant les
+                quatre jours que l'on jouera, les compaignons des II XIIe yront par la ville pour
+                entendre que aucun inconvenient n'y aviegne» … «Pour la Vengeance, sur ce que Thite,
+                Neron, Othe, Vaspasien, pareillement Cayphas, Zoroabel et generalement tous les
+                aliez qui ont intention de juer avoient presenté en l'eschevinage une supplication
+                contenant que on leur vaulsist donner des deniers de la ville aucune chose pour
+                supporter les frais qu'ilz aroient aud. jeu». Les échevins décident qu'on leur
+                donnera une somme « sur les deniers qui sont en depost touchant les aides pour le
+                fait de la question estant entre les evesque et chappitre d'Amiens et lad. ville.
+                Mesd. seigneurs sont d'accort que desd. deniers soit baillie et delivré par Înaistre
+                Jean de Wailie en la main des supplians la somme de C livres, comme l'annee passee
+                ilz eurent pour le jeu de la Passion».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Runnalls, 2003. p. 259</bibl>
+                        <bibl type="additional">AMA, BB6, f°5.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

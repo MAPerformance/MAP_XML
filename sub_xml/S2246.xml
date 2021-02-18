@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de l’Incarnation et de la Nativité de Jésus Christ</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2246">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de l’Incarnation et de la Nativité de Jésus Christ</title>
+                  </item>
+                  <item>
+                     <date when="1474"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Rouen</settlement>
+                        <region>Seine-Maritime/Haute-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rouen</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>49.443232, 1.099971</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Gosselin, 1868. p. 20. – Petit de Julleville, 1880, t. 2. p. 36.</bibl>
+                  <bibl type="additional">- Le Verdier, Pierre (1854-1935), Mystère de l'Incarnation et
+              Nativité de nostre Sauveur et Rédempteur Jésus-Christ, représenté à Rouen en 1474,
+              publié d'après un imprimé du XVe siècle, avec introduction, notes et glossaire,, Rouen
+              (E. Cagniard), 1884-1886 - Fanger, Iris Mandel, The Theatrical production of the
+              Mystère de l'Incarnation et Nativité Nostre Sauveur et Redempteur Jesus-Christ at
+              Rouen, 1474. Ph.D. Tufts University, Tufts University (Ann Arbor, Mich.), 1972. -
+              Handschin, Jacques (1886-1955), "Das Weihnachts-Mysterium von Rouen als
+              musikgeschichtliche Quelle", in Acta Musicologica, 1935. - Cohen, Gustave (1879-1958),
+              "Le personnage de saint Joseph dans le Mystère de l'Incarnation et de la Nativité
+              (Rouen, 1474)", in Cahiers de Joséphologie, 6 (1958), p. 37-76, Le personnage de saint
+              Joseph dans le Mystère de l'Incarnation et de la Nativité (Rouen, 1474) éd,
+              1958.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Nativité</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Place publique</item>
+               </list>
+               <note>Cette représentation, donnée en plein hiver dans une province du nord, est un fait
+          exceptionnel. [Petit de Juleville] - En plus des documents de Pettit de Juleville,
+          Gosselin donne une grosse description de la scène. La représentation a demandé 10 mois de
+          travail et a duré deux jours. - Il manque les délibérations de l’hôtel de ville de cette
+          époque (1471-1491), on n’en sait donc peu.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7705"
+                    source="S2246"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Ensuit lincarnacion et nativité de nostre saulveur et redempteur Jesuchrist.
+                Laquelle fut monstrée par personnaiges ainsi que cy après est escripte l'an mil
+                cccclxxiiii (1474) les festes de Noel en la ville et cité de Rouen dedens le neuf
+                marchié. Et estoient les establies assises en la partie septentrionale diceluy
+                depuis Ihostel de la hache couronnée i sques en Ihostel ou peut lenseigne de lange.
+                Second l'ordre déclaré en la fin de ce codicille. Mais les establies des six
+                prophetes estoient hors des autres en diverses places et parties diceluy neuf
+                marchié.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Petit de Julleville, 1880, t. 2. p. 36</bibl>
+                        <bibl type="additional">Au verso du titre de l'unique édition imprimée on lit la
+                  note suivante.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                        <item>Description : Décor</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7706"
+                    source="S2246"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Ensuit l'ordre comment estoient faictes les establies. Premierement vers orient.
+                Paradis, ordonné comme il est dessus dit au feuillet vingt neufième. […] La maison
+                des parens nostre dame. Son oratoire. La maison de Elizabeth en montagne. Le logis
+                de Symeon. Le temple Salomon. Le demeure des Pucelles. L'ostel de Gerson scribe. Le
+                lieu du peuple payen. Le lieu du peuple des Juifz. Le lieu de Joseph et de ses deux
+                cousins. La crache es boeufs. Le lieu ou l'en reçoit le tribut. Le champ aux
+                Pasteurs contre la tour Ader. Le chasteau de Sirin prevost do Syrie. Le temple
+                Apollin. La maison de Sibile. Le logis des princes de la synagogue. La chambre de
+                l'empereur. Le throsne d'icelluy. La fontaine de Romme. Le Capitole. Enfer faict en
+                maniere d'une grande gueulle se cloant et ouvrant quant besoing en est. Le Limbe des
+                Peres fait en maniere de chartre et n'estoient veus sinon au dessus du faulx du
+                corps. Les places des prophetes en divers lieux hors des autres.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">A l’avant dernier feuillet (227) de l'unique édition
+                  imprimée on lit la note suivante.</bibl>
+                        <bibl type="additional"> Les mystères, t. II, p. 36.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Description : Décor</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Les différents lieux terrestres se rapportent à quatre villes distinctes dont
+                les noms sont écrits en marge : Nazareth, Hiérusalem, Bethléem et Romme. En tout
+                vingt-quatre lieux divers (non compris les échafauds des prophètes) servaient à la
+                représentation du mystère de l'Incarnation et de la Nativité. On sait que les plus
+                grands mystères, le Vieux Testament, la Passion, les Actes, exigèrent un nombre de
+                lieux beaucoup plus considérable. [Petit de Julleville]</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7707"
+                    source="S2246"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Et est paradis ouvert fait en maniere de throne et reons de tout en tour. En milieu
+                duquel est Dieu en une chaiere paree et au costé destre de lui paix et soubz elle
+                misericorde. Au senestre justice et soubz elle vérité, et tout autour d'elles ix
+                ordres danges les ungs sur les autres.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Au feuillet 29 de l'unique édition imprimée on lit la note
+                  suivante.</bibl>
+                        <bibl type="additional"> Les mystères, t. II, p. 36.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Description : Décor</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Sir et sainte Julienne</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2144">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Sir et sainte Julienne</title>
+                  </item>
+                  <item>
+                     <date when="1459"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Alençon</settlement>
+                        <region>Orne/Basse-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Sées</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>48.432856, 0.091266</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Piolin, 1891. p. 114.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Dimanche</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- joué aussi à Laval en 1469. - mystère connus grâce à un vol ayant eu lieu pendant la
+          représentation. - cf. Sainte Julienne, Nuillé-sur-Vicoin (Mayenne), 1598</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7584"
+                    source="S2144"
+                   
+                   
+                   >
+                  <head>Acte de rémission de Charles VII, Saumur (?), octobre 1459.</head>
+                  <div type="transcription">
+                     <p>L'année suivante, le dimanche 14 octobre 1459, des habitants de Loupfougères
+                quittèrent leur demeure et se rendirent à Alençon pour « veoir jouer le Minière de
+                saint Sir et de sainte Julienne qui ledit jour se jouait à Alençon ». Ils avaient
+                confié la garde de la maison à Jean Chaillon, leur serviteur, natif de « Loupfougère
+                près Villaine-la-Juhès », et en cela ils avaient été fort mal avisés. Profitant de
+                l'absence de ses maîtres, le domestique les vola, ce « afin de pouvoir se marier »,
+                mais mal lui en prit, car la justice mit la main sur lui ; reconnu coupable de vol
+                domestique et d'abus de confiance, il allait expier son méfait par la corde,
+                lorsqu'il eut recours à la clémence du roi Charles VII, qui lui accorda un acte de
+                rémission daté de Chinon et du même mois d'octobre 1459.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Piolin, 1891. p. 114</bibl>
+                        <bibl type="additional">Acte de rémission de Charles VII : Arch. nat. JJ. 188, fol.
+                  93r.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

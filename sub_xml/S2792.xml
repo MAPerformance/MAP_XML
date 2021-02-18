@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère des Actes des Apôtres</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2792">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère des Actes des Apôtres</title>
+                  </item>
+                  <item>
+                     <date when="1541"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Tournai</settlement>
+                        <region>Wallonie/Hainaut</region>
+                        <country>Belgique</country>
+                        <placeName type="bishopric">Tournai</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>50.607234, 3.392589</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Juridiction : Municipale</item>
+                  <item>Juridiction : Coopération</item>
+                  <item>Juridiction : Ecclésiastique</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8362"
+                    source="S2792"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Jehan Sénéchal et autres « joueurs des actes des apostoles » s’adressent aux
+                Consaux pour demander que Pierre du Cambge et François de Bargibant soient désignés
+                pour faire « visiter leur jeu par gens doctes et sçavans, afin que le tout soit bien
+                fait en l’honneur d’un chacun et qu’il n’y ait quelque murmure ». Ils demandent
+                également un certain nombre de cloyes (cloisons mobiles). On leur en accorde trois
+                douzaines moyennant caution. </p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Autorisation accordée</item>
+                        <item>Censure</item>
+                        <item>Contrôle : Bourgeois</item>
+                        <item>Organisation : Prêt de matériel</item>
+                        <item>Condition : Caution</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Les deux mandatés sont des bourgeois. Cf. Artistes et gens de lettres à
+                Valenciennes à la fin du Moyen âge (vers 1440-1507), p. 43 entre autres. - A relier
+                à la demande de contrôle mentrionné à la même page par Bozière.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

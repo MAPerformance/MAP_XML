@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2861">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1549"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Tournai</settlement>
+                        <region>Wallonie/Hainaut</region>
+                        <country>Belgique</country>
+                        <placeName type="bishopric">Tournai</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>50.607234, 3.392589</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pâques</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Maison</item>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8432"
+                    source="S2861"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Aux festes de Pasques ensuivant que l’on comptoit mil cincq cens et quarante noef,
+                furent commenchez en la maison de Paul le Renteur, maisrenier, demeurant en la
+                paroische Saincte Marguerite audict Tournay, les jeulx de la Passion de nostre
+                benoist saulveur et redempteur Jhesuschrist, en champ real, dont furent
+                entreprendeurs et maistres principaulx Calixte Frayere, procureur praticquant, Jehan
+                Talleman, marchant, maistre Robert d’ Alenson, Hercules Clement, Paul Teureau et
+                Pasquier de le Barre, lesquels avoient encorres avoecq eulx aultres comparchonniers
+                et compaignons pour ayder a frayer et desbourser les mises necessaires desdicts
+                jeulx.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Lavéant, 2007. p. 456</bibl>
+                        <bibl type="additional"> Pasquier de le Barre, Journal (éd. G. Moreau), op. cit., p.
+                  328-331.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

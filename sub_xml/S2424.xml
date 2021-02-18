@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Nicolas</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2424">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Nicolas</title>
+                  </item>
+                  <item>
+                     <date when="1496"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Nancy</settlement>
+                        <region>Lorraine</region>
+                        <country/>
+                        <placeName type="bishopric">Toul</placeName>
+                        <placeName type="eccl_province">Trèves</placeName>
+                        <geo>48.692054, 6.184417</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Lepage, 1848. p. 209. – Petit de Julleville, 1880, t. 2. p. 66.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Représentation (mystère)</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8009"
+                    source="S2424"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>échafaud dressé au château de Nancy « pour le roy regarder juer le jeu que l'on fit
+                en la salle Saint-Nicolas ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">comptes du Célerier de Nancy pour les années 1495-96</bibl>
+                        <bibl type="additional"> Les mystères, t. II, p. 66 – Lepage, Etudes sur le théâtre
+                  en Lorraine, p. 209.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (matériel pour la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8010"
+                    source="S2424"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Baillé et délivré par le celerié pour la despense du jeu et feste de monsieur saint
+                Nicolas que monseigneur a fait jouer durant les festes de Pentechoste, a Nicol le
+                boulangier de Nancy, pour cuyre en pain, seize resaux de blé.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Lepage, 1848. p. 209 – Petit de Julleville, 1880, t. 2. p. 66.</bibl>
+                        <bibl type="additional"> comptes du Célerier de Nancy pour les années 1496-97</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Capacité économique</item>
+                        <item>Finance : Salaire</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

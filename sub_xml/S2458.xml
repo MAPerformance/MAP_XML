@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Quentin</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2458">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Quentin</title>
+                  </item>
+                  <item>
+                     <date when="1501"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Saint-Quentin</settlement>
+                        <region>Aisne/Picardie</region>
+                        <country/>
+                        <placeName type="bishopric">Noyon</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.847066, 3.287400</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 84. – Grenier, 1856. p. 406.</bibl>
+                  <bibl type="additional">Aug. Virom., p. 430 .</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Entrée</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Carrefour</item>
+                  <item>Basilique</item>
+               </list>
+               <note>- On avait élevé dans les carrefours des théâtres où fut représentée la légende de
+          Saint Quentin, peut-être sans paroles ou tout au plus par fragments ; car le mystère de
+          Saint Quentin, tel que nous le possédons, renferme vingt mille vers. Dans le doute, nous
+          mentionnons cependant cette représentation. L'historien Claude Hémeré, qui la rapporte,
+          semble attester l'existence de représentations périodiques du même mystère, données à
+          Saint-Quentin en l'honneur du patron de cette ville. Il parle du long poème « qui servait
+          à ses compatriotes pour les représentations de la vie de Saint Quentin; lesquelles avaient
+          lieu sur des théâtres élevés dans les places publiques (in compitis erecta theatra) en
+          trois ou même en quatre journées ». - Lecocq (p. 90) le dit joué dans la basilique.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8042"
+                    source="S2458"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Claude Hémeré parle du long poème « qui servait à ses compatriotes pour les
+                représentations de la vie de Saint Quentin; lesquelles avaient lieu sur des théâtres
+                élevés dans les places publiques (in compitis erecta theatra) en trois ou même en
+                quatre journées ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>L'historien Claude Hémeré, qui la rapporte, semble attester l'existence de
+                représentations périodiques du même mystère, données à Saint-Quentin en l'honneur du
+                patron de cette ville. </note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

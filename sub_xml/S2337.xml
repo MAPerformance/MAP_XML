@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2337">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1485"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Gruyères</settlement>
+                        <region>Fribourg</region>
+                        <country>Suisse</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.581500, 7.076270</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Dellion, 1893, t. 7. p. 59. – Aebischer, 1972. p. 172.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Place publique</item>
+               </list>
+               <note>- Il paraît qu'on avait dressé un théâtre sur une place publique pour célébrer ce
+          mystère. [Deillon]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7920"
+                    source="S2337"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Délivré des despens pour ceulx de Villard quand ilz amenarent les lans de Monsgr de
+                Gruyère pour faire les loges, 26 sols (les tribunes ou les échafaudages) quant lon
+                reprint laz passion, pour le gouteiz des jeux 6 sols, pour le goteis de domp Jehan
+                de Villard, de Mr Pierre Syavozet de Pierre dou Pont, quant il vynirent pour la
+                passion 2 gros. Pour le goteisde frère Pain d'Avene (Paindavoine), Pierre de
+                Cleriez, du chatellain de Corbière 2 gros 6 deniers. » Suivent des journées de
+                charpentiers, la dépense du moine de Broc qui peignit les habillements avec deux
+                ouvriers. On paya leur dîner et leur souper pendant une partie du Carême.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Dellion, 1886, t. 5. p. 59.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Construction des loges</item>
+                        <item>Finance : Salaire en nature // Organisation : Fabrication des costumes</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7921"
+                    source="S2337"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Quand on joyaz le monde pour laz chère (chaire) et on a pris pour le diable 4 gros
+                6 deniers. A Pierre de Cleriez pour faire apporter des verges pour la gorge d'enfert
+                (le trou de l'enfer)... Pour les fert (les chaînes ?) pour la passion. » Suit une
+                longue liste de journées de charpentiers.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Dellion, 1886, t. 5. p. 59.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

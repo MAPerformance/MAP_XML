@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Maclou</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S1966">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Maclou</title>
+                  </item>
+                  <item>
+                     <date when="1408"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Bar-sur-Aube</settlement>
+                        <region>Aube/Champagne</region>
+                        <country/>
+                        <placeName type="bishopric">Troyes</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.231209, 4.707771</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 8. – Vallet de Viriville, 1841. p. 329. –
+              Vallet de Viriville, 1841-1842. p. 450</bibl>
+                  <bibl type="additional"> Henry Rey-Flaud, p. 280.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Saint patron</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Trinité</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Doyen</item>
+                  <item>Chanoine</item>
+                  <item>Bourgeois</item>
+                  <item>Evêque</item>
+                  <item>Clerc-acteur</item>
+                  <item>Clercs et laïcs</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Place publique</item>
+               </list>
+               <note>En 1408, l'évêque de Langres accorda aux doyen et chanoines de Saint-Maclou, de
+          Bar-sur-Aube, la permission de se joindre à quelques bourgeois de la ville pour « exposer
+          et réciter avec diversité de costumes et de personnages », sur les places publiques, la
+          vie et les miracles de leur patron. L'évêque permettait même qu'on célébrât une messe
+          solennelle sur un autel portatif érigé au lieu où devait se faire la représentation. Le
+          tout sous réserve des précautions à prendre pour qu'il n'en résultât nul scandale ou
+          dommage à la foi. Le jeu devait durer deux journées et se célébrer après la Trinité, le
+          lendemain et le surlendemain ou le plus tôt possible; l'évêque permettait l'usage du latin
+          ou du français. Il était nettement dit dans la lettre épiscopale que la représentation
+          aurait lieu « pour l'honneur et louange du saint ».</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7388"
+                    source="S1966"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Johannes Dei gratia episcopus Aptensis, Reverendissimi in Christo patris et Domini
+                Ludovici, miseratione divina sancte Agathe diaconi cardinalis, de Barro nuncupati,
+                administratoris perpetui ecclesie, episcopatus et ducatus Lingonensis, in
+                spiritualibus et temporalibus vicarius generalis, dilectis nobis in Christo,
+                virisque discretis et honestis viris decano et capitulo ac singulis canonicis et
+                personis ecclesiasticis collegiate ecclesie beati Machuti de Barro super Albam,
+                Lingonensis diocesis, salutem in Domino. Ut ad honorem, laudem et decorem
+                sanctissimi et eximii confessoris et pontificis Machuti prelibati, patroni vestri,
+                in prima et secunda feriis post instans festum sanctissime Trinitatis, vel exunte
+                citius quam commode fieri poterit, vos ac nonnulli burgenses et incole ville de
+                dicto Barro, in quadam platea seu plateis congruis et honestis, infra vel extra
+                villam ipsam, prope et supra rippariam loci, coram clero et populo, alta et
+                intelligibilli voce, lingua latina et materna, cum magna reverentia et honore ac
+                diversis personacium et habituum generibus ad hoc congruis et necessariis,
+                solenniter et publice vitam et miracula ejusdem egregii confessoris, recitare et
+                exponere, missamque solemnem in pontificalibus in qualibet dictarum duarum feriarum,
+                in platea seu plateis supradictis, super altare portabili consecrato per alterum
+                vestrum canonicorum vel alium ydoneum sacerdotem, celebrare, ceteraque omnia et
+                singula cuncta permissa et ea tangentia, necessaria et opportuna, facere et fieri
+                procurare valentis, vobis predicta faciendi, auctoritate dicti reverendissimi patris
+                qua fungimur in hac parte, licentiam et auctoritatem impertimur per presentes ;
+                talites nichilominus provide vos habentes, quod exinde nullum sequatur scandalum,
+                neque vertatur in fidei catholice detrimentum. Datum lingonis, sub sigillo curie
+                lingonensis et signeto nostro cereo, die prima maii, anno Domini millesimo
+                quadringentesimo octavo.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Vallet de Viriville, 1841. p.  – Vallet de Viriville, 1841-1842. p.  – Petit
+                  de Julleville, 1880, t. 2. p. 8</bibl>
+                        <bibl type="additional"> Archives du dép. de l'Aube, liasse 116 B .</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Contrôle : Evêque</item>
+                        <item>Autorisation sous condition</item>
+                        <item>Langue (latin ou vernaculaire)</item>
+                        <item>Condition : Temps de jeu limité</item>
+                        <item>Aménagement : Déplacement de la messe</item>
+                        <item>Condition : Sans scandale</item>
+                        <item>Motif : Honneur du Saint // Autorisation accordée</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

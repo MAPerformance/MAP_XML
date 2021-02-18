@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Nativité</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3106">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Nativité</title>
+                  </item>
+                  <item>
+                     <date when="1601"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Marseille</settlement>
+                        <region>Provence</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>43.296482, 5.369780</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 172.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Saint Lazare</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Acteur ambulant</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>On possède une lettre par laquelle, en 1601, un certain Gravoigne, probablement
+          quelque chef de troupe, offrait aux consuls de Marseille d'aller représenter le mystère de
+          la Nativité devant les habitants de cette ville.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8813"
+                    source="S3106"
+                   
+                   
+                   >
+                  <head>Archives communales de Marseille</head>
+                  <div type="transcription">
+                     <p>A messieurs les consuls a Marseille, Messieurs, par la présente, vous advertissons
+                comme nous sommes de bonne volonté et du tout résolus d'aller veoir vostre feste de
+                Saint Lazare, pour estre participans des indulgences consedées en icelle, et pour
+                jouer une hystoire nouvelement composée sur la nativité du soigneur avec
+                l'antécédent et conséquent d'icelle. Laquelle nous conoessons digne pour la
+                célébration de telle feste, et pour donner plaisir et contentement a vostre ville.
+                Toutefois pour ce que le chemin est long et fault porter plusieurs aides et
+                instruments nécessaires pour la perfection de tels histoires, nous vous voudrions
+                prier de nous assister, non point que nous vous demandions or ou argent, mais
+                seulement vous voudrions prier de faire nostre despense despuis l'heure que nous
+                sortons de nostre maison, jusques a tant que nous soyons retournés en icelle, en
+                vous donnant bonne promesse que veuë l'histoire ne serez malcontents d'avoir
+                despendu quelque chose pour ce respect. L'histoire contient 54 personnages,
+                toutefois nous les réduirons a 35 ou environ et durera trois journées a 5 heures
+                pour chascun jour, et dans icelle sont contenus plusieurs et biaux mystères corne
+                vous pourrez veoir, si vostre volonté est que nostre dessein soit accompli, lequel
+                ne provient d'un dezir de gaigner, ou pour vous donner ennui, mais pour augmenter la
+                gloire de Dieu, et pour vous monstrer le bon voloir que nous avons de vous faire
+                service et de nous contenir en vostre bonne grâce. Nous vous prions donc de nous
+                faire entendre pour (par?) le présent porteur vostre resolution, laquelle entendue
+                ne manquerons de satisfaire de point en point au contenu d'icelle, et avec ce nous
+                recommanderons a vous de si bonne volonté que nous demeurerons vostre très obéissant
+                serviteur a jamais. GRAVOIGNE. Ce 7 aoust 1601.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Archives communales de Marseille, série BB,
+                  correspondance.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Autorisation (demande d'-)</item>
+                        <item>Description : Organisation // Organisation : Financement</item>
+                        <item>Finance : Subvention municipale</item>
+                        <item>Description : Représentation</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

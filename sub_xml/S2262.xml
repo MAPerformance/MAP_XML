@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Farce ou moralité</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2262">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Farce ou moralité</title>
+                  </item>
+                  <item>
+                     <date when="1476"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Poitiers</settlement>
+                        <region>Poitou</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.580224, 0.340375</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Documents pour l’histoire de l’Eglise Saint-Hilaire de Poitiers,
+              t. II, p. 167 – Essai historique sur l’église collégiale de saint Hilaire de Poitiers,
+              p. 305.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Procès</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Maître de psalette</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Le chapitre tance ouvertement le maître de la psalette pour avoir pris un rôle et lui
+          défend de paraître dans des jeux vils, honteux, déshonnêtes et infâmes, le menaçant de le
+          priver de son emploi et de le frapper d’excommunication. La même défense est répétée le 6
+          juin 1478.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7721"
+                    source="S2262"
+                   
+                   
+                   >
+                  <head>Délibération capitulaire (doc. CCCLXIX)</head>
+                  <div type="transcription">
+                     <p>Capitulum generale, tentum et solemniter celebratum in loco capitulari consueto
+                ecclesie beatissimi Hilarii majoris Pictavensis, ad Romam ecclesiam nullo medio
+                pertinentis, fuit inceptum die jovis post festum Translationis ejusdem beatissimi
+                Hilarii, vicesima septima mensis junii, ano Domini millesimo quadringentesimo
+                septuagesimo sexto. In quo quidem capitluo generali presentes et capitulantes
+                capitulumque facientes fuerunt venerabiles et circunspecti viri domini et magistri
+                Ytherius Durandi decanus, Bertrandus de Brossa cantor, Petrus de Morry subdecanus,
+                Gaufridus Rousselli succentor, Johannes Comitis, Helias Pagani, Ytherius de Morry,
+                ebdomarii et prebendati, Petrus de Albania prebendatus, Julianus Anterii, Johannes
+                Chaslarii, ebdomarii semiprebendati, Petrus de Brolio, Michael Claveurii, Johannes
+                Reginaldi, Jacobus Boilesvi, Johannes de Conzay, Ludovicus Piati, Robertus de Domo,
+                Petrus Fuzelli, Guillermus Mosnerii, prebendati et canonici ejusdem ecclesie, in
+                juribus canonico et civili respective licentiati et alias graduati. Ebdomada domini
+                Guillermi Mosnerii. Primo prefatus dominus decanus fecit solemnem et caritativam
+                exhortationem quam divisit in tribus punctis seu articulis. In primo puncto seu
+                articulo tractavit bene laudabiliter de vita et moribus refformandis etc.… Eadem die
+                prefati domini capitulantes inhibuerunt magistro Johanni de Bavery, rectori sive
+                gubernatori clericulorum chori ipsius ecclesie, ne a cetero habeat se intromettere
+                de et super quibusdam vilibus, turpibus, infamibus et inhonestis ➙ludis seu ➙jocis,
+                vulgariter et galice nuncupatis ➙farces, ➙moralités, et hujuscemodi publice,
+                manifeste vel occulte, nec etiam alios et maxime illos qui sunt de ecclesia ad
+                faciendum talia et tales insolencias provocet sive facere procuret quovismodo, sub
+                penis excommunicationis et privationis suarum administrationis et officii que habet
+                et obtinet in predicta ecclesia ; quam quidem penam ex nunc prout ex tunc et e
+                converso prefati domini voluerunt et volunt dictum de Bavery incurrere et
+                incurrisse, si secus fecerit.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Rédet, 1857, t. 2. p. 167 – Le Touzé de Longuemar, 1857. p. .</bibl>
+                        <bibl type="additional"> Arch. St-Hilaire Reg. capit., n°3, f°XV.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération capitulaire</item>
+                        <item>Interdiction</item>
+                        <item>Condamnation : Excommunication</item>
+                        <item>Clerc : Office (perte de l'-)</item>
+                        <item>Type : Traduction du latin</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Maître de psalette</item>
+                        <item>Clercs</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item>Publiquement</item>
+                        <item>Cachette (en -)</item>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7722"
+                    source="S2262"
+                   
+                   
+                   >
+                  <head>6 juin 1478</head>
+                  <div type="transcription">
+                     <p>Instante et requirente reverendo patre domino Roberto de Dome, doctorum doctore,
+                canonico et promotore causarum officii presentis ecclesie, predicti domini
+                capitulantes, certis legitmis et racionabilibus de causis ipsos moventibus,
+                decreverunt inhibitorium fieri sub penis excommunicationis et privationis pannorum
+                presentis ecclesie, omnibus et singulis capellanis presbiteris et non presbiteris
+                ecclesie ac eisdem subditis ne habeant se intromictere de ➙ludendo palam, publice
+                vel oculte moralitates, ➙farsias, ➙joca et hujusmodi, nec etiam dare aut prebere
+                aliis non subditis ad hoc faciendum consilium, auxilium, favorem vel juvamen
+                quovismodo, et ne ipsi subditi possint pretendere justam ignorencie inhibitorium per
+                correlarium hujus ecclesie.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Rédet, 1857, t. 2. p. 167</bibl>
+                        <bibl type="additional">Documents pour l’histoire de l’Eglise Saint-Hilaire de
+                  Poitiers, t. II, p. 167.</bibl>
+                        <bibl type="additional"> Arch. St-Hilaire Reg. capit., n°3, f°CXXVII.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération capitulaire</item>
+                        <item>Interdiction</item>
+                        <item>Clerc (statut de -) // Condamnation : Excommunication</item>
+                        <item>Capacité économique</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Chapelain presbytère</item>
+                        <item>Chapelain non-presbytère</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item>Cachette (en -)</item>
+                        <item>Publiquement</item>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

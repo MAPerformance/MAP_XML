@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Farces contre les femmes de la bourgeoise lyonnaise par les clercs de la
+                Chancellerie du roi</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2135">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Farces contre les femmes de la bourgeoise lyonnaise par les clercs de la
+                Chancellerie du roi</title>
+                  </item>
+                  <item>
+                     <date when="1457"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Lyon</settlement>
+                        <region>Lyonnais</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Lyon</placeName>
+                        <placeName type="eccl_province">Lyon</placeName>
+                        <geo>45.764043, 4.835659</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Brouchoud, 1865. p. 14. – Petit de Julleville, 1886. p. 337.</bibl>
+                  <bibl type="additional">Archives de la ville de Lyon, BB, f°50.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Contrôle : Municipalité</item>
+                  <item>Sujet : Parodie</item>
+                  <item>Juridiction : Municipale</item>
+                  <item>Juridiction : Royale</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Dimanche</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Ordre : Frères prêcheurs</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Public (en -)</item>
+               </list>
+               <note>Les cotes données par Brouchoud et la Fargeix ne concordent pas. - Les clercs
+          fustigent les dames lyonnaises, déjà attaquées par les prédicateurs Vincent Ferrier
+          (dominicain, passé en 1404-1405) et Thomas Connecte (Carme, passé en 1432). La farce ou
+          sottie motiva de vives plaintes de la part d’un des conseillers de la ville, et le
+          Consulat crut devoir s’armer du pouvoir de censure : après cela, aucune représentation n’a
+          été autorisé sans l’autorisation préalable de la municipalité. [Bouchroud] - Jean de
+          Villars, conseiller, et sa sœur sont diffamés publiquement dans une pièce de théâtre. Le
+          théâtre semble servir d’exutoire à quelques conflits entre certains membres du consulat et
+          les clercs de la chancellerie royale. On se moque des Lyonnaises, et on imagine aisément
+          que le type d’accusations tourne autour de leur manque de vertu et des cornes de leurs
+          maris. Mais la satire va trop loin car les clercs attaquent nommément la sœur de Jean de
+          Villars, femme de Michelet Lambert dit aussi Dulart. Jean de Villars est un grand marchand
+          de Lyon, plusieurs fois conseiller et maître de métiers, et conseiller en place en 1457.
+          C’est donc non seulement un grand notable dont l’honneur est attaqué, mais aussi un membre
+          important du consulat : à travers lui, tous les conseillers et la ville elle-même sont
+          outragés. Pourquoi les clercs choisissent-ils Sibille comme cible de leurs moqueries ? Il
+          semble évident qu’à travers elle, c’est son frère et la riche famille Villars qui sont
+          visés. Mais pourquoi prendre cette famille ? Il est possible que les Villars apparaissent
+          aux yeux des clercs de la chancellerie royale comme les représentants typiques de ces
+          familles marchandes, qui méprisent les juristes, sont imbues de l’ancienneté de leur
+          famille à Lyon, ce que rappelle d’ailleurs en préambule Jean dans son intervention, et qui
+          battent froid tous les jeunes juristes qui souhaiteraient faire une carrière politique en
+          ville. Cette idée est renforcée par le fait qu’on demande expressément leur avis à trois
+          personnes, qui pourtant ne font pas partie des conseillers, et dont deux ont pour
+          particularité d’être ou d’avoir été des fonctionnaires royaux : Girerd de Varey, ancien
+          prévôt de Lyon, et Claude Thomassin, notaire, lieutenant du capitaine de Lyon. Cette farce
+          est très mal ressentie par Villars qui expose très sérieusement toutes les qualités de sa
+          famille, qui font qu’elle mérite de faire partie de l’élite de la cité : l’ancienneté dans
+          la ville et la bonne renommée, due à une vie exemplaire, sans aucun blâme. Villars prend
+          très à cœur cette histoire, alors qu’il pourrait mépriser cet affront. Pourtant il est
+          très préoccupé par ces paroles, peut-être parce qu’inconsciemment il a un complexe
+          d’infériorité face à d’autres conseillers dans la ville : il ne fait pas partie des
+          familles les plus anciennes, et n’exerce pas l’un des métiers les plus prestigieux de la
+          ville. Cela se ressent notamment dans l’expression « sans tache ou macule de blasme » :
+          tâche et macule sont synonymes, macule appartient seulement à un niveau de langue plus
+          soutenu ; mais le terme de macule renvoie surtout dans l’imaginaire collectif à une
+          condition, celle du serf, puisqu’on parle de « macule servile ». Villars entend bien
+          prouver qu’il est digne de son rang, que ni lui ni sa famille n’ont usurpé leur place
+          parmi l’élite de la ville. Cet exemple montre la puissance de la rumeur face à une
+          réputation : Villars ne peut supporter que l’opinion publique puisse douter de sa
+          renommée, ni de celle de sa sœur ; l’image de chacun aux yeux de la population a son
+          importance, elle est loin d’être anodine. [Fargeix]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7579"
+                    source="S2135"
+                   
+                   
+                   >
+                  <head>25 mai 1457 [Date : Brouchoud]</head>
+                  <div type="transcription">
+                     <p>Jehan de Villars, disant que combien lui, ses frères et autres parens, et autres
+                successeurs soyent natifs de ceste ville de Lion et que en icelle ville, que leurs
+                prédessesseurs eussent et ayent tousjours vesqu honnestement et louablement, sans
+                tache ou macule de blasme, néantmoyngs, que se non obstant dimanche derrier passé,
+                par lesdits conseillers avoient bien sceu aulcuns des clerx de la chancellerie du
+                Roy nostre sire, avoient fect et ➙joué ➙farces et ➙jeuz en public et à playn de rue
+                esquelles ➙farces et jeuz ilz avoient grandement moquez et blasmez les femmes de
+                ladite ville, mesmement Sibille sa seur, fame de Michelet Lambert, et icelle Sibille
+                nomant par son nom par plusieurs foys en la diffamant et disant parolles
+                diffamatoyres et non véritables de elle, et en icelle Sibille tous ses parents et
+                amiz injuriant très grandemment. (…) Après l’issue dudit de Villars dudit consulat
+                et en son absence, ont conclu et délibéré par l’advis aussi Girerd de Varey,
+                François Guérin et Thomassin, que veu et considéré l’outrage qui a esté et est grans
+                de conséquence et inconvenient qui s’en pourroient ensuivre, mesmement pour ce que
+                lesdits clerz de ladite chancellerie soy sont vantez et fayt oyr de fere d’autres
+                ➙farces et ➙jeuz en iceulx fere et dire encores pir, que de et sur ladite requeste
+                dudit de Villars lui donneront voulentiers tous leur faveur et confort qu’il porront
+                à ses despens (…) et feront requeste de bouche au prevost du Roy affin de voyr la
+                mellieur provision et réparacion que fere soy porra</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">C. Brouchoud, Les Origines du théâtre à Lyon, p. 14 –
+                  Archives de la ville de Lyon, BB, f°50.</bibl>
+                        <bibl type="additional">cote Fargeix : 1457, BB7 f68v.</bibl>
+                        <bibl type="additional"> Fédou 1964, p. 311 : BB8</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Censure</item>
+                        <item>Procès : Plainte</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

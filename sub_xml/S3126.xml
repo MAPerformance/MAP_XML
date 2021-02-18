@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moralité du Ver du péché</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3126">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Moralité du Ver du péché</title>
+                  </item>
+                  <item>
+                     <date when="1613"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Draguignan</settlement>
+                        <region>Provence</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>43.537727, 6.464993</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1886. p. 402.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Troupe</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8832"
+                    source="S3126"
+                   
+                   
+                   >
+                  <head>1er août 1613, Ordonnances du conseil communal</head>
+                  <div type="transcription">
+                     <p>A Draguignan, en 1613, on jouait encore de vraies moralités. Artus Gautier, quelque
+                chef de troupe ambulante, adressa cette supplique au Conseil de Ville « Ayant, moy
+                indigne, mis en lumière l'istoire ou moralité que j'ay intitullé le Ver du péché,
+                n'ayant volleu icelle mettre en évidence sans vostre authorité et lissance, y estant
+                uzé beaucoup de choses, tant pour le faicteur des abitz, poudre que aultres chozes
+                que conviendra fere, vous priant de donner quelque choze que indemnize a jouer
+                icelle. » Le Conseil fut touché. Il accorda six livres.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Petit de Julleville, 1886. p. 402</bibl>
+                        <bibl type="additional"> Registre des ordonnances du conseil communal de Draguignan,
+                  BB, 21, fol. 392 v", cité dans la Revue des Sociétés Savantes, 6e série, t. III,
+                  mai-juin 1876, p. 475.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Autorisation accordée</item>
+                        <item>Contrôle : Municipalité</item>
+                        <item>Représentation (titre de la -)</item>
+                        <item>Description : Organisation</item>
+                        <item>Organisation : Secrets</item>
+                        <item>Organisation : Fabrication des costumes</item>
+                        <item>Finance : Subvention municipale</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

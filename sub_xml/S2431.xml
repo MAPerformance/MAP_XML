@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2431">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1497"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Troyes</settlement>
+                        <region>Aube/Champagne</region>
+                        <country/>
+                        <placeName type="bishopric">Troyes</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.296592, 4.074735</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 75</bibl>
+                  <bibl type="additional"> Boutiot, Recherches sur le théâtre à Troyes, p. 452.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Finance : Subvention</item>
+                  <item>Finance : Dépassement de budget</item>
+                  <item>Finance : Salaire</item>
+                  <item>Représentation (manuscrit de la -)</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Notaire</item>
+                  <item>Sergent</item>
+                  <item>Conseiller de la cour</item>
+                  <item>Procureur</item>
+                  <item>Lieutenant du prévôt</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Hôtel de ville</item>
+               </list>
+               <note>C'est probablement en vue de cette représentation que dès le mois de mars (1496 vieux
+          style) les notables bourgeois, se proposant de jouer le mystère de la Passion à la fête de
+          la Madeleine députèrent au conseil de ville maître Guillaume Huyart, avocat du roi, Simon
+          Liboron, conseiller en cour laye, plus tard procureur du roi, et Guion Coiffart,
+          Lieutenant du prévôt de Troyes, pour obtenir la remise des livres du mystère. - Simon
+          Coiffart, Jehan de Saint Aubin, notaires, Jehan Mairat et Jehan Ploton, sergents,
+          reçoivent 50 livres pour couvrir les frais de représentation, qui ont encore excédé les
+          recettes. Pierre Desrey, qui représente le Père Éternel, reçoit 100 sous.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8018"
+                    source="S2431"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le conseil concéda « les papiers du mystère, la salle et la chambrette placées au
+                dessus de la salle du conseil, pour les recorder ; à la condition que ceux qui
+                auraient les dits papiers s'obligeraient à les restituer ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Répétition</item>
+                        <item>Organisation : Obtention du texte</item>
+                        <item>Condition : Restitution</item>
+                        <item>Description : Organisation</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

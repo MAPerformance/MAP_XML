@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère du Vieux Testament et du Nouveau Testament</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2757">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère du Vieux Testament et du Nouveau Testament</title>
+                  </item>
+                  <item>
+                     <date from="1538" to="1541"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Lyon</settlement>
+                        <region>Lyonnais</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Lyon</placeName>
+                        <placeName type="eccl_province">Lyon</placeName>
+                        <geo>45.764043, 4.835659</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Brouchoud, 1865. p. 20. – Petit de Julleville, 1880, t. 2. p. 135.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Fêtes</item>
+                  <item>Dimanche</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Théâtre</item>
+               </list>
+               <note>En 1538, Jean Neyron, bourgeois de Lyon, ouvrit « dans la rue des bouchers sur
+          l'emplacement contigu à la maison qui forme aujourd'hui l'angle nord-ouest de cette rue et
+          de la rue de la Martinière », une salle de spectacle. La scène, à trois étages,
+          représentait le Paradis, la Terre et l'Enfer, figuré « sous la forme d'une gueule de
+          dragon », laquelle « s'ouvrait et se fermait à chaque passage du diable ou d'une âme
+          damnée ». Il y avait des balcons et des loges pour les spectateurs. L'emplacement mesurait
+          deux cent soixante mètres carrés. Sur ce théâtre Jean Neyron fit représenter « les
+          mystères du Vieux et du Nouveau Testament » les jours de fêtes et les dimanches. Jean
+          Neyron mourut dès 1541, et son fils, Antoine Neyron, vendit le 9 septembre 4541 la maison
+          servant de théâtre. Cette entreprise dramatique, d'ailleurs curieuse, fut, comme on voit,
+          tout à fait éphémère. [Petit de Julleville et Brouchoud] - L'histoire de Jean Neyron a été
+          fort embrouillée par des chroniqueurs locaux, peu au courant de l'histoire générale du
+          théâtre en France. L'originalité de son entreprise avait consisté à édifier un théâtre
+          permanent, au lieu des échafauds temporaires qui, partout encore, sauf à Paris, servaient
+          à la représentation des mystères. Quant à son répertoire, nous n'avons pas lieu de croire
+          qu'il fût original ; Jean Neyron faisait surtout représenter le mystère du Vieux
+          Testament, composé depuis près d'un siècle. C'est dans ce sens qu'il faut accepter
+          l'assertion du père Colonia, lorsqu'il rapporte (dans son Histoire littéraire de Lyon,
+          t. II, p. 430) que le recueil des pièces qui ont été jouées sur le théâtre de Jean Neyron
+          fut imprimé en 1542 sous ce titre : « Le très excellent et saint mystère du vieil
+          testament représenté par personnages, auquel sont contenues les histoires de la Bible »
+          [Petit de Julleville et Brouchoud] - La licence des pièces a entraîné les rigueurs qu’a
+          connu Neyron (Monfalcon, Histoire de Lyon, p. 635 et A. Péricaud, Notes et Doc. an 1540).
+          [Brouchoud]</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

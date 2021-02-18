@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2692">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1531"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Reims</settlement>
+                        <region>Champagne</region>
+                        <country/>
+                        <placeName type="bishopric">Reims</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.258329, 4.031696</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 117</bibl>
+                  <bibl type="additional"> Chronique de Jean Pussot – L. Paris, Toiles peintes et
+              tapisseries, etc., p. 61.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Organisation : Stockage pour prochaine représentation</item>
+                  <item>Scénario</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>En 1518 on avait projeté de jouer la Passion à Reims aux fêtes de la Pentecôte. Une
+          gelée qui perdit les blés et les vignes fit remettre ce dessein à des temps plus heureux.
+          « Les angelets, pourtraitures et autres choses servant au dit mystère » furent mis en
+          réserve à l'hôtel de ville. Le 21 septembre 1530 on reprit le projet de jouer la Passion.
+          - Le 7 octobre suivant les suppliants demandent au conseil de leur préposer quelques gens
+          de bien pour se régler par leur avis, et de leur donner quelques figures et
+          « pourtraitures » faites il y a treize ans pour servir au mystère projeté. On leur accorde
+          ce qu'ils demandent. Les commissaires élus sont le lieutenant, le bailli de Reims, N.
+          Goujon, grainetier ; le procureur fiscal, le receveur et le procureur de la ville. - Le 25
+          mai 1531, les maîtres administrateurs du mystère demandent qu'on taxe les assistants. Ceux
+          qui iront sur les èchafauds payeront 3 d. t. A ceux qui auront « chambres », chaque
+          fenêtre coûtera 40 s. t. Les maîtres payeront douze hommes pour faire le guet dans la
+          ville pendant la représentation ; il ne restera que deux portes ouvertes tout le temps des
+          jeux. - La représentation de la Passion fut suivie de celle de la Vengeance.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8275"
+                    source="S2692"
+                   
+                   
+                   >
+                  <head>21 septembre 1530</head>
+                  <div type="transcription">
+                     <p>Supplient humblement J. Chiertemps, P. Serval, J. Lempereur, H. Choilly, N.
+                Rabaille, P. Novisse, J. Chardon, J. Lacorde, G. Rainssant, J. Lesicot, G. Sandras,
+                A. Garot, J. Tropmignot, S. Payen et P. Briotin, tous bourgeois, praticiens et
+                marchans d'icelle ville, comme environ sont treize ans, par bon advis et meure
+                délibération des bons et notaibles personnaiges manans et habitans d'icelle ville,
+                eust esté advisé et conclud de faire jouer par personnaiges le très hault mistere de
+                la saincte Passion de Nostre Seigneur afin d'en avoir bonne et vraye commémoration a
+                l'honneur de Dieu et au salut des âmes d'un chacun et si toutesfois avoit esté
+                délaissé et différé pour a cause de la grande stérilité de biens qui survint lors,
+                et mortalité et guerre, et soit ainsi en la mercy, bonté et clémence divine, que
+                présentement nous soyons en bonne paix, la ville et pays purgé d'infection de peste,
+                et soit le poure peuple eu repos, et que tous bons chrestiens désirent
+                affectueusement et appettent veoir et oïr icelui sacré mystère, quy ne fut, sont
+                quarante ans passés, joué en ceste ville, tellement que la mémoire en est quasi
+                passée, qu'il vous plaise leur permettre faire jouer icelui mystère au lieu
+                accoustumé ou autre qu'il vous plaira, et offrent le tout fournir et frayer à leurs
+                despens, moyennant quelque petite somme de deniers qu'ils pourront prendre des
+                assistans, selon votre advis ; ou s'il vous plaist a frais et deniers communs
+                d'icelle ville, ils offrent leurs corps et biens et tout leur petit povoir employer
+                a vostre service pour le bon amour et grant affection qu'ils ont audit divin
+                mystère, et vous ferez ung oeuvre louable a l'honneur de Dieu et très charitable au
+                bon pueple. Conclud a esté que la requeste cy-dessus veue par le conseil, les
+                suppliants pourront jouer ou faire jouer le saint mystère de la Passion a leurs
+                frais et despens, périls et fortunes, et si leur a esté octroyé par le conseil, en
+                tant que touche la ville, qu'ils puissent lever quelques deniers raisonnables sur
+                ceulx qui la vouldront veoir, pourveu toutesfois que les supplians feront jouer
+                ledit mystère bien et honnestement, tant a l'honneur de Dieu, de la ville, que a
+                l'exemple du pueple, en manière que scandalle n'en puisse venir, ne deshonneur a la
+                ville.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Archives législatives de la ville de Reims, par Pierre
+                  Varin, 1844, in-4°. Seconde partie. Statuts, 1er vol., p. 682, 683, 870-871, 875.
+                  (Collection des Documents inédits.)</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Retard</item>
+                        <item>Organisation : Annulation</item>
+                        <item>Cause : Climat // Cause : Politique</item>
+                        <item>Motif : Honneur de Dieu</item>
+                        <item>Motif : Protection de la ville // Peste</item>
+                        <item>Organisation : Décision du lieu</item>
+                        <item>Organisation : Choix du financement</item>
+                        <item>Finance : Prix de la place</item>
+                        <item>Finance : Subvention (sans -) // Finance : Subvention par des
+                  particuliers</item>
+                        <item>Finance : Collecte</item>
+                        <item>Autorisation sous condition</item>
+                        <item>Condition : Sans scandale</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Bourgeois</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion et de la Résurrection</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S1976">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion et de la Résurrection</title>
+                  </item>
+                  <item>
+                     <date when="1413"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Amiens</settlement>
+                        <region>Somme/Picardie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Beauvais</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.894067, 2.295753</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Confrérie du Saint-Sacrement</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7406"
+                    source="S1976"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>L’échevinage accorde « aux confreres et compaignons de la Confrerie du Sainct
+                Sacrement LX s. parisis pour les frais pour jouer aux festes de Pentecoustes
+                derraines passees, le mistere de la Passion Nostre Seigneur Jhesucrist et sa
+                Resurrection ; despens pour les frais a faire les hourds la ou furent logié
+                Messieurs le Bailli, maieur, eschevins et plusieurs conseilliers du roi » (Lecocq
+                transcrit : « plusieurs conseillers de ladite ville »). C’est la ville qui fournit
+                aux confrères les « cahiers ou rymes dudit mistere »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Lecocq, 1880. p. 116 – Petit de Julleville, 1880, t. 2. p. 9 – Runnalls, 2003.
+                  p. 259 – *Lavéant, 2007. p. 411.</bibl>
+                        <bibl type="additional">AMA, Délibérations échevinales BB2, f 14v – Archives
+                  municipales, 2e registre, T. f° 13 v°[Dusevel cité par Petit de Julleville]</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Participation financière</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

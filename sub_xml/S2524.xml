@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Sainte Barbe</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2524">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Sainte Barbe</title>
+                  </item>
+                  <item>
+                     <date when="1509"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Domalain</settlement>
+                        <region>Îlle-et-Vilaine/Bretagne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rennes ?</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>47.994588, -1.241260</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Le mystère de Sainte Barbe fut représenté en août 1509 à Domalain, commune du canton
+          de la Guerche, arrondissement de Vitré.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9691"
+                    source="S2524"
+                   
+                   
+                   >
+                  <head>Lettres de rémission données par Louis XII, roi de France et duc de Bretagne, en
+              juin 1510</head>
+                  <div type="transcription">
+                     <p>Loys, par la grâce de Dieu, roy de France et duc de Bretaigne, à touz presens et
+                advenir, salut. Savoir faisons, nous avoir receu l'umble supplication et requeste
+                nous faicte de la part des parens et amis consanguins de nostre pouvre subgect
+                Amaury de Dommaigné, pouvre gentilhomme clerc, contenant que, ou moys d'aougst
+                derroin, comme ledit Amaury eust esté, à la prière et requeste de pluseurs gens de
+                la parroisse de Domalain, prié et requis estre aidant à garder et faire faire
+                silence à un jeu et mistère que pour celuy jour faisoint jouer de madame Saincte
+                Barbe ; et soit ainsi, comme les joueurs dudit mistère eussent esté à cheval pour
+                entrer oudit jeu et eschauffault, et queque soit, en quelque endroit dudit mystère,
+                et pour en ce faire place et vaye, sourvint en l'instant Loys Bélier, de la
+                parroisse de Vregeal, aiant esvaginé [=Degainé] une espée qu'il tenoit en sa main,
+                dist telles parolles ou semblables : « Si vous aprochés meshuy de moy, je vous
+                donneroy bien ! » Et incontinant après les dictes parolles proférées, arriva ledit
+                Amaury, quel tenoit en sa main une gaulle de boys pour faire ruser [Eloigner,
+                écarter] les gens dessur ledit jeu, et il arrivé, qui estoit eschauffé de vin, se
+                despouilla et laissa cheoirs sa robbe contre terre, et eva- gina son épée qu'il
+                avoit pendue à son cousté, en marchant droit oudit Bélier, quel pareillement avoit
+                evaginé une espée que tenoit en sa main. Et ledit Amaury, quel avoit charge, en
+                partie, du gouvernement dudit jeu, comme dit est, estant près dudit Bélier, à
+                distance comme environ de deux longueurs d'ung homme, dist audit Bélier : « Le sang
+                Dieu, vilain, as-tu desgayné ? » A quoy respondit ledit Bélier : « Moricière [Nom
+                seigneurial formé sur celui d'Amaury], je ne te demande riens. » Et ainsi que ledit
+                Amaury suyvoît[Donner suite à, poursuivait] â ses parolles et gestes vers ledit
+                Bélier, ung nommé Jehan Lambart, cordouanier, demourant à Vitré, se trouva auprès
+                d'eulx, desmonstrant estre eschauffé de vin, tenant entre ses mains un pichet de
+                terre où d'estain, n'est certain ledit Amaury, et en l'autre ung verre ou deux. Quel
+                Lambart fut au devant, et dist audit Amaury qu'il ne frappast, point ledit Bélier et
+                qu'il estoit bon compaignon, Élisant contenance lediçt Lambart de vouloir croezer le
+                chemin audit Amaury, en traversant la jambe et la cuisse au devant de luy. A quoy
+                dist ledit Amaury par telle ? parolles ou semblables : « Ha vilain I en as-tu
+                parlé ! » Dont ledit Lambart luy respondit en disant telles ou semblables parolles :
+                « Moricière, je ne penczois point en la parolle que j'ai dicte », sans autrement
+                dire ni declerer. Et en icelle parolle le dit Amaury, de l'espée qu'il avoit en sa
+                main, frappa d'estoc à travers et tout oultre la cuysse dextre près le genoul
+                d'iceluy Lambart, tellement que grant habondance de sang en yssit, et alors se print
+                ledit Lambart à la cuysse en criant : « Jhesus ! » et tout soudainement cheut contre
+                terre, et environ une heure de là, celuy Lambart ala de vie à deceix. Sur lequel cas
+                s'est ledit Amaury absenté, et n'ose se trouver ne repatrier ou cartier. Nous
+                remonstrans lesdiz parens et amys que ledit Amaury est pouvre gentilhomme jouvegneur
+                de l'eage d'environ vignt sept ou vignt ouyct ans, filz d'un aultre pouvre
+                juvegneur, n'ayans aucuns biens, sinon de quelque peu de practique et notairie dont
+                ilz se me lient ; et que ledit cas sur supposé est inopiné et comme cas de fortune ;
+                aussi que, auparavant ledit cas, n'avoint eu lesdiz Lambart et Amaury aucun débat ne
+                question ensemble, et que ledit Amaury est bien famé et renommé, non debattif ne
+                rumoreux, sans jamais avoir esté reproché, actaint ne convaincu d'aucun autre
+                mauveix ne villain cas. Et doubtent lesditz parens et amys que si ledit Amaury
+                estoit aprehendé de sa personne, qu'il seroit vers luy procédé par justice à
+                rigueur; nous supplians qu'il nous plaise sur et dudit cas impartir audit Amaury noz
+                grâce, remission et pardon, très humblement le nous requérant. Pourquoy, etc Donné à
+                Nantes, ou moys de juign 1510.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Arch. delà Loire- Inférieure, Reg. de la Chancellerie de
+                  Bretagne pour l’an 1510 , fº121v.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Scellé à Nantes, le 8 e jour de juin 1510 [Borderie]</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

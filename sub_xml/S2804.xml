@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2804">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date from="1543" to="1608"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Rouen</settlement>
+                        <region>Seine-Maritime/Haute-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rouen</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>49.443232, 1.099971</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Gosselin, 1868. p. 39. – Petit de Julleville, 1880, t. 2. p. 141.</bibl>
+                  <bibl type="additional">Archives du palais de justice de Rouen.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Récurrence : Annuelle</item>
+                  <item>Finance : Budget de la confrérie</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pâques : Vendredi Saint</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>En 1543, la confrérie de la Passion de Rouen (peut-être pour lutter par un
+          redoublement de ferveur contre la propagande protestante) décida qu'à l'avenir elle ferait
+          représenter tous les ans la Passion le jour du vendredi Saint, probablement selon un texte
+          abrégé. Tous les frais de cette cérémonie incombaient au prince de la confrérie; et cette
+          lourde charge, imposée à un seul, donna lieu à plus d'un procès. Les confrères de Rouen ne
+          jouaient plus eux-mêmes ; ils faisaient venir, à prix d'argent, les confrères de Paris, ce
+          qui faisait dire plus tard au parlement de Rouen, dans l'un de ses arrêts, « que la
+          confrairie de Rouen faisait jouer le mystère par de pauvres gens gagés ». Ces
+          représentations annuelles durèrent presque sans interruption de 1543 jusqu'aux guerres de
+          la Ligue ; reprises en 1597, elles furent supprimées en 1608.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8370"
+                    source="S2804"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>l'Eglise et le Parlement considèrent les Passions « comme chose qui excitoit plutôt
+                la curiosité que la piété des spectateurs et qui n'apportoit aucune bonne
+                édification ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Archives du palais de justice de Rouen, citées par Gosselin,
+                  ouvrage cité, p. 39 et 40.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Interdiction</item>
+                        <item>Type : Arrêt</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pièce inconnue</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2920">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Pièce inconnue</title>
+                  </item>
+                  <item>
+                     <date when="1558"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Rouen</settlement>
+                        <region>Seine-Maritime/Haute-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rouen</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>49.443232, 1.099971</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Gosselin, 1868. p. 44. – Petit de Julleville, 1886. p. 393.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Autorisation (hésitation)</item>
+                  <item>Interdiction d'autoriser</item>
+                  <item>Pluralisme juridique</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Fêtes</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Acteur ambulant</item>
+                  <item>Troupe</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Chambre</item>
+               </list>
+               <note>La bailly donne son autorisation, qui ne vaut cependant rien sans ratification du
+          Parlement. Le parlement, préoccupé à ce moment même par le problèmes des réformateurs,
+          interdit les représentations. - C’est la dernière troupe à se présenter à Rouen du
+          XVIe siècle. [Gosselin] - Sur Lepardonneur : cf. Rouen 1556.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8491"
+                    source="S2920"
+                   
+                   
+                   >
+                  <head>27 janvier 1558, Arrêt du parlement.</head>
+                  <div type="transcription">
+                     <p>Le bailly le reçut avec bienveillance et l’autorisa à « commencer ses jeux en
+                chambre aux jours de fête de moralités et de farces pour la récréation du peuple et
+                des habitants. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Gosselin, 1868. p. 44</bibl>
+                        <bibl type="additional"> Archives du Palais-de-justice, Arrêt du parlement, 27
+                  janvier 1558.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Arrêt</item>
+                        <item>Autorisation accordée</item>
+                        <item>Contrôle : Bailli</item>
+                        <item>Motif : Récréation</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item>Fêtes</item>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8492"
+                    source="S2920"
+                   
+                   
+                   >
+                  <head>27 janvier 1558, Arrêt du parlement.</head>
+                  <div type="transcription">
+                     <p>On défend « de jouer farces ni moralités, parce que ces divertissements
+                entraînaient à de veines et inutiles dépenses.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Gosselin, 1868. p. 44</bibl>
+                        <bibl type="additional"> Archives du Palais-de-justice, Arrêt du parlement, 27
+                  janvier 1558.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Interdiction</item>
+                        <item>Cause : Finance</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

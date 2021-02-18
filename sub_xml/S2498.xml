@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère du Sacrifice d’Abraham</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2498">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère du Sacrifice d’Abraham</title>
+                  </item>
+                  <item>
+                     <date when="1507"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Laval</settlement>
+                        <region>Mayenne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Le Mans</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>48.077863, -0.770138</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Piolin, 1858. p. 60. – Piolin, 1861, t. 5. p. 239. – Petit de Julleville, 1880, t.
+              2. p. 91.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Organisation : Représentations multiples</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pâques : Vendredi Saint</item>
+                  <item>Carême</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Clerc-acteur</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Place publique</item>
+               </list>
+               <note>D’autres représentations sont mentionnées par le document joint.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8078"
+                    source="S2498"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Puis d'Abraham le sacrifice Fut joué qui fut moult propice, Sur le grant pavé de
+                Laval, Par le clergé de saint Thugal. Aussi fut joué l’Ignoscent, Celluy an qu’est
+                moult décent, Et le Carême fut prêché D’ung frère de cet evesché, Nommé frère Colas
+                Taunay, D’Avesnières natif pour vray, Et cordelier de Saint-François Au couvent venu
+                tout de froys. D’aucuns compagnons de la ville Furent motils, pour qu’il est abille,
+                montrer figurativement Et ses sermons et ses preschements. La Passion par
+                personnaiges, Le Vendredy-Sainct par gens saiges, Et jour de la Résurrection, Fut
+                monstré comme approbation, Jusques à quarante histoires, Dont ce fut faict moult
+                grants mémoires. Preschant et démonstrant par signes Sur le pavé à toutes fines, De
+                rideaux, de cielz d’or et de soye, De ce veoir le monde avoit joye. Quant falloit
+                tirer le rideau, Taunay trouva un mot nouveau, Qu’il chantait pour veritatis, Là,
+                messeigneurs, ostendatis.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Le Doyen, 1839. p. 124.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Saint-Thugal est une paroisse de Laval.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

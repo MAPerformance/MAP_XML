@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Romain</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2263">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Romain</title>
+                  </item>
+                  <item>
+                     <date when="1476"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Rouen</settlement>
+                        <region>Seine-Maritime/Haute-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rouen</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>49.443232, 1.099971</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Floquet, 1833, t. 2. p. 553. – Gosselin, 1868. p. 23. – Petit de Julleville, 1880,
+              t. 2. p. 39</bibl>
+                  <bibl type="additional"> Archives de la Seine-inférieure, registre capitulaire
+              G. 1476</bibl>
+                  <bibl type="additional"> cf. les registres capitulaires des 28 juin, 18 et 30 juillet,
+              1er, 2, 3, 5 et 9 août 1476.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Saint local</item>
+                  <item>Saint patron</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Saint Romain</item>
+                  <item>Foire</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Confrérie</item>
+                  <item>Chanoine</item>
+                  <item>Enfants de chœur</item>
+                  <item>Clerc-acteur</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Eglise (devant)</item>
+                  <item>Eglise (aître)</item>
+               </list>
+               <note>En 1476, la confrérie de saint Romain à Rouen voulut jouer la vie de son patron. Ils
+          présentent le 18 juin une requête au chapitre allant dans ce sens, la réponse est donnée
+          le jour même (cf. doc.). - Le chapitre facilita autant qu’il put cette représentation, en
+          contribuant aux frais, et en faisant prêter à la confrairie tout ce qui lui était
+          nécessaire pour construire les échafauds dans le parvis, et pour jouer le mystère.
+          Non-seulement tout le gros matériel de la fabrique, comme poutres, planches, claies, fut
+          mis à la disposition des confrères, mais on leur prêta tous les ornements, draps,
+          tentures, tapisseries, qu’ils demandèrent. On leur confia aussi, mais sous bonne caution
+          toutefois, une mître, une crosse, et tous les insignes épiscopaux indispensables à
+          l’acteur chargé du rôle de saint Romain, rôle si important dans un long drame, qui ne
+          devait pas être autre chose que la vie du saint pontife mise en tableaux. Deux enfants de
+          chœur avaient été chargés du rôle d’anges ; on leur fit revêtir des tuniques,
+          indispensables, apparemment, pour faire illusion dans ces rôles. Il fut permis à tous les
+          chapelains de Notre-Dame de figurer dans le mystère, dont la représentation dura plusieurs
+          jours ; et pendant ce temps-là quoique absents du chœur, ils furent réputés présents, et
+          perdirent point leurs rétributions quotidiennes. Une des boutiques du parvis fut
+          découverte, sans doute pour laisser aux anges la facilité de faire toutes les évolutions
+          que prescrivait le mystère. On n’avait eu garde d’oublier le miracle du dragon et, à la
+          grande satisfaction du peuple, une gargouille horrible et monstrueuse joua un grand rôle
+          dans la pièce… Pendant plusieurs jours que dura cette pieuse représentation, l’heure des
+          offices fut changée et le bruit de la sonnerie ménagé de manière à ne point distraire une
+          multitude immense, passionnée pour ces spectacles, où l’on jouait les saints en voulant
+          les honorer. » - il y a un problème : Gosselin semble donner la réf au registre 1476, et
+          l’inventaire au registre 2139.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7723"
+                    source="S2263"
+                   
+                   
+                   >
+                  <head>18 juin 1476, Délibération capitulaire</head>
+                  <div type="transcription">
+                     <p>Le chapitre de Notre-Dame favorisa ce pieux dessein en décidant le 18 juin « que
+                les dits confrères s'établiraient devant l'église, et dans l'intérieur de l'aitre et
+                qu'ils seraient responsables des dommages qui arriveraient aux édifices et aux
+                autres choses de l'église ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Floquet, 1833, t. 2. p. 553 – Gosselin, 1868. p. 23 – Petit de Julleville,
+                  1880, t. 2. p. 39</bibl>
+                        <bibl type="additional"> ADSM, registre capitulaire G. 1476</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération capitulaire</item>
+                        <item>Organisation : Décision du lieu // Autorisation sous condition</item>
+                        <item>Condition : Responsabilité si dégâts</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- 28 juin selon l’inventaire, t. II. : “28 juin 1476, le chapitre permet aux
+                confrères de Saint-Romain de jouer le mystère de Saint-Romain dans le cimetière
+                devant l'église, la fabrique leur fournira les claies nécessaires.”</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7724"
+                    source="S2263"
+                   
+                   
+                   >
+                  <head>2 août, Délibération capitulaire</head>
+                  <div type="transcription">
+                     <p>Le chapitre ordonna « de confier aux frères pour jouer le mystère la Bête de la
+                Gargouille qui était en garde dans l'église en un certain lieu aux soins du maître
+                de la fabrique ». Tout le matériel du chapitre, bois, étoffes, tapisseries,
+                vêtements, même une crosse et une mitre, furent confiés, sous bonne caution, aux
+                joueurs.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Floquet, 1833, t. 2. p. 553 – Gosselin, 1868. p. 23 – Petit de Julleville,
+                  1880, t. 2. p. 39</bibl>
+                        <bibl type="additional"> ADSM, registre capitulaire G. 1476</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération capitulaire</item>
+                        <item>Organisation : Prêt de matériel // Organisation : Prêt de vêtements
+                  ecclésiastiques</item>
+                        <item>Organisation : Prêt d'ornements liturgiques</item>
+                        <item>Condition : Responsabilité si dégâts</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7725"
+                    source="S2263"
+                   
+                   
+                   >
+                  <head>Délibération capitulaire</head>
+                  <div type="transcription">
+                     <p>Ordinatam… quod illa bellua seu gargouilla, que ad opus ipsius misterii composita
+                seu figurata extitit, ipsis fratribus volentibus et requirentibus, ad honorem et
+                memoriam ipsius sancto, in hac ecclesia reponenda et custodienda recipiatur in
+                aliquo loco, de quo per magistros fabrice cum ipsis fratribus fuerit advisatum.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Floquet, 1833, t. 2. p. 554.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération capitulaire</item>
+                        <item>Organisation : Prêt de matériel</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7726"
+                    source="S2263"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>on change les heures de offices à cause de ce mystère.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">ADSM, G. 2139 (1472-1476)</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Modification liturgie</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7727"
+                    source="S2263"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le chapitre accepte la gargouille qui a servi à la représentation et donne 10 écus
+                aux confrères.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">ADSM, G. 2139 (1472-1476)</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération capitulaire</item>
+                        <item>Finance : Subvention ecclésiastique // Organisation : Prêt de matériel</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7728"
+                    source="S2263"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>prêt de deux tuniques au fils de Luce Langlois et à un autre qui devait jouer les
+                rôles d'anges.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">ADSM, G. 2139 (1472-1476)</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Prêt</item>
+                        <item>Déguisement</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7729"
+                    source="S2263"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Ea die sabbati 17 augusti, nonnulli capellani fuerunt reprehensi eo quod sine
+                licencia capituli in mysterio sancti Romani personnagia assumere presumpserunt, unde
+                prohibitum fuit omnibus capellanis ne in talibus mysteriis et ludis absque licencia
+                capituli.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">LAMOP dit Gosselin (?)</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Aménagement : Dispense pour les ecclésiastiques</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

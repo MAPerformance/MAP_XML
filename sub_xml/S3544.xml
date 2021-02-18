@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digeste vieille en françois</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3544">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Digeste vieille en françois</title>
+                  </item>
+                  <item>
+                     <date from="1200" to="1299"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement/>
+                        <region/>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo/>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Type : Traduction du latin</item>
+                  <item>Type : Somme de droit</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>La Digeste vieille en françois est une traduction en rpose anonyme, qui se compose de
+          24 livres. trois manuscrits complets et un fragmentaire nous en sont parvenus. Dans le
+          manuscrit fr. 197, la traduction commence par : « Ulpianus dit : il convient que tuit cil
+          qui vuelent doner entente à savoir droit » et se termine par « … que eles aient doeres por
+          norrier enfanz et por emplir en la cité. ». Explicit : « Ci fenist la Digeste vielle en
+          françois » (livre XXIV, 3). Cette traduction est encore inédite. [Galderisi]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9566"
+                    source="S3544"
+                   
+                   
+                   >
+                  <head>1.12[De l’office au prevost de la cité].1.12</head>
+                  <div type="transcription">
+                     <p>Li repos de la gent et la discipline des musees apartient au prevost de la cité et
+                il doit avoir chevaliers ordenez por tenir le pueple en pes et pour raconter li ce
+                que l'en fet.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">BNF, FR 20118, f°13a
+                  (http://gallica.bnf.fr/ark:/12148/btv1b84557828/f41).</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9571"
+                    source="S3544"
+                   
+                   
+                   >
+                  <head>1.8.6.1</head>
+                  <div type="transcription">
+                     <p>Unes. choses sont qui sont communes a aucune université et non par propres a aucun.
+                si come les choses qui sont es citez. li ➙theatre et les estades et les choses
+                semblables qui sont communes l’en ne puet pas duz que li sers qui est communs a
+                aucune cité soit propres a aucun des citeains. ainz a tote l’université. et porce li
+                saint fiete escristrent que lo sers de la cité puet estre tormentés contre .i. des
+                citeans ou por lui et cil que la commune d’une cité afranchy n’a par besoing de
+                demander pardon del banir seint se il veult pledier a aucun des citeans.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">BNF, FR 20118, f°111b
+                  (http://gallica.bnf.fr/ark:/12148/btv1b84557828/f37).</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

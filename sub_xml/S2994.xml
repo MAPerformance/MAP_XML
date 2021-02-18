@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Jacques</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2994">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Jacques</title>
+                  </item>
+                  <item>
+                     <date when="1567"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Saint-Quentin</settlement>
+                        <region>Aisne/Picardie</region>
+                        <country/>
+                        <placeName type="bishopric">Noyon</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.847066, 3.287400</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Sujet : Ecritures saintes</item>
+                  <item>Récurrence : Coutume</item>
+                  <item>Temps : Jour du saint</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Saint Jacques</item>
+                  <item>Saint : Jour du -</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>En juin.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8667"
+                    source="S2994"
+                   
+                   
+                   >
+                  <head>Registre de la chambre du Conseil de Saint-Quentin.</head>
+                  <div type="transcription">
+                     <p>Sur la requeste presentee par les maistres procureurs, confreres et compaignons de
+                l’hospital Saint-Jacques, requerant qu’il leur fut permis faire quelque histoire du
+                saint Jacques le jour de sainct Jacques prochain, comme ils ont de tout temps
+                accoustumé faire, Messieurs ont permis de jouer a la charge que lesdicts supplians
+                leur monstront ce qu’ils doibvent jouer pour sçavoir s’il y a aulcunes choses
+                deffendues.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Lecocq, 1879. p. 5 – *Lavéant, 2007. p. 453.</bibl>
+                        <bibl type="additional">Registre de la chambre du Conseil de Saint-Quentin, année
+                  1567 (références précises non indiquées).</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Autorisation sous condition</item>
+                        <item>Censure</item>
+                        <item>Censure</item>
+                        <item>Contrôle : Procureur // </item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

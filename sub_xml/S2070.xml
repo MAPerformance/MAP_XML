@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2070">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1445"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Amiens</settlement>
+                        <region>Somme/Picardie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Beauvais</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.894067, 2.295753</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Dusevel, 1848. p. 294. – Dusevel, 1861. p. 5. – Dubois, 1878. p. 7. – Petit de
+              Julleville, 1880, t. 2. p. 17.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Noble</item>
+                  <item>Bourgeois</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Champ</item>
+               </list>
+               <note>Cette représentation de la Passion dura trois jours. « Jehan de Marguerrie » fut
+          « recompensé pour sa peine et salaire d'avoir gardé au beffroi d'Amiens, par trois jours
+          consécutifs, que l'on monstra et fit lesdits mystères. » Il fut payé à Ricart de
+          Bougainville, pâtissier, 13 livres 10 sous 2 deniers parisis « pour despense de bouche
+          faite par messeigneurs les mayeur et eschevins de la ville, les 17, 18, 19 et 20 mai 1445,
+          en veant le mistere de la Passion et Résurrection Nostre Seigneur. » - La pièce est jouee
+          à l’extérieur de la ville, dans le champ d’un particulier, Bernard Blondin. - Des nobles
+          et des bourgeois sont à l’origine de la requête.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7515"
+                    source="S2070"
+                   
+                   
+                   >
+                  <head>11 mai 1445, Registre aux délibérations échevinales</head>
+                  <div type="transcription">
+                     <p>Messieurs ont ordonné qu’ilz disneront ensemble sur leur hourt faict au Jeu de Dieu
+                les jours que on jouera ledit jeu, aux despens de la ville et feront le plus
+                gracieuse despence que faire se pourra et sont sommés lesd. Mathieu Duquarrel et
+                Thiebault Dugard, maistres d'hostel, pour pourveoir la despence.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Petit de Julleville, 1880, t. 2. p. 17 – *Runnalls, 2003. p. 259 – Lavéant,
+                  2007. p. 412</bibl>
+                        <bibl type="additional"> AMA, Délibérations échevinales BB5, f 228 – Dusevel,
+                  Histoire d’Amiens, pp. 294-295.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Loges des magistrats municipaux</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7516"
+                    source="S2070"
+                   
+                   
+                   >
+                  <head>9 mars, Délibération de la ville</head>
+                  <div type="transcription">
+                     <p>Mesdits seigneurs ont parlé ensemble pour le fait du jeu de la Passion, qui au
+                plaisir Dieu, sera démontré au peuple o festes de Pentecoustes.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Grenier, 1856. p. 402.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Discussions préliminaires</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7517"
+                    source="S2070"
+                   
+                   
+                   >
+                  <head>25 janvier 1444 (1445 nv. st.)</head>
+                  <div type="transcription">
+                     <p>Requête de notables et de bourgeois demandent au maire et aux échevins, et
+                obtinrent la permission de représenter la Passion de N.-S. J.-C.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Grenier, 1856. p. 402.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Autorisation accordée</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7518"
+                    source="S2070"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Payé à « Ricart de Bougainville, pastichier, 13 l., 10 s., 2d. pour despenses de
+                bouche faictes par messieurs les maire et eschevins de la ville les 17, 18, 19 et 20
+                mai 1445, en veiant le mistere de la Passion et Resurrection Nostre Seigneur faictes
+                et mostrees au poeuple esd. jours.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Grenier, 1856. p. 402 – *Runnalls, 2003. p. 259.</bibl>
+                        <bibl type="additional">- AMA, CC33, (f°33v ?)</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Salaire</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7519"
+                    source="S2070"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Jehan de Marguerie fut récompensé pour sa paine et salaire d'avoir gardé au beffroi
+                d'Amiens, par trois jours consecutifs, que l'on monstra et feit lesd. misteres.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Grenier, 1856. p. 402 – *Runnalls, 2003. p. 259.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Salaire</item>
+                        <item>Sécurité</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7520"
+                    source="S2070"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Sur ce que plusieurs notables personnes de la ville d’Amiens nous avoient fait
+                requeste qu’il nous pleust souffrier a juer la Passion de Nostre-Seigneur
+                Jesus-Crist a l’Ascension de Nostre-Seigneur prochain venant, et aussi qu’il nous
+                pleust donner aucune chose pour faire ledit jeu ; mesdits sieurs sont d’accord que
+                ledit jeu se face, et sera donné pour faire ledit jeu des deniers de ladite ville
+                pour supporter les frais, telle somme dont ci-après messieurs seront d’accord.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Runnalls, 2003. p. 259 – *Lavéant, 2007. p. 412.</bibl>
+                        <bibl type="additional">- AMA, Délibérations échevinales BB5, f 222.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

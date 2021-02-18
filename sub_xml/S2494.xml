@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion </title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2494">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion </title>
+                  </item>
+                  <item>
+                     <date when="1507"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Amboise</settlement>
+                        <region>Indre-et-Loire/Touraine </region>
+                        <country>France</country>
+                        <placeName type="bishopric">Tours</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>47.413326, 0.984407</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 90. – Runnalls, 1990.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Organisation : Rôle de Jésus pour un clerc</item>
+                  <item>Finance : Subvention par des particuliers</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Prêtre</item>
+                  <item>Clerc-acteur</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Eglise</item>
+                  <item>Eglise-théâtre</item>
+               </list>
+               <note>La mise en scène coûta 950 livres. Trois particuliers offrirent 400 livres. D'autres
+          notables habitants s'engagèrent à payer le surplus de la dépense, au cas où les recettes
+          seraient insuffisantes aie couvrir. Les répétitions du mystère eurent lieu dans l'église
+          Saint-Thomas ; mais la représentation fut donnée en plein air dans un théâtre provisoire.
+          Elle dura huit jours. Des ecclésiastiques y avaient leurs rôles ; pour jouer avec plus
+          d'exactitude, ils payèrent, ou plutôt l'association des acteurs paya pour eux, une
+          dispense qui les autorisait à laisser pousser leur barbe. L'emploi d'une barbe postiche
+          leur eût paru sans doute un déguisement trop profane. Jean Bardeau, prêtre, qui jouait
+          Jésus-Christ, reçut dix sous par semaine pendant quatre mois que durèrent les préparatifs
+          du mystère. Il y eut, comme d'habitude, un contrat passé entre les joueurs, solidairement
+          responsables. - Le texte sera remanié pour la Passion de Châteaudun de 1510.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8074"
+                    source="S2494"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Pour avoir obtenu de monseigneur de Tours ou MM. ses vicaires, la dispense des gens
+                d'église qui ont des rolles pour jouer audit mistaire de la Passion, a ce qu'ils
+                laissent venir leurs barbes, a esté payé xii s. vj. d… A messire Jehan Bardeau,
+                prestre, qui a le rolle pour jouer Nostre Seigneur a la Passion, a esté baillé et
+                paie la somme de viij liv. tournois pour ses paines et salaires d'avoir recordé
+                ledit rolle par l'espace de quatre moys, finis le XVe jour de mars de l'an mil cinq
+                cens et six (1507 n. s.) qui est au feur de X. s. tournois par semaine.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Petit de Julleville, 1880, t. 2. p. 90.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Comptabilité</item>
+                        <item>Autorisation accordée</item>
+                        <item>Déguisement : Barbe</item>
+                        <item>Clerc (statut de -)</item>
+                        <item>Clerc (barbe des -)</item>
+                        <item>Organisation : Répétition</item>
+                        <item>Aménagement : Dispense pour les ecclésiastiques</item>
+                        <item>Finance : Salaire</item>
+                        <item>Finance : Subvention ecclésiastique</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Prêtre</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8075"
+                    source="S2494"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Pour ung homme qui fut envoyé le Ve jour d'octobre au lieu de Luygny quérir Pierre
+                Tayrié pour le faire venir pour signer et collationner l'obligation des joueurs du
+                mystère de la Passion et Résurrection Notre Seigneur, ij s. vi d.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Comptabilité</item>
+                        <item>Organisation : Rôle (distribution de -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

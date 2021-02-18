@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2839">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1547"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Valenciennes</settlement>
+                        <region>Nord/Pays-bas méridionaux</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>50.357113, 3.518332</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Morice, 1836. p. 171. – Petit de Julleville, 1880, t. 2. p. 144. – Konigson,
+              1969.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Représentation (mystère)</item>
+                  <item>Condition : Censure</item>
+                  <item>Juridiction : Ecclésiastique</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Maison</item>
+               </list>
+               <note>Le ms. 12536 de la Bibliothèque nationale est intitulé : Première journée de la
+          Passion de Jhesus Christ, jouée à Valenciennes l'an 1547. Cette représentation, qui fut
+          magnifique et dura vingt-cinq journées, nous est assez bien connue, par divers témoignages
+          que nous allons rassembler. [Beaucoup de documents à recopier dans Petit de Julleville]
+          Pour la censure cf. Morice.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8413"
+                    source="S2839"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Chy fine la passion et résurrection de nostre saulveur et rédempteur Jhesucrist,
+                ainsy quelle fut juée en Valenchiennes, en le an mil cincq cent et quarante sept,
+                par grace de maistre Nicaise Chamart, segneur de Alsembergue, alors prevost de la
+                ville, et de ses pères (sic) et companions en loy ; passés et reveues des scavans
+                docteurs comis a cho faire de par venerendissime père en Dieu, Robert de Croy,
+                evesque de Cambray ; et juée par les compagnons chy après desclarés.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">fin du manuscrit, f°293.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (manuscrit de la -)</item>
+                        <item>Censure</item>
+                        <item>Contrôle : Evêque</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Au-dessous une miniature représente un personnage jeune, blond, vêtu d'un
+                pourpoint violet à manches rouges, avec bas et haut-de-chausses jaunes, souliers
+                noirs, tenant de la main gauche une baguette et de la droite un rouleau de papier.
+                C'est peut-être le maître du jeu ou l'un des « originateurs ».</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8414"
+                    source="S2839"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Il est a notter que pour fournir aux despenses et ordonances de la dicte passion,
+                les dicts compaignons douse (sic, il faut lire treize) superintendants eslurent en
+                Valenchiennes que pour estre leurs maistres et conducteurs, et pour les tenir en
+                paix et unyon, se il y avoit aulcun divis ou desbat entre eulx, et meisme pouvoient
+                lesdicts superintendens corriger et mettre a l'amende lesdicts compaignons jueurs,
+                se aulcune défaillance estoit trouvée en eulx, sans en inventer messegneurs de la
+                justice. Item est encore a notter que les dicts treze superintendens et tous les
+                jueurs, lesquels emprindrent le affaire, se obligèrent tous de convenir a payer la
+                despence faict, sy de adventure il fut advenu quelque mortalité ou guerre, que on
+                (n') eubst poeult pas juer ne parfaire la dicte emprinse ; et aussi se quelcun
+                emprendoit parchon pour juer, et il ne eubt volut parfaire son emprinse, on se
+                poroit retirer sur son corps et sur ses biens; et fut la dicte obligation faicte et
+                signée le jour du jeudy absolut; et aulx festes de Penthecoustes ensuyvant, on
+                coraencha a juer. S'ensuivent les noms des treze superintendens desquels les aulcuns
+                furent jueurs : […]</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Distribution des rôles</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8415"
+                    source="S2839"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Au Paradis un ray d'or derrière Dieu le Père, tournant incessamment. En enfer,
+                s'ouvrant le gouffre, sortoit feu et fumée avec diables d'horribles formes, et
+                Lucifer jectant feu et famée par la goeulle. A la nativité du Seigneur, les anges
+                voilant en l'air et chantant et faisant grand splendeur de flambe au moien de
+                quelque baston doré qu'ils tenoient en leurs mains en forme de lampe au boult, dont
+                sortoit la dicte flambe soufflant quelque peu le dict baston. Item a l'occision des
+                Innocents on voyoit sortir le sang de leurs corps… Item aussy de Sathan qui porta
+                Jésus rampant contre la muraille, bien quarante ou cinquante pieds de hault… Item
+                aux nopces… ou l'eau qu'on versa devant tous fut muée en vin et dont en burent plus
+                de cent personnes des spectateurs, de mesme a la multiplication des pains on en
+                donna a plus de mille personnes et en fut recueilli douze corbeilles pleines.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">manuscrit de madame la marquise de la Coste, Catalogue du
+                  ministère de l'inst. publ, (Expos, univ. de 1878), p. 65.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8416"
+                    source="S2839"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Aux festes de la Pentecoste de l'an 1547 les principaux bourgeois de la ville
+                représentèrent sur le théâtre, en la maison du duc d'Arschot, la vie, mort et
+                passion de Nostre Seigneur, en vingt-cinc journées; en chacune des quelles on vit
+                paraître des choses estranges et pleines d'admiration. Les secrets du Paradis et de
+                l'Enfer estoient tout à fait prodigieux, et capables d'estre pris par la populace
+                pour enchantemens. Car l'on voyoit la Vérité, les Anges et divers autres personnages
+                descendre de bien haut, tantost visiblement, autrefois comme invisibles, puis
+                paroistre tout à coup ; de l'Enfer Lucifer s'eslevoit, sans qu'on vit comment, porté
+                sur un dragon. La verge de Moyse, de sèche et stérile, jettoit à coup des fleurs, et
+                des fruicts ; les âmes de Herodes, et de Judas estoient emportées en l'air par les
+                Diables ; les Diables chassés des corps, les hydropiques et antres malades guéris,
+                le tout d'une façon admirable. Icy Jésus Christ estoit eslevé du Diable, qui rampoit
+                le long d'une muraille de quarante pieds de haut ; là il se rendoit invisible ;
+                ailleurs il se transfiguroit sur la montaigne de Thabor. On y vit l'eau changée en
+                vin, si mystérieusement qu'on ne le pouvoit croire ; et plus de cent personnes de
+                l'auditoire voulurent gouster de ce vin ; les cinc pains et les deux poissons y
+                furent semblablement multipliés, et distribués a plus de mille personnes ;
+                nonobstant quoy il y en eut plus de douze corbeilles de reste. Le figuier maudit par
+                Nostre Seigneur parut séché, et les fueilles flétries en un instant. L'éclypse, le
+                terre-tremble, le brisement des pierres et les autres miracles advenus à la mort de
+                Nostre Sauveur furent représentés avec des nouveaux miracles. La foule y fut si
+                grande pour l'abord des estrangers qui y vindrent de France, de Flandre, et
+                d'ailleurs ; que la recepte monta jusques à la somme de 4 680 livres, combien que
+                les spectateurs no payassent qu'un liard ou six deniers chacun. Les vers furent du
+                depuis imprimés à Paris sous le nom des Aucteurs.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Histoire de la ville et comté de Valenciennes, par II.
+                  d'Outreman, Douai, 1639, p. 396.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

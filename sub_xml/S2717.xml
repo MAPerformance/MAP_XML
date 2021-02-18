@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arrêt du Parlement contre les barbiers</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2717">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Arrêt du Parlement contre les barbiers</title>
+                  </item>
+                  <item>
+                     <date when="1534"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Bordeaux</settlement>
+                        <region>Aquitaine</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>44.837789, -0.579180</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Brives-Cazes, 1858. – Petit de Julleville, 1886. p. 380.</bibl>
+                  <bibl type="additional">Actes de l'Académie nationale des Sciences, Belles-Lettres et
+              Arts de Bordeaux, 3e série, 43e année, 1881, p. 403.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Type : Arrêt</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Acteur ambulant</item>
+                  <item>Bazoche</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>En février 1534, le roi et les suppôts de la Bazoche s'opposent à ce qu'un individu,
+          homme inconnu, besognast aux soties et moralités et farces de la Bazoche. Ils se plaignent
+          au parlement de ce que ce particulier a fait alliance avec les barbiers de la ville pour
+          jouer et s'assembler. Le parlement fait aussitôt défense aux barbiers de se réunir,
+          etc.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8298"
+                    source="S2717"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>En 1534, les barbiers de Bordeaux voulurent disputer aux Basochiens le monopole que
+                ceux-ci prétendaient avoir pour les représentations du genre comique ; un comédien
+                ambulant, inconnu dans la ville et qui se faisait nommer « Mère d'Enfance » excitait
+                vivement les barbiers et cherchait sans doute à recruter parmi eux une troupe
+                d'acteurs pour faire concurrence aux Basochiens. En attendant, il voulait faire
+                insulte à leur Roi, nommé Levrault, en portant, par les rues de la ville, un Levraut
+                écorché. Le Parlement s'émut et par arrêt, fit défense aux barbiers de sortir en
+                troupes et d'injurier la Basoche « sous peine de la hart ». En compensation, il
+                était permis aux barbiers de s'en aller danser par les carrefours, mais au nombre de
+                dix au plus et sans armes ; surtout « sans médire d'aucun par libelle ne autrement
+                »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Lépicier, 1862, t. 3. p. 466 – *Petit de Julleville, 1886. p. 380 – Mazouer,
+                  1980. p. 79.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Interdiction</item>
+                        <item>Contrôle : Parlement</item>
+                        <item>Autorisation</item>
+                        <item>Cause : Désordre // </item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

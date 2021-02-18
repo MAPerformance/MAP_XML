@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Crépin et saint Crépinien</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2149">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Crépin et saint Crépinien</title>
+                  </item>
+                  <item>
+                     <date when="1459"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Paris</settlement>
+                        <region>Paris/Île-de-France</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Paris</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.856614, 2.352222</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 27</bibl>
+                  <bibl type="additional"> Lalou, Élisabeth, Le mystére de saint Crépin et saint
+              Crépinien, thèse pour le diplôme d'archiviste paléographe, 1980.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Confrérie de Saint Crépin et saint Crépinien (Paris)</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Le nom de Challot Chandelier, celui du meneur du jeu dans la représentation de 1458,
+          ne figure pas dans la liste des trente et un « frères serviteurs » qui présidèrent, ou
+          même prirent part comme acteurs, à la représentation de 1443 dont fait mention le
+          manuscrit Soleinne cité plus haut (v. 1443 ci-dessus).</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7587"
+                    source="S2149"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>C'est de la confrarie monseigneur saint Crespin et monseigneur saint Crespinien
+                fondée en l'église Notre-Dame de Paris aux maistres et aux compaingnons
+                cordouenniers et fut joué aux Carnieux l'an IIIIc LIX (1459) Chandellier.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Extérieur de Ia couverture du manuscrit de Saint Crespin et
+                  Saint Crépinien de la troisième journée.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- On voit que le monopole dramatique concédé à Paris par Charles VI aux
+                confrères de la Passion devait à l'occasion céder devant le privilège antérieur et
+                naturel que possédait chaque corporation de jouer ou faire jouer librement la vie de
+                son patron, pour sa propre distraction et son édification.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

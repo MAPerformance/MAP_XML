@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3557">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1493"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Vitré</settlement>
+                        <region>Îlle-et-Vilaine/Bretagne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rennes ?</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>48.124746, -1.215430</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9690"
+                    source="S3557"
+                   
+                   
+                   >
+                  <head>Mandement du comte de Laval, du 3o mai 1493</head>
+                  <div type="transcription">
+                     <p>De par le conte de Laval et de Montfort, viconte de Rennes, sire de Vitré etc.,
+                Jehan de Challet, miseur des deniers establiz et ordonnez a la fortifficacion et
+                reparacion de nostre ville de Vitré, nous vous mandons paier et bailler, sur
+                lesdicts deniers, a nostre bien amé Jehan Columbel, choriste de nostre eglise
+                collegial de la Magdalaine de Vitré, la somme de cent solz monnoye, qui luy a esté
+                ordonnee pour ses vacasions et paines qu’il a eues de doubler et escripre le numbre
+                de quatre vints dix rolles du mistere de la Passion Nostre Seigneur Jhesu Christ,
+                que on n’avoit nagueres deliberé jouer en ceste nostre dicte ville de Vitré.
+                Lesquelz rolles il doubla et grossa, par l’ordonnance et advis de nous, des
+                bourgeois et habitans de ladicte ville de Vitré. Et que en ce n’ait deffault, sur ce
+                que povez desplaire. Et ces presentes, avec quictance de luy de ladicte somme, vous
+                en vauldra descharge a voz comptes, comme mestier en aurez. Donné en nostre dicte
+                ville le penultime jour de may l’an mil IIIIcc quatre vingts et treze [Signé] GUY
+                [plus bas] LEGAL</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Salaire</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Renvoie à la Pièce de 1492 ? Désigne une pièce originale ?</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère d’Esther</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2543">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère d’Esther</title>
+                  </item>
+                  <item>
+                     <date when="1512"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Metz</settlement>
+                        <region>Lorraine</region>
+                        <country/>
+                        <placeName type="bishopric">Metz</placeName>
+                        <placeName type="eccl_province">Trèves</placeName>
+                        <geo>49.119666, 6.176905</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 102.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Place publique</item>
+               </list>
+               <note>- Esther, fragment du Vieux Testament.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8132"
+                    source="S2543"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le XIXe jour de septembre (1512) fut jué le jeus de la royne Ester, comment le
+                grand roy Asuerus tenoit court solemnelle accompagnié de tous ses princes et
+                envoioit quérir la royne Vasty, sa femme, qu'elle venist a la feste faire honneur au
+                prince ; la quelle desobeyt et n'y volt point aller. Le roy fort indigné de sa
+                désobéissance la repudioit et la bannist de son royaulme et print a femme du conseil
+                de ses princes, la noble Ester, et on dit jeu, que duroit II jours, en y oit trois
+                despendus bien subtillement et y demourarent asses longuement. Au dit mois fut jué
+                en Chambre (sept. 1512) le jeu de Hester et du roi Assuerus et comme il allevit la
+                dite Hester pour son humilité laquelle est figure de la vierge Marie, et desboutit
+                Wasty, sa première femme, pour son orgueil. Et duroit deux jours et furent les
+                secrets bien faits ; dequoy je Philippe de Vigneulles en fus l'un des maistres et sy
+                juois le personnaige de Egeus, prevost et gairdien des dames.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Jacomin Husson, édit. Michelant, p. 268 ; Philippe de
+                  Vigneulles, édition Michelant, p. 222.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

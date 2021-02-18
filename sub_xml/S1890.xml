@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Résurrection</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S1890">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Résurrection</title>
+                  </item>
+                  <item>
+                     <date when="1376"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Cambrai</settlement>
+                        <region>Nord/Pays-bas méridionaux</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>50.173538, 3.236633</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 5.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Récurrence</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pâques</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>On trouve des mentions analogues dans la plupart des comptes de la cathédrale pour la
+          seconde moitié du XIVe siècle. Il en est de même dans les comptes de la collégiale
+          Saint-Amé de Douai pour le XVe siècle. A la vérité, ces mentions semblent s'appliquer
+          surtout à des représentations de drames liturgiques On ne peut cependant admettre qu'un
+          jeu dont les acteurs étaient payés fût purement liturgique. [Petit de Julleville]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7290"
+                    source="S1890"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Dans la nuit de Pâques, pour préparer le sépulcre, pour les clous, les cordes et
+                quatre compagnons ouvriers qui y travaillèrent : 13 sous. Item pour le mystère de la
+                Résurrection, pour préparer Jésus, à savoir une paire de chaussures et de gants, et
+                un tonnerre artificiel… 7 sous. Item au maître peintre pour peintures de la
+                résurrection… 15 sous. Item pour gratification aux compagnons qui ont fait les
+                personnages dans ledit mystère de la Résurrection, un mouton royal, valeur… 30
+                sous</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Petit de Julleville, 1880, t. 2. p. 5</bibl>
+                        <bibl type="additional">Comptes de la Cathédrale de Cambrai pour l’année
+                  1375-1376.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Salaire</item>
+                        <item>Finance : Dépenses</item>
+                        <item>Organisation : Fabrication du décor // Organisation : Fabrication des
+                  costumes</item>
+                        <item>Type : Comptabilité</item>
+                        <item>Finance : Salaire en nature</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

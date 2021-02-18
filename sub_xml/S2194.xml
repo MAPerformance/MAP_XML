@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Histoires</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2194">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Histoires</title>
+                  </item>
+                  <item>
+                     <date when="1464"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Tournai</settlement>
+                        <region>Wallonie/Hainaut</region>
+                        <country>Belgique</country>
+                        <placeName type="bishopric">Tournai</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>50.607234, 3.392589</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7653"
+                    source="S2194"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Après l’entrée de Louis XI, les Consaux donnent « a Jehan de le Prée, rétoricien,
+                pour se paine et labeur de avoir concheu, devisé et de tout ordonné et conduit la
+                forme des hystoires, jusques au nombre de noef, qui, le jour de l’entrée du Roy,
+                nostre dit sire, furent, aux despens des mestiers de ladite ville, faictes en divers
+                lieux en icelle ville ès rues et quarfours où ledit seigneur passa, et à ce proppos
+                mis par escript les proverbes et sbstances desdites hystoires, en quoy il vacqua par
+                pluiseurs journées; et pour ce lui fu ordonné X l.».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>La Grange, 1885. p. 66 – *Lavéant, 2007. p. 454.</bibl>
+                        <bibl type="additional">Comptes généraux de 1463 a.s., disparus.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

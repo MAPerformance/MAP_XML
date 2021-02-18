@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère des Actes des Apôtres</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2270">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère des Actes des Apôtres</title>
+                  </item>
+                  <item>
+                     <date when="1478"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Aix-en-Provence</settlement>
+                        <region>Provence</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>43.604652, 1.444209</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 41.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Roi</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Dans la préface de l'édition des Actes des Apôtres donnée en 1538, Guillaume Alabat
+          semble affirmer que les Actes, représentés à Bourges en 1536, ne l'avaient jamais été
+          auparavant. Il se peut que Guillaume Alabat fût sincère, mais il est fort probable qu'en
+          ce cas il se trompait. Le drame écrit par Simon Greban fut joué dès l'année 1478 devant le
+          roi René : il est vrai qu'il se présenta plus ou moins modifié, et sous le nom d'un autre
+          auteur. A cette époque il devait y avoir une vingtaine d'années que l'œuvre commune des
+          deux Greban était achevée. Les Actes des Apôtres semblent postérieurs à la Passion ;
+          Arnoul mourut probablement sans les avoir achevés; Simon, qui lui survécut, écrivit la
+          seconde partie vers 1460; c'est la date que l'on peut assigner approximativement à cet
+          ouvrage. Peu de temps après la mort des Greban, le roi René fit remanier leur œuvre.
+          M. Lecoy de la Marche, s'appuyant sur le texte joint, croit que le célèbre mystère des
+          Actes des Apôtres, attribué de tout temps à Simon Greban, peut être restitué A Jehan le
+          Prieur ; tout au moins l'aurait-il remanié. La seconde hypothèse est seule plausible. Le
+          texte cité ne dit pas que les Actes aient été joués devant René, mais le fait semble
+          probable. Gomme d'autre part le roi résida en Provence de 1471 à 1480 (date de sa mort),
+          nous avons placé à Aix le lieu de celte représentation ; mais nous ne nous dissimulons pas
+          combien notre hypothèse est peu solide. En effet, la récompense a pu se faire attendre
+          pour Jean le Prieur; il se peut qu'il eût remanié les Actes dès l'année 1470, ou avant; il
+          se peut ainsi que la pièce ait été représentée à Angers. La Groix du Maine et de
+          Beauchamps parlent vaguement de représentations des Actes données à Angers, au Mans, à
+          Tours. M. Aimé de Soland, dans ses Études sur le théâtre angevin (Revue d’Anjou, 1855,
+          t. II), place à Angers la représentation des Actes remaniés par le Prieur et joués devant
+          René ; mais il n'appuie cette affirmation d'aucune preuve.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7736"
+                    source="S2270"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Jehan du Périer, dit le Prieur, « mareschal des logeys » du roi, reçut le « la
+                somme de deux cent cinquante florins, en considération des bons et agréables
+                services qu'il luy faisoit chacun jour et mesmement pour certain livre ou histoire
+                des apostres qu'il avait nagueres dressié et mis en ordre selon la matière que ledit
+                seigneur luy avoit baillée ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Archives des Bouches-du-Rhône, B 273, f°193 – Lecoy de la
+                  Marche, le Roi René, t. II, p. 143 et 144 – Villeneuve-Bargemont, le Roi René,
+                  t. III, p. 87 et 280.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Salaire</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

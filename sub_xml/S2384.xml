@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2384">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1490"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Reims</settlement>
+                        <region>Champagne</region>
+                        <country/>
+                        <placeName type="bishopric">Reims</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.258329, 4.031696</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 56. – Koopmans, 1997-2. p. 53.</bibl>
+                  <bibl type="additional"> L. Paris, Toiles peintes et tapisseries, t. I, p. LIX.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Représentation (mystère)</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+                  <item>Service (après)</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>On croit que la représentation de la Passion de Notre-Seigneur revenait
+          périodiquement, à Reims, durant les fêtes de Pentecôte : celle de 1490 eut un éclat
+          particulier. L'archevêque de Tours, l'évêque de Thérouanne, le comte et la comtesse de
+          Crouy assistèrent à la représentation, laquelle dura huit jours. J. Foulquart fut l'un des
+          acteurs. Le dimanche, 28 mai, l'on fit la monstre à cheval. Le 26, Foulquart et Jehan Mœt
+          obtinrent qu'on avancerait le service de l'Église les jours de représentation « pour y
+          dire devant que commencer la messe du St-Esprit, et avoir les enfants de chœur de l'église
+          pour chanter musique en ladite action ». Le 30, jour de la Pentecôte, le jeu commença
+          après le service divin. Le lundi, 31, on joua de 8 heures du matin à 7 heures du soir. Le
+          mardi, de 9 heures du matin jusqu'à la nuit; de même le mercredi. Le jeudi matin on joua
+          jusqu'au dîner. Après midi la pluie fit cesser la représentation. Le vendredi on joua
+          après dîner, jusqu'au soir. Le samedi on se reposa. Le dimanche, le crucifiement fut
+          représenté devant 16000 assistants ; le lundi, la résurrection, l'ascension, la descente
+          du Saint-Esprit. Ensuite on chanta le Te Deum, « les acteurs étant en places éminentes ».
+          Durant tout le jeu des femmes présentaient, au nom de la ville, du vin et des pâtisseries
+          aux spectateurs et aux acteurs. « Et y avoient des acteurs qui avoient des buffets tout
+          couverts de vaisselle d'argent et bien ornez et faisaient présenter vin et fruit en leur
+          nom. »</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7972"
+                    source="S2384"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Lundy 7 décembre 1489, dit J. Foulquart, assemblée en l'eschevinage, en laquelle
+                M. le lieutenant Guillaume Coquillart, ou en son absence maistre Guillaume, son
+                neveu (le poète), messire Robert Blondel, Pierre Boulet et moy, fusmes commis a la
+                distribution des roolles de la Passion, prendre les congés et faire ce qu'il faut
+                faire.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Mémoires inédits de J. Foulquart (procureur de
+                  l'échevinage). Œuvres de Coquillart (Biblioth. elzév.), t. II, p. 293, en
+                  note.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Distribution des rôles</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7973"
+                    source="S2384"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>A esté conclud que aux sieurs grands personnages qui viendroient pour veoir le
+                mistere de la Passion l'on présente en buires les deux poinssons de vin que
+                J. Foulquart procureur a. dit avoir esté acheptés pour ce faire, le prix de vingt
+                quatre livres tournois que paies a ledit recepveur… A esté aussi conclud que a
+                mademoiselle la capitaineresse sera fait présent a sa venue icy ; et parlera ton aux
+                gens d'église pour savoir quoy.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Livre des conclusions du conseil de Reims.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9521"
+                    source="S2384"
+                   
+                   
+                   >
+                  <head>26 mai</head>
+                  <div type="transcription">
+                     <p>Foulquart et Jehan Moet obtinrent qu'on avancerait le service de l'Église les jours
+                de représentation « pour y dire devant que commencer la messe du St-Esprit, et avoir
+                les enfants de chœur de l'eglise pour chanter musique en ladite action ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">PdJ2, p. 57.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Aménagement : Modification de la liturgie</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

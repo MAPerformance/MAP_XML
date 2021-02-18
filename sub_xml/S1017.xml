@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Regularis concordia Anglicae nationis monachorum sanctimonialumque</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S1017">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author">Adeluoldus</persName>
+                  </item>
+                  <item>
+                     <title>Regularis concordia Anglicae nationis monachorum sanctimonialumque</title>
+                  </item>
+                  <item>
+                     <date from="0964" to="0975"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Winchester</settlement>
+                        <region/>
+                        <country>Angleterre</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo/>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Type : Règlement</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pâques : Vendredi Saint</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Clerc-acteur</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Date : Kobialka. — Dom S. apporte divers arguments pour la fixation de la date du
+          concile de Winchester : pas avant 970 et peut-être entre 972 et 973.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T4965"
+                    source="S1017"
+                   
+                   
+                   >
+                  <head>Cap.4 §.46</head>
+                  <div type="transcription">
+                     <p>[46] Nam quia ea die depositionem corporis Saluatoris nostri celebramus, usum
+                quorundam religiosorum, imitabilem ad fidem indocti uulgi ac neophytorum
+                corroborandam, aequiperando sequi si ita cui uisum fuerit uel sibi taliter
+                placuerit, hoc modo decreuimus : sit autem in una parte altaris, qua uacuum fuerit,
+                quaedam assimilatio sepulchri, uelamenque quoddam in gyro tensum quo, dum sancta
+                crux adorata fuerit, deponatur hoc ordine. Veniant diaconi qui prius portauerunt eam
+                et inuoluant eam sindone in loco ubi adorata est ; tunc reportent eam canantes
+                antiphonas In pace in idipsum, alia : Habitauit ; item : Caro mea requiescat in spe,
+                donec ueniant ad locum Monumenti ; depositaque cruce, ac si Domini Nostri Ihesu
+                Christi corpore sepulto, dicant antiphonam Sepulto Domino, signatum est monumentum
+                ponentes milites qui custodirent eum. In eodem loco sancta crux cum omni reuerentia
+                custodiatur usque dominicam noctem Resurrectionis. Nocte uero ordinentur duo fratres
+                aut tres aut plures, si tanta fuerit congregatio, qui ibidem psalmos decantando
+                excubias fideles exerceant. […] [50] In die sancto Paschae septem canonicae horae a
+                monachis in ecclesia Dei more canonicorum propter auctoritatem beati Gregorii papae
+                sedis apostolicae quam ipse Antiphonario dictauit, celebrandae sunt. Eiusdem tempore
+                noctis, antequam Matutinorum signa moueantur, sumant aeditui crucem et ponant in
+                loco sibi congruo. In primis ad Nocturnum ab abbate seu quolibet sacerdote, dum
+                initur laus Dei in ecclesia, dicatur : Domine labia mea aperies, semel tantum ;
+                postea, Deus in adiutorium meum intende cum Gloria. Psalmo autem Domine quid
+                multiplicati sunt dimisso, cantor incipiat Inuitatorium ; tunc tres antiphonae cum
+                tribus psalmis ; quibus finitis uersus conueniens dicatur ; deinde tot lectiones cum
+                responsoriis ad hoc rite pertinentibus. [51] Dum tertia recitatur lectio, quattuor
+                fratres induant se, quorum unus, alba indutus ac si ad aliud agendum, ingrediatur,
+                atque latenter sepulcri locum adeat ibique, manu tenens palmam, quietus sedeat.
+                Dumque tertium percelebratur responsorium residui tres succedant, omnes quidem
+                cappis induti, turibula cum incensu manibus gestantes, ac pedetemptim ad
+                similitudinem quaerentium quid, ueniant ante locum sepulcri. Aguntur enim haec ad
+                imitationem angeli sedentis in monumento, atque mulierum cum aromatibus uenientium
+                ut ungerent corpus Ihesu. Cum ergo ille residens tres, uelut erraneos ac aliquid
+                quaerentes, uiderit sibi adproximare, incipiat mediocri uoce dulcisone cantare Quem
+                quaeritis ? Quo decantato finetenus, respondeant hi tres, uno ore : Ihesum
+                Nazarenum. Quibus ille : Non est hic. Surrexit sicut praedixerat. Ite, nuntiate quia
+                surrexit a mortuis. Cuius iussionis uoce uertant se illi tres ad chorum, dicentes
+                Alleluia. Resurrexit Dominus. Dicto hoc, rursus ille residens, uelut reuocans illos,
+                dicat antiphonam : Venite et uidete locum. Haec uero dicens, surgat et erigat uelum
+                ostendatque eis locum, cruce nudatum sed tantum linteamina posita quibus crux
+                inuoluta erat ; quo uiso deponant turribula quae gestauerant in eodem sepulchro,
+                sumantque linteum et extendant contra clerum ac, ueluti ostendentes quod surrexerit
+                Dominus et iam non sit illo inuolutus, hanc canant antiphonam : Surrexit Dominus de
+                Sepulcro, superponant linteum altari. [52] Finita antiphona prior, congaudens pro
+                triumpho regis nostri, quod deuicta morte surrexit, incipiat hymnum Te Deum
+                laudamus ; quo incepto una pulsantur omnia signa. […]</p>
+                  </div>
+                  <div type="translation">
+                     <p>En ce jour [le Vendredi saint] où nous célébrons la descente de croix du corps de
+                notre sauveur, nous avons décidé, de suivre, avec la volonté de faire aussi bien,
+                l'usage de certains religieux qui se livrent à des imitations pour fortifier la foi
+                de la foule ignorante et des nouveaux convertis. On aménagera sur un côté de l'autel
+                préalablement libéré, une imitation de tombeau et on l'entourera d'un rideau
+                circulaire que l'on installera pendant que se déroule l'adoration de la croix. Les
+                diacres qui avaient apporté la croix viendront et l'envelopperont d'une étoffe, à
+                l'endroit où aura eu lieu l'adoration. Ensuite ils la rapporteront en chantant les
+                antiennes In pace in idipsum… et Caro mea requiescat in spe… jusqu'à ce qu'ils
+                arrivent au lieu du tombeau. Ils y déposeront la croix, comme s'ils y
+                ensevelissaient le corps de Notre Seigneur Jésus-Christ, et ils chanteront
+                l'antienne: Sepulto Domino, signatum est monumentum ; ponentes milites qui
+                custodirent eum (Une fois le Seigneur enseveli, on scella le tombeau, des soldats y
+                furent placés pour le garder). Dans ce même lieu on montera la garde avec une grande
+                révérence jusqu'à la nuit du dimanche de la Résurrection. La nuit deux frères, ou
+                trois, ou plus si la communauté est nombreuse, seront prévus pour monter une garde
+                fidèle en chantant des psaumes. […] Pendant la lecture de la troisième leçon, quatre
+                frères iront s'habiller. L'un d'entre eux sera vêtu d'une aube, il entrera comme
+                pour faire autre chose et il ira sans qu'on le voie à l'endroit du sépulcre; là,
+                tenant une palme dans sa main, il restera assis sans bouger. Pendant le chant du
+                troisième répons, les trois autres pénétreront à leur tour, tous vêtus de la chape,
+                portant en mains des encensoirs avec de l'encens. D'une démarche hésitante, à la
+                façon de gens qui cherchent quelque chose, ils se rendront à l'endroit du tombeau.
+                Ce jeu a pour but de représenter l'ange qui est assis sur le tombeau, et les femmes
+                qui viennent avec les aromates oindre le corps de Jésus. Lorsque celui qui est assis
+                aura vu s'approcher de lui les trois personnages qui s'avancent comme des gens qui
+                hésitent et sont à la recherche de quelque chose, il commencera à chanter à mi-voix
+                et doucement : Quem quaeritis in sepulchro, o Christicolae ? (Qui cherchez-vous dans
+                le tombeau, ô adoratrices du Christ ?) Ce chant complètement achevé, les trois
+                autres répondront à l'unisson : Jhesum Nazarenum crucifixum, o coelicola. (Jésus de
+                Nazareth crucifié, ô habitant du ciel) Il leur dira alors : Non est hic, surrexit
+                sicut praedixerat, ite, nuntiate quia surrexit a mortuis (Il n'est pas ici, il est
+                ressuscité ainsi qu'il l'avait prédit; allez, annoncez qu'il est ressuscité d'entre
+                les morts). A l'énoncé de cet ordre ils se tourneront tous les trois vers le chœur
+                en disant : Alleluia, resurrexit Dominus, hodie resurrexit leo fortis, Christus,
+                filius Dei. (Alleluia, le Seigneur est ressuscité, il est ressuscité aujourd'hui le
+                lion fOft, le Christ, fils de Dieu) Ceci dit, celui qui est assis s'adressera à
+                nouveau à eux, et, dans l'attitude de quelqu'un qui les rappelle, il dira
+                l'antienne : Venite et videte locum ubi positus erat Dominus, alleluia. (Venez et
+                voyez le lieu où avait été déposé le Seigneur, alleluia). En disant ces paroles, il
+                se lèvera et relèvera le rideau pour montrer que le lieu où était la croix est vide
+                et ne contient plus que le linceul dans lequel la croix avait été enveloppée. Voyant
+                cela, ils déposeront dans le tombeau les encensoirs qu'ils avaient apportés et
+                prendront le linceul ; ils le déploieront face au clergé, et dans l'attitude de gens
+                qui montrent que le Seigneur est ressuscité et n'est plus enseveli dedans, ils
+                chanteront cette antienne : Surrexit Dominus de sepulchro, qui pro nobis pependit in
+                ligno, alle/uia (Il est ressuscité du tombeau, le Seigneur qui pour nous pendit sur
+                la croix, alléluia). Ils déposeront ensuite le linceul sur l'autel. L'antienne
+                terminée, le prieur, se réjouissant avec eux du triomphe de notre roi qui vainquit
+                la mort et ressuscita, entonnera l'hymne Te Deum laudamus. Ce chant entonné, toutes
+                les cloches se mettront à sonner à la fois.</p>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Berger, 1976. p. 269 – Rousse, 2004. p. 147.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Nous conservons les paragraphes de la traduction de Rousse pour faciliter le
+                passage d’un texte à l’autre.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

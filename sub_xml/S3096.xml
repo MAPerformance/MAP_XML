@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Farces, comédies et tragédies</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3096">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Farces, comédies et tragédies</title>
+                  </item>
+                  <item>
+                     <date when="1599"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Tournai</settlement>
+                        <region>Wallonie/Hainaut</region>
+                        <country>Belgique</country>
+                        <placeName type="bishopric">Tournai</placeName>
+                        <placeName type="eccl_province">Cambrai</placeName>
+                        <geo>50.607234, 3.392589</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Pluralisme juridique</item>
+                  <item>Juridiction : Conflit</item>
+                  <item>Juridiction : Ecclésiastique</item>
+                  <item>Juridiction : Municipale</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8803"
+                    source="S3096"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>En 1599, les Consaux permirent à des acteurs français de représenter ici « farces,
+                comédies et tragédies. » Sitôt qu'il eut connaissance de cette permission, l'évèque
+                d'Esne se présenta à l'assemblée des prévôts et jurés et leur déclara qu'il «
+                n’entendoit aucunement tollérer, veu qu'en leur permectant, ce seroit donner moyen
+                de desbauchemens et yvrongneryes au peuple, et que comme Franchois, ilz polroient
+                espier le pays, emportant les deniers du peuple, lequel aussy se mectroit à
+                oisiveté, adjoustant après plusieurs propos que ce faict n'estoit seulement de la
+                congnoissance séculière, ains (mais) aussy ecclésiastique, et qu'on ne debvoit avoir
+                donné ladite grâce et licence sans luy en avoir parlé, disant avec grant collère,
+                chaleur et béhement, par plusieurs fois, qu'il ne permectroit les dis jeux, ains que
+                s'ilz jouoient il les tireroit jus du théâtre et renverseroit ledit théâtre, priant
+                que Dieu lui en donna la forche. " Malgré cette véhémente opposition , les Consaux
+                ne crurent point de leur dignité de retirer la permission donnée aux acteurs
+                forains. (Bull., Soc. hist. de Tournai). Le même cas se présenta une dizaine
+                d'années plus tard, comme nous l'apprend de Hurges : réclamation du pouvoir
+                spirituel, réponse des consistoires priant l'évèque « de vivre en repos de ce costé
+                et se mettre hors la tête tels soucys. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Faber, 1878, t. 1. p. 15</bibl>
+                        <bibl type="additional"> Cf. Bibliothèque d'humanisme et Renaissance: travaux et
+                  documents, Volumes 8 à 9, 1946, p. 320.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Interdiction</item>
+                        <item>Censure</item>
+                        <item>Autorisation accordée</item>
+                        <item>Contrôle : Magistrat municipal</item>
+                        <item>Contrôle : Evêque</item>
+                        <item>Cause : Finance</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moralité de l’Amour et la Fille</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2418">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Moralité de l’Amour et la Fille</title>
+                  </item>
+                  <item>
+                     <date when="1494"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Toulon</settlement>
+                        <region>Provence</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>43.124228, 5.928000</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Albanès, 1874. p. 506.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pâques</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Clerc bénéficier</item>
+                  <item>Chapelain</item>
+                  <item>Artisan</item>
+                  <item>Ordre : Frères prêcheurs</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Acte passé par Honorat Flamengui (comme Draguignan 1462), avec le témoignage du
+          vicaire et official de Toulon et d’un second notaire au palais épiscopal. - Albanès
+          suppose que c’est inspiré du mythe de Psyché. - Joueur : un clerc bénéficier, un chapelain
+          de Toulon, un religieux des Frères prêcheurs, deux apothicaires, trois notaires, un
+          tailleur, un orfèvre, un savetier et un boulanger. - Temps : Quinzaine de Pâques</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8003"
+                    source="S2418"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>MIIIILXXXXIII et die XXIII mensis Marcii, notum sit, etc., quod venerabiles et
+                providi viri dominus Guillelmus Aycardi, clericus beneficiatus Tholoni, dominus
+                Ant. Fornerii, cappellanus Tholoni, frater Blasius Dudoni, ordinis predicatorum,
+                dominus Johannes Marini, filius Petri, magister Ant. de Coreys, appotecarius,
+                magister Gabriel Fornerii, alias Braveti, notarius, magister Dionisius Moteti,
+                sartor magister Nicholaus Chapucii aurifaber Tholoni, magister Jac. Progenne,
+                magister Marinus Andree, notarius, magister Symon Calhoni, appotecarius de Areis,
+                magister Johannes Stephani, sabaterius de Oliolis, magister Honoratus Catellini, de
+                Tholono, et magister Jac. Moteti, pistor Tholoni, volentes et intendentes, Deo duce,
+                ludere in quindena Paschatis proxime venturi quamdam moralitatem nominatam de
+                l’Amoros et de la filha ; igitur, omnes simul et quilibet ipsorum, promiserunt sibi
+                intersse et se reprerire in recordio, quotienscunque opus fuerit, et requirentur per
+                dictum magister Ant. de Coreis et Gabriellem Braveti, seu alterum ipsorum ; sub pena
+                unius grossi pro quolibet, et vice qualibet qua defficient. Item, non defficient in
+                die qua qua dictum ludum ludere debent, sub pena pro quolibet, et vice qualibet,
+                unius auri, applicandi aliis dicte societatis. Sub obligatione bonorum suorum, etc.
+                Renunciantes, etc. De quibus, etc. Actum Tholoni, in curia episcopali. Testes
+                dominus Guigo Matharoni, vicarius et officialis Tholoni, magister Raynaudus
+                Rodelhati, notarius tholoni. Et ego Honoratus Pavesii, notarius.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Albanès, 1874. p. 509</bibl>
+                        <bibl type="additional"> Archives départementales du Var, 3 645, fol. 25. (Protoc.
+                  d’Honoré Pavès)</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Contrat</item>
+                        <item>Temps sacré (statut du -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item>Pâques</item>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Official</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

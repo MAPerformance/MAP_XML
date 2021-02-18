@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saints-Innocents</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2806">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Saints-Innocents</title>
+                  </item>
+                  <item>
+                     <date when="1544"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Bordeaux</settlement>
+                        <region>Aquitaine</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>44.837789, -0.579180</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Récurrence : Coutume</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Saints Innocents</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Enfants de chœur</item>
+                  <item>Confrérie</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Cathédrale</item>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8372"
+                    source="S2806"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Les confrères ne devront donc plus, selon la coutume, montrer des mascarades, élire
+                des simulacres d'archevêque, de doyen, de chantre, ou de toute autre dignité
+                canoniale, ni revêtir des habits de pourpre, ni entrer dans le choeur avec des
+                cistres, cithares ou autres instruments de musique, ni se livrer à des festins à la
+                suite desquels ils se trouvent dans des états d'ivresse qui les empêchent de venir
+                au choeur pendant au moins sept jours en sorte qu'ils déshonorent Dieu et les Saints
+                Innocents dont ils célèbrent la fête, et comme judaïsmo more non amplius vivimus et
+                qu’il faut honorer Dieu par le jeûne et la prière, les fêtes des Innocents n’auraont
+                plus lieu.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Mazouer, 1980. p. 79</bibl>
+                        <bibl type="additional"> Actes capitulaires de Saint-André, G. 236, f°404
+                  (Inventaire des Archives départemntales, série G., t. I, p. 194).</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération capitulaire</item>
+                        <item>Interdiction</item>
+                        <item>Musique</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

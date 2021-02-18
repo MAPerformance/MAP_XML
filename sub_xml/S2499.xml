@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Farce moralisée de Pastoureaux</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2499">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Farce moralisée de Pastoureaux</title>
+                  </item>
+                  <item>
+                     <date when="1507"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Le Mans</settlement>
+                        <region>Sarthe</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Le Mans</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>48.006110, 0.199556</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Piolin, 1858. p. 37. – Piolin, 1861, t. 5. p. 278.</bibl>
+                  <bibl type="additional">- Paul Piolin, Recherches sur les Mystères…, p. 37 – Histoire de
+              l'église du Mans, 1861, p. 278.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Entrée</item>
+                  <item>Repas (dîner)</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Evêque</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- pièce représentée lors du repas de l’entrée du nouvel évêque du Mans, évêque de
+          Luxembourg. Toute la haute société de la ville assiste à la représentation. - L’oncle de
+          François de Luxembourg, Philippe de Luxembourg, était grave de mœurs mais se complaisait
+          aux jeux de la scène. A l’époque de son neveu, il n’y avait point de fête publique sans
+          quelque représentation théâtrale. [Piolin, 1858, p. 37]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8079"
+                    source="S2499"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Et audit dîner ont été en ordre les personnes qui s'en suivent : sçavoir est, au
+                pignon vers l'église, y avoit trois tables ; l'une au milieu où était assis mondit
+                sieur le cardinal, sous l'épiscopalle dit Tartelet, lequel était très-riche, et à sa
+                main droite était mondit sieur de Châlons, et à la gauche mondit sieur, et à la
+                dextre de mondit sieur étoit le sieur de Ghistelle, et à la gauche dudit sieur de
+                Châlons étoit ledit sieur de Brion. Et une autre table à la dextre d'icelle, distant
+                de deux pieds environ ; y étoient les quatre abbés qui s'ensuivent : et premier,
+                l'abbé de Perseigne, l'abbé de Champagne, l'abbé de Fontaine-Daniel, l'abbé de
+                l'Épau; et devant laditte table six autres, l'abbé de la Couture, l'abbé du
+                Gué-de-Launai, l'abbé de Vaas, l'abbé de Tyronneau, l'abbé de Saint-Georges-du-Bois.
+                Et à l'autre table, à gauche, contre ledit pignon, étant un bout contre le bout de
+                l'autre, étaient le sieur de Lucé, le sieur de Malicorne, le sieur de Belin , le
+                sieur de la Bazo- gère, le sieur Duplessis-Buret, le sieur Duplessis-Fourmen- tière,
+                le sieur de Leuchenail, le sieur de Courtilloles, messire Hardouin de Champagne, le
+                sieur de la Courbe, le sieur de la Chapelle-Rainchouin, le sieur de Melige, le sieur
+                de la Vandelle. En la seconde table, qui étoit entre la table des dessus dits et la
+                cheminée , étoient les sieurs qui s'ensuivent : et premier, le sieur de
+                Saint-Georges, le sieur de Vassé, le sieur de Loré, le sieur de Bazogère, le sieur
+                de Sépeaux, le sieur de Villiers, le sieur de Fontenailles , le sieur de Souday, le
+                sieur de Corignée, le sieur de Coulaine, nommé le Clerc, le sieur de la
+                Fresionnière, le sieur de Loresse, le sieur d'Évron, le sieur de Brulon, le sieur de
+                Bavigné. A la tierce table dudit côté estoient le sieur de Sau- veraine, le sieur de
+                Saint-Aubin, le sieur de la Chouas- nière, le sieur de la Groye, le sieur de Loudon,
+                le sieur de Montfaucon, le sieur de Thorigné, le sieur de Pescheré, le maître de
+                l'hôtel de Torcy, le sieur de Fanies, le sieur de la Béraudière, le sieur de Lucé,
+                le sieur de la Motte, le sieur d'Antley, le sieur de Charnye, nommé Villeblanche; le
+                sieur de Travalle, le sieur de Boisnay, le sieur Duverger, le sieur de la Fuye, le
+                sieur de Montagne, le sieur d'Or- thon, le sieur de la Taille, le sieur de la
+                Boussonnière, le sieur de la Cherbonnière, le fils de Possay, le sieur de la
+                Chapelle-Saint-Fray, le sieur de Saint-Germain, le sieur des Cartes, le sieur de la
+                Courbe fils de la Furillée, le sieur de 'Villetremaison, le sieur Duplessis, le
+                sieur de Vaulo- ger, le sieur de Fontenailles, le sieur de Sourches, le sieur de
+                Parmeau, le sieur de Dune, le sieur de Vaux. A la table basse d'icelluy côté encore
+                vingt-cinq gentilshommes : le sieur de la Ferrière, le sieur de Baillou, le sieur de
+                la Haye, le sieur de l'Étang, le sieur Deshayes, le sieur de Neufmanoir, le sieur de
+                Fougère, le sieur de Radray, le sieur de Neufvy, le sieur de Beaumont, le sieur
+                d'Auvers, le sieur Dubois-Bérenger, le sieur de Venne- velle, le sieur de Sarcé, le
+                sieur de Roissaire, le vicomte de Bretheau, le sieur de Villiers, le prieur de
+                Grammont, le sieur de Souveré, le sieur de Courtalvert, le sieur de Cor- bon, le
+                sieur de la Ronce et de Gelay&gt; le sieur des Ifs, le sieur de la Pellissonnière et
+                autres gens à icelle table ; tous lesdits sieurs habillés en robes et pourpoints de
+                velours noir, cramoisi, camelot, damas et satin. En l'autre table du bout d'abas
+                étoient les chappelains et cleres de monsieur saint Jullian du Mans, jusques au
+                nombre de vingt-cinq, et trois autres nobles avec eux, et le grand prieur de Séez et
+                autres gens dudit lieu. Et à l'autre table, du côté de devers les jardins, et au
+                haut de laditte salle, étoient vénérables et discrets maîtres Lezin Chemi- nard,
+                licentié en droits, promoteur du Saint-Siége Apostolique, doyen ; François Le Chat,
+                docteur en droits, chantre; Allain deTrans, licentié ès-droits, archidiacre de Sablé
+                ; Guillaume de Cohardi, licentié às-droits, conseiller du roy notre sire en la cour
+                du parlement, archidiacre de Chaleau- du-Loir; Jean Le Meignen, docteur en
+                théologie, archidiacre de Passays ; René de la Voirie, archidiacre de Mont- fort ;
+                Jean Gaucher, sous-chantre ; Pierre Chenier, licentié en décrets ; Jacques Brehin ;
+                Alexandre de Cherres ; Jul- lian de Baïf, licentié en droit; Pierre Bellair; Martin
+                Guerrande, licentié ès-droits; Floridas Faviso; Balde de Crépy ; Michel Duc, docteur
+                en théologie ; Jean de Cohardi; Pierre Richer; Guillaume Barreau, licentié en
+                décrets; Gervais Brocellier; Bil1aire Boullard; Michel le Gros; Guillaume Veron;
+                Jacques Cartier, licentié ès-droits; Martin Gesbert; Jean Alay, docteur en médecine;
+                Jean Sansom; Guillaume Pellisson; Jean Picaut; Étienne Piau; Mathurin Suavis; André
+                Michot et Pierre Billard, prêtres, tous chanoines de laditte Église du Mans. En
+                l'autre salle, qui étoit pareillement tendue de tapisseries, y étoient grand nombre
+                tant de gentilshommes que d'Église, praticiens, bourgeois, que autres gens, à
+                l'estimation de cinquante-cinq ou environ. En la petite salle où dîne ordinairement
+                mondit sieur étoient l'avocat et enquêteur du roy, maître Nicolle Le Camus ; les
+                officiers de Nogent-le-Rotrou et autres sieurs de la pratique séculière, jusques au
+                nombre de douze. A l'autre table d'icelle salle étoient Charles de Bouillé, le petit
+                protonotaire de M. le cardinal, le sieur des Bordeaux, et autres nobles jusques au
+                nombre de dix. A l'autre table d'icelle sallette étoient le bailly de Montfort, le
+                sieur Duménil, le sieur de Nuillé, le procureur de l'Épau, Louis Le Boucher,
+                procureur de Tucé, et autres jusques au nombre de treize, non compris les dessus
+                dits. Quelle sallette étoit par semblable tendue de tapisseries. En la chambre du
+                maître d'hôtel étoient neuf, c'est à sçavoir : ledit juge de Mayenne; Louis
+                Tiercelin, lieutenant du sénéchal; maître Guillaume Guymont, baillyde la prévôté;
+                maître Jean Pi tard, procureur du roy; le commis du receveur des tailles, nommé
+                Berthelot; Pierre Bouju, sieur de Verdigné, procureur des élus ; maître François
+                Menaud et Guillaume Ande, et le fils Peloux, sieur de Rouillon. Durant lequel dîner,
+                qui a été grand, solennel et bien servi, ont été présentés plusieurs entremets; à
+                l'issue et lever duquel dîner et première assiette, a été joué une farce moralisée
+                de pastoureau. Et à la seconde assiette, après ledit dîner, ont été bien deux cents
+                personnes ou environ. Et à la tierce assiette bien cinquante ou environ. Et est à
+                entendre qu'à l'entrée dessus ditte y avoit si grand nombre de peuple, tant ès rues,
+                ès églises, sur les murailles et ès maisons, que hors la ville, qu'il étoit
+                impossible d'en faire nombre certain. Et est estimé que jamais homme vivant ne vit
+                en la ville et faubourgs du Mans, à une fois, si grande assemblée, où aucuns
+                inconvénients ne se sont trouvés, grâces à Dieu, pour autant que les sieurs de la
+                justice et de la ville y ont mis bonne garde, tant en la ville que aux portes
+                d'icelle, et même aux carrefours, et aussi en l'église pendant la messe épiscopalle.
+                Et la nuit d'entre le samedy et le dimanche, que le pardon général étoit ouvert, et
+                le dimanche que fut faite la- ditte réception, furent les portes de la ville et
+                église ouvertes pour empêcher le peuple qui y arrivoit. Quelles portes, avec les
+                carrefours de la ville, furent toute la nuit gardées par gens armés et embàtonnés,
+                par ordonnance des gens du roy et de la justice séculière, qui avoit à ce pourvu par
+                son conseil. Et durant le dîner et tout le jour dessus dit, étoit la fontaine de vin
+                blanc et clairet courant par un lion rouge, en la cour de l'official, qui prendre en
+                pourroit et en voulloit. En laquelle cour, au peuple et monde illec étant, fut jeté
+                et départi pain et viande, à qui prendre en pouvoit semblablement. Et à l'heure de
+                vêpres, sont venus en la maison épiscopalle deux enfants de choeur revêtus in albis,
+                avec les deux beaux chandeliers de l'église et les cierges allumés, et grande
+                quantité de chanoines en surplis et aumusses, pour conduire mondit sieur évêque à
+                vêpres. Et lesdittes vêpres dittes, s'en est mondit sieur retourné en la maison
+                épiscopalle avec sa compagnie. Là aussi y a eu souper solennel, et quatre grandes
+                tables pleines de gentilshommes qui furent merveilleusement bien festoyés.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Procès verbal du bailli de Tourvoye (Réception de François
+                  de Luxembourg à l'abbaye de Saint-Vincent), archives municipales de la ville du
+                  Mans n°888.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Clerc-public</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Sainte Catherine</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2310">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Sainte Catherine</title>
+                  </item>
+                  <item>
+                     <date when="1483"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Lyon</settlement>
+                        <region>Lyonnais</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Lyon</placeName>
+                        <placeName type="eccl_province">Lyon</placeName>
+                        <geo>45.764043, 4.835659</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Brouchoud, 1865. p. 17. – Petit de Julleville, 1880, t. 2. p. 44.</bibl>
+                  <bibl type="additional">Archives de la ville, BB, 17, f°60v
+              (http://www.archives-lyon.fr/static/archives/contenu/old/fonds/bb/02.htm)</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Ordre : Frères mineurs</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Place publique</item>
+               </list>
+               <note>Les échevins prirent des mesures de police exceptionnelles pour que l'encombrement des
+          spectateurs ne nuisît pas au bon ordre et à la sûreté de la ville.</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

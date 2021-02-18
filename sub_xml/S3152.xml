@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Procession</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3152">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Procession</title>
+                  </item>
+                  <item>
+                     <date from="1655" to="1827"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Laval</settlement>
+                        <region>Mayenne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Le Mans</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>48.077863, -0.770138</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Paul Piolin, Recherches sur les Mystères… p. 44 – P. J.
+              de Haitze, Esprit du cérémonial d’Aix, Aix, 1758 – Grégoire, Explication des
+              cérémonies de la Fête-Dieu d’Aix, Aix, 1778 – Leber, Collection des meilleures
+              dissertations, etc., t. X, pp. 77-125 – Magnin, Histoire des Marionnettes en
+              Europe.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Procession du Corpus Domini</item>
+                  <item>Fête-Dieu</item>
+                  <item>Vêpres</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Ordre : Frères mineurs</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Procession</item>
+                  <item>Couvent</item>
+               </list>
+               <note>Scènes de l’Ancien et du Nouveau Testament que des personnages représentent sur des
+          théâtre dressés sur le parcours de la procession, notamment dans la cour d’entrée du
+          couvent des cordeliers. L’usage est similaire à Aix [Piolin] - Remplacement par des
+          spectacles de marionnettes après leur introduction par Catherine de Médicis [Piolin,
+          Magnin] - vérifier les dates.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8877"
+                    source="S3152"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>On fit vers ce temps (vers 1655) une grande réforme en la solennité de la
+                procession de la Fête-Dieu, qui passoit pour célèbre à Mayenne. Voici ce qu’on y
+                observoit : après les deux bannières; marchoient deux personnes représentant Adam et
+                Eve, au milieu desquelles on portoit un petit arbre chargé de pommes, avec la figure
+                d’un serpent. Ensuite paraissoient ceux qui représentoient les patriarches et les
+                prophètes, vêtus de soutanes et manteaux de différentes couleurs, avec des grandes
+                barbes et des perruques, portant sur le dos un écriteau du nom du personnage de
+                chacun, comme Abraham, Isaac, Jacob, Moïse, Isaïe, Jérémie, etc. ; leur nombre étoit
+                fini par saint Jean-Baptiste, couvert d’une peau de chameau, et portant un agneau.
+                Après eux venoient les rois descendus de Jessé, comme David, Salomon, etc. habillés
+                magnifiquement, la couronne sur la tête et le sceptre à la main. Ils étoient suivi
+                de leur père Jessé, qui avoit une grande chevelure blanche, une robe fourrée, et
+                q’appuyoit sur un bâton. Les Apôtres de Jésus-Christ marchoient ensuite ; et, pour
+                les distinguer, saint Pierre portait une clef, saint Paul une épée, saint André une
+                croix, saint Jacques un bourdon, saint Jean l’Evangéliste un calice, etc. On voyait
+                après eux un grand nombre de filles représentant les vierges, beaucoup de petits
+                enfant habillés de la manière qu’on peint les anges, avec des fleurs qu’ils
+                répandoient devant le Saint-Sacrement ; quantité d’autres vêtus en bergers et
+                bergères, avec des houlettes ornées de rubans. Pendant que le Saint-Sacrement
+                reposoit au milieu du grand cimetière, la plupart de ces personnes déclamoient
+                quelques vers français conformes aux personnages qu’elles faisoient, et tous
+                contribuoient à faire faire une torche de cire, où étoit représenté en relief et en
+                grandes figures un trait de l’Ancien ou du nouveau Testament, qui étoit différent
+                toutes les années. Tous ces acteurs étoient des bourgeois et des artisans de l’un et
+                de l’autre sexe, la plupart mariés ; ils formoient une espèce de confrérie, dont on
+                a réuni quelques rentes à la confrérie du Saint-Sacrement. Ces représentations, qui
+                avoient peut-être eu quelques bons motif en leur establissement, étoient dégénérées
+                en badinage. Quelques missionnaires, qui vinrent à Mayenne, déclamèrent fortement
+                contre cet abus. Leur zèle eut un heureux succès, en faisant supprimer tout ce
+                cérémonial et ce cortège.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Guyard de la Fosse, 1850. p. 170 – Piolin, 1858. p. 45.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

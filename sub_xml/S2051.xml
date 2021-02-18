@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion (prologue) ou la chute des démons et la chute de
+                l’homme</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2051">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author">Arnoul Gréban</persName>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion (prologue) ou la chute des démons et la chute de
+                l’homme</title>
+                  </item>
+                  <item>
+                     <date when="1440"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Rodez</settlement>
+                        <region>Aveyron/Rouergue</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>44.349389, 2.575986</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 14.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Représentation (mystère)</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Chapelain</item>
+                  <item>Jeune</item>
+                  <item>Clerc-acteur</item>
+                  <item>Clerc-producteur</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>En 1439, le chapelain Jean de Poys fit représenter de nouveau la Passion à Draguignan
+          aux fêtes de la Pentecôte et reçut du conseil de ville une subvention de dix florins. La
+          Pentecôte, en 1439, tombait le 24 mai. - Ce n'est que par hypothèse que nous avons traduit
+          par ces mots : Prologue de la Passion, le titre évidemment défiguré et paraphrasé de la
+          pièce jouée à Rodez : « le Contraste de la nature humaine avec les démons infernaux;
+          lequel contraste fut déterminé par Dieu le Père ». [Petit de Julleville]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7493"
+                    source="S2051"
+                   
+                   
+                   >
+                  <head>comptes tenus par le consul boursier de la cité de Rodez (distincte du
+              bourg)</head>
+                  <div type="transcription">
+                     <p>Item plus lo dimergue III jorn del mes dabrial alcus capelas de la gleiya de Madona
+                de Rodes ensemps am alcus autres joves de la ciutat, feyro en la plassa del mercat
+                nou de cioutat lo contrast de natura humana am lo demoni infernal loqual contrast
+                fouc determenat per Dieu lo Païre. Suppliquero als senhors cossols que lor volguesso
+                donar hun barral de vi et certanas michas, et fouc deliberat que ieu lor baïles hun
+                sestier de vi loqual fouc près en la botigua de Mossenhor l'official, que costet V.
+                d. lo quart et VI pas de V. d. la pessa, que monta tot XV doblas vielhas que valo a
+                laur — VI gros IX d. daur.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Petit de Julleville, 1880, t. 2. p. 15.</bibl>
+                        <bibl type="additional">Comptes de l'hôtel de ville de Rodez. Communication due à
+                  l'obligeance de M. Affre, archiviste de l'Aveyron. Voy. Histoire de la cathédrale
+                  de Rodez, par M. L. Bion de Marlavagne (1875) , et Lettres sur l'histoire de
+                  Rodez, publiées en 1874 par M. Affre. Les processions et autres démonstrations
+                  religieuses et semi-dramatiques étaient fréquentes â Rodez.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Subvention municipale</item>
+                        <item>Finance : Salaire en nature</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Official</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7494"
+                    source="S2051"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Devez savoir que maistre Arnoul Gresban, notable bachelier en théologie lequel
+                composa ce présent livre a la requeste d'aucuns de Paris, lit ceste creacion abrégée
+                seulement pour montrer la différence du péché du deable et de l'omme et pour quoy le
+                péché de l'homme ha esté reparé et non pas celluy du deable.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">En tête du manuscrit de la Passion d'Arnoul Greban (Bibl.
+                  nat., 816) .</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Il nous semble que le même sujet, la chute de Lucifer suivie de celle de
+                l'homme, devait faire le fond de la représentation donnée à Rodez, sans doute en
+                patois du Rouergue et non d'après le texte de Greban qui d'ailleurs n'était
+                probablement pas encore écrit. [Petit de Julleville]</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

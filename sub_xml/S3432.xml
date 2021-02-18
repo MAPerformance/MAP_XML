@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>mistères de la Passion, Nativité, Assension et Résurrection de
+                Nostre-Seigneur</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3432">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>mistères de la Passion, Nativité, Assension et Résurrection de
+                Nostre-Seigneur</title>
+                  </item>
+                  <item>
+                     <date from="1537" to="1540"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Lyon</settlement>
+                        <region>Lyonnais</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Lyon</placeName>
+                        <placeName type="eccl_province">Lyon</placeName>
+                        <geo>45.764043, 4.835659</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Verdun-Louis Saulnier, Maurice Scève (ca. 1500-1560), p. 23,
+              63.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Autorisation (demande d'-)</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Permission sollicitée par Philippe Galan et ses compagnons de faire jouer à Lyon «les
+          mistères de la Passion, Nativité, Assension et Résurrection de Nostre-Seigneur ». Saulnier
+          dit BB58, l’inventaire dit BB57. le BB57 est très endommagé.</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

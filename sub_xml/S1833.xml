@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Nativité de Notre-Dame et de l’enfance de Jésus</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S1833">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Nativité de Notre-Dame et de l’enfance de Jésus</title>
+                  </item>
+                  <item>
+                     <date when="1333"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Toulon</settlement>
+                        <region>Provence</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>43.124228, 5.928000</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 13.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Nativité</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Notables</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Dans un registre de J. Pavés, notaire à Toulon durant la première moitié du XIVe
+          siècle, on a trouvé la liste des personnages d'un mystère qui paraît avoir été joué dans
+          cette ville en 1383. Le document ne porte aucune date, mais ceux qui le précèdent sont des
+          20, 21, 22 décembre 1333, et ceux qui viennent après, du mois de janvier suivant. Ce
+          mystère dut ainsi être joué vers Noël, ce qui s'accorde bien avec le sujet qu'il met en
+          scène.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7184"
+                    source="S1833"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>[…] Maria juvenis, et in magna etate, jouée par Loyso Amiliavus juvenis. — Isacar
+                cuslos domicellarum templi. — Diaboli IV. — Ribaldi et carnifices III. […]</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Archives du Var, E. 557, F°81, Revue des Société savantes,
+                  5° série, t. VIII, juillet-août 1874, p. 259.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Rôle (distribution de -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>A côté des noms des personnages, le notaire ou son scribe inscrit celui des
+                acteurs. On retrouve là les noms des principales familles de Toulon à cette époque,
+                toutes tinrent à honneur de paraître dans cette solennité : Amilhau, Fresquet,
+                Thomas, Dolmet, Cristiani, Thoron, Pavès, Valserre, Muradour, Segnier, Tassy,
+                Gardane, Silvestre… [Petit de Julleville] - Il y a 70 personnages. [Petit de
+                Julleville]</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

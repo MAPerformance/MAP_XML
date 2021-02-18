@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2729">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1535"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Issoudun</settlement>
+                        <region>Berry</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.947535, 1.988654</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 128.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Représentation (manuscrit de la -)</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Le grand succès des représentations de la Passion, données en 1534 à Poitiers et à
+          Saumur, inspira aux habitants d'Issoudun le désir de tenter la même entreprise. Ils
+          s'adressèrent, en vers, à Jean Bouchet de Poitiers, pour lui demander de venir à Issoudun
+          diriger les répétitions et la mise en scène. Le rédacteur de cette lettre poétique, ou du
+          moins versifiée, s'appelait Billon : elle est insérée dans les épîtres familières de Jean
+          Bouchet. (épître XCI). Les requérants s'y dépeignent eux-même : cf. doc. Jean Bouchet
+          déclina ces offres, comme on voit dans l' « Épistre LXXXXII responsive a la précédente, ou
+          ledict Bouchet rend grâces, s'excuse, et instruict lesdits habitans ». Il n'ira pas à
+          Issoudun; mais il envoie un texte remanié par lui, et il y joint de bons conseils :
+          cf. doc. Nous ne savons pas si, malgré l'absence de Jean Bouchet, les habitants d'Issoudun
+          purent mettre à fin leur entreprise et représenter la Passion.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8314"
+                    source="S2729"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Fort ententifz après Nouveaulx esbalz, et pour ce faire, apprests De toutes part,
+                par un tressainct vouloir Qu'avons conceu, entreprendre et vouloir Jouer, monstrer,
+                équiper et sus mettre Du Christ occis la tragédie en mettre, Qui est pour seur
+                conclud et ordonné, Car ce bon Christ, cest an, nous a donné Tant de ses biens et
+                par cy fait espandre Qu'il faut pour luy la pluspart en despendre, Ainsi qu'ont
+                faict noz voisins et amys Desquelz chascun selon sa force a rais Peine et travail
+                par euvre méritoire Les emploier a mainte belle hystoire De ses martirs et du
+                maistre en l'honneur, Et estre aux serfz chacun large donneur. Par quoy comme eulx
+                appliquons nostre estude A éviter vice d'ingratitude, Et ne voulons entre nous
+                Dunoisis, Seulz demeurer mornes, lentz et oisifz.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Recrutement</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8315"
+                    source="S2729"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Lequel a bien monstre ces jours passez Aux Poictevins qu'il en scavoit assez, Les
+                aydans en la mesme action A chief a mis la saincte passion ; Voire si bien, que de
+                son ancre taincte La carte blanche en est, et non esteincte. Mais en reluyst a
+                jamais le renom.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Mais il leur faut un conducteur ; et qui pourraient-ils mieux choisir que Jean
+                Bouchet ?</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8316"
+                    source="S2729"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Ce nonobstant mes papiers vous envoie Par ce porteur, lequel s'est mis en voie. Du
+                moule ay prins ce que j'ay bon trouvé, Et ce qui est par l'église approuvé. Car il y
+                a ou moule aulcuns passages Qui n'ont passé par l'escolle des sages. Dont par
+                conseil j'ay fait rescision, Et en ces lieux mis quelque addition. Vous supploirez
+                les deffaulx d'escripture Lorsque d'iceulx on fera la lecture. Monsieur Billon de
+                vostre epistre aucteur En scaura bien estre réparateur. Je vous supply que tous voz
+                personnages Vous assignez a gens selon leurs aages, Et que n'usez tant d'habilz
+                empruntez (Fussent-ils d'or) qu'ilz ne soient adjustez Commodément aux gens selon
+                leurs roolles. 11 n'est pas beau que les docteurs d'escolles, Pharisiens, et les
+                gens de conseil Ayent vestement a Pilate pareil, Ne a Herode, et fault que de voz
+                fainctes Ayez l'essay, ne feussent ores paincles ; Et que mettez les herberges au
+                jeu Distinctement, et chascune en son lieu, Tant que congnoistre on puisse ceulx qui
+                jouent. Les regardans ce bon ordre fort louent. S'il ne fut fait ainsi bien a
+                Poictiers Le temps fut brief, je dy brief trop d'un tiers. Quant aux joueurs je scay
+                vostre langage, Sans faulx accent, non barbare en l'usage, Et croy pour vray qu'en
+                Gaule point ne court Langue plus propre au langage de court. Les Berruyers ont la
+                langue diserte, La voix bien doulce, et assez descouverte. Par quoy pourrez avoir
+                très grant honneur En vostre jeu. Dieu vous y doint bonheur. C'est luy tout seul
+                duquel tout bien procède ; Sans son secours homme n'est qui n'excède. Par ce devez
+                en ce luy demander Le sieu secours, il pourra commander A tous espritz d'enfer et de
+                la terre Qu'en l'entreprinse ilz ne vous facent guerre.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Conseil</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

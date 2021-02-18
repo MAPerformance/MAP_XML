@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Sainte Catherine</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2124">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Sainte Catherine</title>
+                  </item>
+                  <item>
+                     <date when="1454"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Rouen</settlement>
+                        <region>Seine-Maritime/Haute-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rouen</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>49.443232, 1.099971</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Gosselin, 1868. p. 16. – Petit de Julleville, 1880, t. 2. p. 24.</bibl>
+                  <bibl type="additional">- Archives de l'hôtel de ville, délibération des 26 février et 2
+              juillet 1454.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Expiation</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Echevin</item>
+                  <item>Clercs</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Place publique</item>
+               </list>
+               <note>- En 1454 à Rouen les « eschevins et frères des charités Dieu, Nostre Dame, saint
+          Nicolas et sainte Catherine, du collège des clercs » s'associèrent pour entreprendre en
+          commun « la demonstrance et célébration du Mystère de sainte Catherine. » Le 26 février,
+          ils firent requête au conseil de ville pour obtenir « gratuite pecuniere pour aider aux
+          frais et coustaiges qu'ils allaient avoir a supporter. » Ils obtinrent 20 livres. Le 2
+          juin suivant, sur la place du marché aux veaux « le mystère de sainte Catherine fut
+          célébré et demonstré moult notablement a très grandz frais et coustaiges et plus grandz de
+          la moitié que l'on avait cuidé. » Le conseil ajouta 5 livres à la subvention promise ; il
+          retint pour lui, voulant voir le spectacle à l'aise, une chambre dans la maison de Jehan
+          Marcel, et la fit « moult décorer », ce qui coûta soixante sous. - Il est intéressant de
+          noter que Sainte Catherine est la protectrice de Jeanne et lui est proche (visions,
+          luttes, révélations, popularité, etc.). Cette représentation est une expiation : choix du
+          lieu (où l'on pense qu'elle fut brûlée), choix de la date (environ mort de Jeanne, alors
+          que les Catherine sont normalement fêtées le 9 mars, 30 avril, 25 novembre ou 14
+          septembre). A rapprocher du jour où Jeanne fut brûlée. [Gosselin]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7567"
+                    source="S2124"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>requete pour obtenir «  gratuite pécunière pour aider aux frais et coutaisges
+                qu’ils allaient avoir à supporter »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Gosselin, 1868. p. 16 – Petit de Julleville, 1880, t. 2. p. 24.</bibl>
+                        <bibl type="additional"> Archives de l'hôtel de ville, délibération du 26
+                  février.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Subvention</item>
+                        <item>Finance : Subvention (demande de -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7568"
+                    source="S2124"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le Mystère de Sainte-Catherine fut célébré et démontré moult notablement à très
+                grandz frais et et coutaisges et plus grandz de la moitié que l’on avait cuidé.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Gosselin, 1868. p. 16 – Petit de Julleville, 1880, t. 2. p. 24.</bibl>
+                        <bibl type="additional"> Archives de l'hôtel de ville, délibération du 2 juillet
+                  1454.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Dépenses</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

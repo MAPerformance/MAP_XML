@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Résurrection</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S1912">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Résurrection</title>
+                  </item>
+                  <item>
+                     <date when="1390"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Paris</settlement>
+                        <region>Paris/Île-de-France</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Paris</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.856614, 2.352222</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 6.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Drame liturgique</item>
+                  <item>Représentation (mystère)</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pâques</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Chapelain</item>
+                  <item>Roi</item>
+                  <item>Charles VI de France</item>
+                  <item>Clerc-acteur</item>
+                  <item>Clerc-acteur</item>
+                  <item>Clercs</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Quelques chapelains et clercs de la sainte Chapelle représentèrent aux fêtes de Pâques
+          de 1390 le mystère de la Résurrection devant le Roi Charles VI, et reçurent du prince une
+          gratification de quarante francs d'or, comme l'atteste la lettre d'avis qu'il adressa à
+          ses trésoriers. Il est possible que ce soit un drame liturgique écrit en latin. La qualité
+          des acteurs rend cette supposition possible. [Petit de Julleville]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7313"
+                    source="S1912"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Charles... a nos amés et féaux les gens de nos comptes a Paris... nous vous mandons
+                que la somme de soixante francs d'or que nous avons receuz comptant de Taque Hemon
+                gêneral receveur des aides ordonnés pour la guerre... les avons donnés et fait
+                bailler et distribuer... assavoir quarante francs a certains chapelains et clercs de
+                la sainte Chapelle... lesquels jouèrent devant nous le jour de Pasques nagaires
+                passé le jeu de la Résurrection Notre-Seigneur, etc.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Petit de Julleville, 1880, t. 2. p. 6</bibl>
+                        <bibl type="additional">Titres scellés du cabinet des titres à la Bibl. nat., vol.
+                  217, fo 9793, cité par Magnin, Journal des savants, janvier 1856, p. 35. Magnin
+                  tenait ce renseignement curieux de M. Lacabane. Cf. Raynouard, Journal des savants
+                  juin 1836, p. 369, note 2.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Salaire</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

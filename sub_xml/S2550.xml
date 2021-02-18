@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Sainte Hostie</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2550">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Sainte Hostie</title>
+                  </item>
+                  <item>
+                     <date when="1513"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Metz</settlement>
+                        <region>Lorraine</region>
+                        <country/>
+                        <placeName type="bishopric">Metz</placeName>
+                        <placeName type="eccl_province">Trèves</placeName>
+                        <geo>49.119666, 6.176905</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 103.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Place publique</item>
+               </list>
+               <note>Sainte Hostie, Saint Nicolas et jeu de la mauvaise langue</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8140"
+                    source="S2550"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>La première feste de la Pentecoste fut jué le jeu en Chambre de la Sainte Hostie et
+                fuit un bien biaulx miracle et bien jué (1513). Le lendemain la seconde feste fuit
+                jué ung miracle de saint Nicolais que fuit aussy bien gentement jué. On cuidoit
+                jouer pour la troisiesme feste le jeu de la Malvaise Langue, maix pour tant qu'il
+                pleut, on le juoit le dimanche après.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Mémoires de Jacomin Husson, édit. Michelant, p. 245. Ce jeu
+                  de la Mauvaise langue était une moralité. Pour la sainte Hostie, voy. aux
+                  Analyses.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8141"
+                    source="S2550"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le lundi devant première feste de Pentecouste (1513) fut jué en Chambre le jeu de
+                la sainte hostie laquelle sainte hostie est a sainte Marie de Paris, et fut un
+                mystère fort biaulx et les secrets moult bien faits. (Suit l'analyse de la pièce)…
+                Le traistre juif voulant aprouver s'il estoit dieu print ladite sainte hostie et la
+                mist sus une tauble et fraipoit d'un coustiaux parmi. Alors par ung secret, qui
+                estoit fait, sortit grand abondance de sang et sailloit en hault parmi ladite
+                hostie, comme se ce fut ung enfant qui pissoit, et en fut le juif tout gaisté et
+                dessaigné et faisoit moult bien son personnaige. Aprez non content de ce, il ruoit
+                ladite hostie au feu et par ung engien, elle se levoit du feu et se ataichoit contre
+                le contre feu de la cheminée et le traistre la perçoit derechef d'une daigne, et par
+                ung aultre engien et secret, elle jectoit de rechief sang abondamment. Puis ce fait
+                il la reprint et la laichoit avec deux cloz contre une estaiche et la vint fraipper
+                d'un espieu et ladite hostie jectoit arrière sang abondamment et jusques tout emmey
+                le pareque trinçoit le sang et en fut le lieu tout ensanglanté. Et alors comme
+                enraigié print l'hostie et la ruoit en une chaudière d'yaue boullant et elle se
+                elevoit en l'air et montoit en une nuée et devint ung petit enfant en montant a mont
+                et se faisoit tout ceci par engiens et secrets; et s'y fist encore ledit jour
+                plusieurs choses que je laisse… Le lundemain qui fut le mairdi de la Pentecoste
+                (1513) fut jué au mesme lieu ung miracle de saint Nicollays du Bair. C'estoit un
+                joune gairson pèlerin de la terre de Venise, lequel eu allant a son voiaige vint en
+                une ostellerie en laquelle, aprez grant mistere, le diable en semblance du voisin de
+                l'hoste fist accroire au dit hoste que le joune pèlerin couchoit avec sa femme. Et
+                l'hoste sans plus enquérir, ailloit au lit et trouvoit deux testes : c'estoit sa
+                femme et ung sien jonne fils, que la mère avoit mis couchier avec elle, et
+                incontinent les tuoit, et cuidoit avoir tué le pèlerin ; mais quand il soit la
+                vérité il se desasperoit et se pendist, et la justice qui de ce fust avertie, mist
+                la main a joune pèlerin et a la servante de l'ostel, cuidant qu'ils eussent ce fait.
+                Et fut ledist pèlerin jugié a estre pendu et la gairse airse et brûlée ; mais le
+                glorieulx bairon saint Nicollays descendit du ciel et se monstroit en pèlerin devant
+                le juge, et moult aigrement le reprint de son folz jugement et delivroit le pèlerin
+                et la servante, laquelle esloit desjay au feu, et ne pouvoit brûler. Et y fut ledit
+                jour encor fait plusieurs choses que je laisse. Le lendemain qui fut le mercredi (de
+                la Pentecôte 1513) devoit estre encor jué ung jeu et chose mourale, mais pour la
+                pourcession qui se fist et aussy pour la june on ne juoit point pour le dit jour
+                jusques au dimanche aprez, qui fut le dimanche reaulx, et aussy le mercredi, il plut
+                et tonnoit très bien, et fut celle pluye moult bonne pour les bieus déterre. Et fut
+                ce mistere et chose mourale jué le dimanche au dit lieu enChambre et estoi t lejeu
+                de la faulse langue, laquelle ne scet dire bien de soy, ne d'aultrui ; parquoy aprez
+                plusieurs misteres et choses faictes, son ame fut pendue par la langue a plus hault
+                de l'enfer et les dyaubles luy firent plusieurs tourmens en jectant feu et grêle
+                partout son corps. Et duroient ces tourmens moult longuement qu'elle estoit toute en
+                feu et en flammes et ne bruloit point, et remuoit celle airme les bras par engien,
+                et estoit une chose bien ingénieusement faicte ; et jelescay a vray, car je,
+                Phillippe, estois l'un des gouverneurs et recuillois l'airgent qui se levoit ez
+                trois jours sus les hors et eschauffaults et montoit la somme environ a xxiij.
+                francs, et y avoit Andrieu mon filz V. personnaiges esdits trois jours.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Philippe de Vigneulles, édit. Michelant, p. 244-245.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Joseph</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2703">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Joseph</title>
+                  </item>
+                  <item>
+                     <date when="1533"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Amiens</settlement>
+                        <region>Somme/Picardie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Beauvais</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.894067, 2.295753</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Grenier, 1856. p. 409. – Petit de Julleville, 1880, t. 2. p. 119.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Représentation (titre de la -)</item>
+                  <item>Récurrence : Annuelle</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Dimanche de lætare</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Vicaire</item>
+                  <item>Chanoine</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Eglise (Parvis)</item>
+                  <item>Chœur</item>
+               </list>
+               <note>En 1533, à Amiens, les vicaires de l'église capitulaire obtinrent de nouveau des
+          chanoines licence de jouer sur le parvis (non dans le chœur, comme en 1496), le dimanche
+          de Lætare, « le jeu ou mystère de Joseph ».</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8286"
+                    source="S2703"
+                   
+                   
+                   >
+                  <head>8 janvier 1533, Acte capitulaire.</head>
+                  <div type="transcription">
+                     <p>Domini licentiam et congerium donaverunt vicariis Ecclesiae ludendi hoc anno die
+                domenica Laetare Jerusalem supra parvisium ludum seu ministerium de Joseph.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Grenier, 1856. p. 409</bibl>
+                        <bibl type="additional"> Acte capitulaire de l'église d'Amiens, 8 janvier 1533 – Dom
+                  Grenier, Picardie t.XIV, 2e paquet, n° 6, fol. 99 rect. Biblioth. nat. (cf. 
+                  Biblioth. de l'Ecole des chartes, série F, t. III, p. 246 en note).</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération capitulaire</item>
+                        <item>Autorisation</item>
+                        <item>Organisation : Décision du lieu</item>
+                        <item>Représentation (titre de la -)</item>
+                        <item>Lieu sacré (statut du -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

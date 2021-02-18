@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tragédies, moralités et farces</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2952">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Tragédies, moralités et farces</title>
+                  </item>
+                  <item>
+                     <date when="1561"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Amiens</settlement>
+                        <region>Somme/Picardie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Beauvais</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.894067, 2.295753</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Juridiction : Conflit</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8614"
+                    source="S2952"
+                   
+                   
+                   >
+                  <head>18 Septembre 1561, Délibération échevinale</head>
+                  <div type="transcription">
+                     <p>Veue la requeste presentee a Messieurs audit eschevinage par Jehan Poignant dit
+                l’abbé de la Lune et ses compaignons, joueurs de tragedies, moralités et farces,
+                tendant par icelle ad ce qu’il plaise a Messieurs leur permettre jouer des dits jeux
+                en ceste ville en toute honnesteté et modestie suyvant les lettres de permission
+                qu’ils en avoyent du roi par lesquelles il permit aux dits suppliants jouer des dits
+                jeux par toutes les villes, bourgs et bourgades de son royaulme en monstrant et
+                exhibant seullement les dites lettres dudit sieur le roy et sur le tout prins les
+                advis des eschevins presents a esté ordonné que ce aujord’hui au diner de la bonne
+                venue de Pierre Roussel eschevin, qui se fera en l’hostel commun de ladite ville,
+                seront les dites lettres communiquees a Messieurs les lieutenants civil et criminel
+                et aux advocats du roy pour eulx oy en ordonner comme de raison et ce nonobstant les
+                advis de Mahieu Ledoux, Philippe de Beguin et Pierre Roussel, eschevins, qui ont dit
+                qu’ils ne sont d’advis de permettre aus dits suppliants de jouer en ceste ville
+                encore qu’ils ayent lettres du roy, pour eviter aux seditions.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Lecocq, 1880. p. 146</bibl>
+                        <bibl type="additional"> Dubois 1878, 27-28, Lavéant p. 417.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Autorisation sous condition</item>
+                        <item>Juridiction : Royale</item>
+                        <item>Contrôle : Magistrat municipal</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

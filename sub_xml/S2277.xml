@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vie de saint Pierre et saint Paul</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2277">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Vie de saint Pierre et saint Paul</title>
+                  </item>
+                  <item>
+                     <date when="1478"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Tournai</settlement>
+                        <region>Wallonie/Hainaut</region>
+                        <country>Belgique</country>
+                        <placeName type="bishopric">Tournai</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>50.607234, 3.392589</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Sujet : Ecritures saintes</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Fêtes</item>
+                  <item>Dimanche</item>
+                  <item>Repas (avant le souper)</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Rhétoriqueur</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Auberge</item>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7738"
+                    source="S2277"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>« Nicolas Bouildoul et aultres rhetoriciens et joueurs sur chars » présentent une
+                requête aux consaux pour obtenir la permission de jouer à l’hôtel de la Tête d’Or
+                les vies de Saint Pierre et Saint Paul, les jours de fête et les dimanches. On leur
+                accorde de jouer sauf après souper.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Bozière, 1864. p. 366 – Lavéant, 2007. p. 103 – Lavéant, 2007. p. 455.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Autorisation sous condition</item>
+                        <item>Condition : Temps de jeu limité</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Pons</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3110">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Pons</title>
+                  </item>
+                  <item>
+                     <date when="1603"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Draguignan</settlement>
+                        <region>Provence</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>43.537727, 6.464993</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 173.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Place publique</item>
+               </list>
+               <note>Représenté le 27 août 1603 devant le Palais de Justice.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8817"
+                    source="S3110"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Françoys Pascal, Anymond Laurens et Claude André ont remonstré qu'ilz sont après a
+                fere jouer ung beau histoire, auquel il leur conviendra frayer beaucoup d'argent
+                pour ce que sera necessere ; pour ce faict qu'il plaise au conseilh leur accorder
+                quelque partie a ce qu'ils n'entrent en toute la despence ; a esté arresté que leur
+                sera faict mandement de six escus.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Revue des sociétés savantes, 6° série, t. III, mai-juin
+                  1876, p. 474 (registre des ordonnances du conseil de ville de Draguignan, BB, 19,
+                  fol. 72).</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Subvention municipale</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8818"
+                    source="S3110"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>M. Jacques Raynaud, docteur en médecine et consul, avança sept livres et demie pour
+                « fere jouer l'istoyre au devant du pallays » (de justice). Elle lui furent
+                remboursées sur certificat des « representateurs de ladite histoire. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Revue des sociétés savantes, 6° série, t. III, mai-juin
+                  1876, p. 474 (registre des ordonnances du conseil de ville de Draguignan, BB, 19,
+                  fol. 72).</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Subvention par des particuliers</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

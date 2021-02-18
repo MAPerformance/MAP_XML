@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Modification des statuts de la confrérie de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2803">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Modification des statuts de la confrérie de la Passion</title>
+                  </item>
+                  <item>
+                     <date from="1543" to="1608"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Rouen</settlement>
+                        <region>Seine-Maritime/Haute-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rouen</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>49.443232, 1.099971</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Gosselin, 1868. p. 39.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Type : Statut</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Modification des statuts de la confrérie de la Passion : augmentation de la pompe des
+          solennités de la semaine sainte (Gosselin dit que c’est pour lutter contre le
+          protestantisme) et on décide de représenter le Mystère de la Passion chaque Vendredi
+          saint. Le mystère devient une cérémonie pieuse et obligatoire, non une fête facultative. -
+          Arrêté en 1562, la représentation reprend jusqu’aux guerres de la Ligue . elle
+          recommencent ensuite en 1597. - Le coût élevé de cette représentation (le Parlement force
+          les princes a accepter la charge) sèment le trouble et le discrédit. Le parlement comence
+          par interdire le Festin suivant la représentation, puis la représentation en 1608. - En
+          1608, la représentation disparaît « sous la désapprobation de l'Eglise et du Parlement,
+          comme chose qui excitait plutôt la curiosité que la piété des spectateurs, et qui
+          n'apportait aucune bonne édification. » - La représentation est sous-traitée aux confrères
+          de Paris, moyennant salaire (le Parlement accuse la confrérie de fair jouer le mystère par
+          de povres gens gaigés. », Archives du Palais-de-justice, Arrêt du parlement, 17 mai 1650
+          et 1651.)</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pièce inconnue</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3100">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Pièce inconnue</title>
+                  </item>
+                  <item>
+                     <date when="1600"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Lyon</settlement>
+                        <region>Lyonnais</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Lyon</placeName>
+                        <placeName type="eccl_province">Lyon</placeName>
+                        <geo>45.764043, 4.835659</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Brouchoud, 1865. p. 26.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Juridiction : Ecclésiastique</item>
+                  <item>Juridiction : Coopération</item>
+                  <item>Juridiction : Royale</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Roi</item>
+                  <item>Reine</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Salle des enfants de chœur</item>
+               </list>
+               <note>- Le roi et la reine sont logés à l’archevêché.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8806"
+                    source="S3100"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le mercredi, 15e jour de novemebre 1600, Messieurs du chapitre de Saint-Jehan m’ont
+                envoyé en Savoye où estoit le roy, y faisant la guerre et ce, pour remonstrer à sa
+                Majesté le scandale qui fut advenu si les comédiens eussent joué dans la salle des
+                clerjons, ainsi que sa Majesté le leur avoit accordé auparavant, et lesquelles
+                remonstrances il print en fort bonne part, et manda aux dits sieurs du chapitre que
+                cela ne sauroit pas.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Registre de la procure sainte Croix, tenu par Mre Jehan
+                  Rolland, prebstre, procureur et covicaire. Arch de l’Hôtel de ville, bureau de
+                  l’état civil, GG. 59.</bibl>
+                        <bibl type="additional"> C. Brouchoud, Les Origines du théâtre à Lyon, p. 26.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Lieu de la représentation</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8807"
+                    source="S3100"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>La salle des enfants de choeur accordée aux comédiens pour jouer pendant que le roy
+                et la reyne seroient à Lion.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Actes capitulaires, livre 66e, f°100. - C. Brouchoud, Les
+                  Origines du théâtre à Lyon, p. 26.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Lieu de la représentation</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

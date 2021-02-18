@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2338">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1485"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Lyon</settlement>
+                        <region>Lyonnais</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Lyon</placeName>
+                        <placeName type="eccl_province">Lyon</placeName>
+                        <geo>45.764043, 4.835659</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Brouchoud, 1865. p. 12. – Brouchoud, 1865. p. 18. – Petit de Julleville, 1880, t.
+              2. p. 47.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Représentation (mystère)</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Ordre : Frères mineurs</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Eglise</item>
+               </list>
+               <note>Nous pensons que cette mention mal comprise a donné lieu à une erreur de de Rubis
+          (Histoire de la ville de Lyon, 1604, in-folio, liv. III, ch. LIII) répétée par du Méril
+          (Origines latines du théâtre français, p. 62, en note). De Rubis avait compris que le
+          chapitre avait fait payer soixante livres par les acteurs, tandis qu'il les avait payées
+          lui-même aux acteurs. On avait donc vu à tort, dans ce fait, l'existence d'une sorte de
+          droit des pauvres dès le XVe siècle. [Petit de Julleville]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7922"
+                    source="S2338"
+                   
+                   
+                   >
+                  <head>Délibération capitulaire</head>
+                  <div type="transcription">
+                     <p>Le chapitre ordonne soixante livres à ceux qui avoient représenté la Passion de
+                N.S., qui mysterium Christi passionis luserunt.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Brouchoud, 1865. p. 13</bibl>
+                        <bibl type="additional"> 28e livre des actes capitulaires, f°153.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Capacité économique</item>
+                        <item>Finance : Salaire</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Dioclétiane</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2991">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Dioclétiane</title>
+                  </item>
+                  <item>
+                     <date when="1567"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Lanslevillard</settlement>
+                        <region>Savoie</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>45.289457, 6.909927</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 1. p. 384. – Petit de Julleville, 1880, t. 2.
+              p. 164</bibl>
+                  <bibl type="additional"> F. Rabut, le Mystère de saint Sébastien, Préface – le Théâtre
+              en Maurienne au XVIe siècle, par Florimond Truchet, Saint-Jean-de-Maurienne, 1879,
+              broch. in-8°.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Condition : Censure</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>On a lieu de penser que, même en Savoie, le style du Saint Sébastien, déjà vieux d'un
+          siècle, parut un peu suranné en 1567. Du moins un habitant de la Maurienne, Jean Scybillé,
+          crut devoir, peu d'années plus tard, vers la fin du XVIe siècle, refaire le mystère de
+          Saint Sébastien en le rajeunissant un peu, par un titre nouveau, la Dioclétiane, par la
+          division en actes et en scènes distinctes, par quelques couplets emphatiques, où l'on
+          croit retrouver l'imitation de Jodelle ou de Garnier. La tradition du pays veut que cette
+          pièce ait été jouée à Lanslevillard dans la chapelle Saint-Sébastien, mais on ne dit pas à
+          quelle époque (cf. t. I, p. 384)</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

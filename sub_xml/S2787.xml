@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de l’Apocalypse</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2787">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de l’Apocalypse</title>
+                  </item>
+                  <item>
+                     <date when="1541"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Amiens</settlement>
+                        <region>Somme/Picardie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Beauvais</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.894067, 2.295753</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Organisation : Représentations multiples</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Joueur (farce)</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Cf. même année, même lieu, même occasion le mystère de l’Ancien testament.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8361"
+                    source="S2787"
+                   
+                   
+                   >
+                  <head>29 octobre 1541, Délibération échevinale</head>
+                  <div type="transcription">
+                     <p>Permission est donnée à Philibert et à ses compagnons « de achever l’istoire de
+                l’Anchien Testament qu’ilz ont encommenchié jouer, en dedans le premier jour de
+                janvier venant. Et pareillement est permis aux aultres farceurs de jouer l’istoire
+                de l’Apocalipse, a la charge que tous lesdits joueurs ne polront jouer a la
+                chandelle, ne durant le service qui se fait en l’eglise, assavoir messe et vespres,
+                et ne polront prendre pour chascune personne plus grant pris que de deux deniers.
+                Veue par la requeste baillie par Philebert et autres ses compaignons farsseurs, il
+                leur est permis jouer les festes et dimences aucunes histoires honnestes, pour la
+                recreation des habitans, pourveu qu’ils ne jouent a la chandeille…</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Grenier, 1856. p. 404 – Durand, 1897. p. 344 – *Runnalls, 2003. p. 261 –
+                  Lavéant, 2007. p. 415</bibl>
+                        <bibl type="additional"> AMA, Délibérations échevinales BB24, f 100, 112 et
+                  155.</bibl>
+                        <bibl type="additional"> http://gallica.bnf.fr/ark:/12148/bpt6k86144z/f246</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Autorisation sous condition</item>
+                        <item>Finance : Prix de la place</item>
+                        <item>Motif : Récréation</item>
+                        <item>Temps sacré (statut du -)</item>
+                        <item>Temps sacré/temps de la représentation : conflit</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item>Service (pas pendant le -)</item>
+                        <item>Fêtes</item>
+                        <item>Dimanche</item>
+                        <item>Messe (pas pendant la -) // Vêpres (pas pendant les -)</item>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

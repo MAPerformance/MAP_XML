@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Sainte Barbe</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2339">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Sainte Barbe</title>
+                  </item>
+                  <item>
+                     <date when="1485"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Metz</settlement>
+                        <region>Lorraine</region>
+                        <country/>
+                        <placeName type="bishopric">Metz</placeName>
+                        <placeName type="eccl_province">Trèves</placeName>
+                        <geo>49.119666, 6.176905</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 48 – Lepage, Etudes sur le théâtre en
+              Lorraine, p. 205.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- En celle même année 1485, on jouait à Bar-le-Duc un jeu « auquel il y avoit aucuns
+          hommes faisant des personnages de diables ».</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7923"
+                    source="S2339"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le vingt quatriesme jour de jullet fut jué a Mets, en la plaice en Chambre, le jeu
+                de la vie et passion de madame saincte Barbe, qui dura trois jours et fut le mieulx
+                jué et le plus triumphamment que on vit de longtemps et au gré de touttes gens. Et
+                furent faits eschauffauts en la place de Vezegnuef, huit jours devant, ausquels ils
+                se représentèrent et firent tout le mistere sans parleir. Et puis audit vingt
+                quatriesme jour de jullet, fut fait le jeu devant dit en Chambre. Et y alloient les
+                gens prendre leur place aux quaitre heures du matin. Et debvoit on jouer trois jours
+                de suitte, assavoir le diemanche, lundy et mairdy. Mais le mairdy, il vint un si
+                horrible temps environ deux heures après midi, qu'il estoit quausi nuit et il fallut
+                laisser le jouer; et ne peult on eschevir le jeu pour les pluyes que le diemanche
+                après. Or estoit pour lors demeurant en Mets, ung jonne fils bairbier, nommé
+                Lyonard, qui estoit une très beaul filz et ressembloit une belle jonne fille, et
+                estoit nationné de Nostre Dame d'Aix en Allemaigne, mais il avoit longtemps demeure
+                a Mets en l'hostel maistre Hannès le bairbier du Quartaul, qui fist le personnaige
+                de saincte Barlbe si preudemment et dévotement que plusieurs personnes pleuroient de
+                compassion ; car il tenoit si bonne faconde et maniere avec si bonne mine et gestes
+                avec ses pucelles, qu'il estoit a chescun agreable et n'estoit possible de mieulx
+                faire. El tellement fut en la graice d'ung chescun qu'il n'y avoit seigneur, clerc
+                ne lay qui ne desirast a avoir ledit gairson pour le nourir et gouverner; entre
+                lesquelx y avoit une riche veufve en Salnerie qui le voulloit avoir pour son
+                héritier. Toutesfois entre les aultres ung seigneur chanoine de la grande église,
+                nommé maistre Jehan Chardelly, qui aussi estoit chantre, homme de lettres et bien
+                scientificque, le print en si grant amour qu'il luy fut délivré, et le mist a
+                l'ecolle ou il prouffita plus en ung an que aultres en dix; puis l'envoya a Paris
+                aux esludes, ou en brief temps après fut fait et passé maistre es arts : et depuis
+                l'ay veu régent et maistre de l'escolle a Saint Salveur, et après l'ay veu estre
+                chanoine de Nostre Dame d'Ais et porter grant office.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Chroniques de Metz, édition Huguenin, p. 473. Cf. Journal
+                  d'Aubrion, édit. Larchey, p. 177, — Mémoires de Jacomin Husson,édit. Michelant,
+                  p. 139.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

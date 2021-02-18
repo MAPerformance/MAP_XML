@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miracle de Notre Dame</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2170">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Miracle de Notre Dame</title>
+                  </item>
+                  <item>
+                     <date when="1462"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Bouafles</settlement>
+                        <region>Eure/Haute-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Evreux</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>49.210024, 1.385689</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Gosselin, 1868. p. 19. – Petit de Julleville, 1880, t. 2. p. 29.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Pluralisme juridique</item>
+                  <item>Procès</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>A Bouaffles (près Vieux-Rouen, Seine-Inférieure, doyenné de Beaudemont), le sieur de
+          Vieux-Pont joua, ou fit jouer, en 1452, les « Miracles de Notre-Dame » ; - La pièce ainsi
+          vaguement désignée, « les Miracles de Notre-Dame », fut probablement quelqu'une des pièces
+          que nous avons étudiées sous ce titre ou bien une œuvre analogue. Nous n'avons aucun
+          renseignement sur ce point. [Petit de Juleville] - Garnot donne la représentation en 1453,
+          en citant précisément la cote : il semble qu’il y ait erreur de la part de Gosseelin, et
+          donc Julleville.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7610"
+                    source="S2170"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le Sieur de Vieux-Pont avait négligé de se munir d'une autorisation de l'official,
+                se croyant suffisamment couvert par celle qu'il tenait du pouvoir séculier. Sa
+                négligence fut punie par deux jours d'emprisonnement. Il aurait dû « soumettre le
+                livre à l’examen de l’official ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">ADSM, registre de l'officialité, 1462.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Procès : Jugement</item>
+                        <item>Condamnation : Prison</item>
+                        <item>Juridiction : Conflit</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

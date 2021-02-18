@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2724">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1534"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Poitiers</settlement>
+                        <region>Poitou</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.580224, 0.340375</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 123 – Essai historique sur l’église
+              collégiale de saint Hilaire de Poitiers, p. 306.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Dimanche</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Marché</item>
+               </list>
+               <note>- La mise en scène laissa fort à désirer. Les secrets, préparés trop vite, jouèrent
+          mal. Le chapitre assiste à la représentation, prête costumes et ornements On verra plus
+          loin que Jean Bouchet, invité à la représentation des Actes donnée à Bourges, en 1536, ne
+          put s'y rendre, et s'excusa sur son âge et sa santé. - retrouver le truc sur Villon
+          mentionné dans l’histoire de la collégiale St. Hilaire (p. 306) : refus de prêt de
+          vêtements.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8304"
+                    source="S2724"
+                   
+                   
+                   >
+                  <head>CCCLXXXVI</head>
+                  <div type="transcription">
+                     <p>Die sabbati, vicesima prima mensis martii, anno Domini millesimo quingentesimo
+                XXXIII, fuerunt capitulantes domini subdecanus, succentor, de Choisy, de Balma,
+                Rebours, Mareschal, de Perefixe, Leconte, de Rinquier, Delbene, Chartier, Jo.
+                Leconte, Guillemart. – Ebdomada domini Charretier. Super supplicationie quorumdam
+                proborum virorum hujus civitatis, misterium Passionis Domini nostri Jesu Chritsi hoc
+                anno manifestare in veteri foro Pictavis vel alias volentium et intendentium,
+                capitulum de gratia eorum voto anuit, dempto domino Rebours, qui non fuit opinionis
+                quod indumenta ecclesiastica hujusce ecclesie ad alios usus preterquam
+                ecclesiasticos quoquomodo applicentur. Die sabbati, VIa mensis junii, anno Domini
+                millesimo quingentesimo XXXIIII°, fuerunt capitulantes domini subdecanus, etc.
+                Audita requesta per dominum Leconte pro magistro Michaele Gillet facta, ut
+                nanciscatur duas dalmaticas viridis coloris pro faciendo habitum habitum ad
+                simulandum sanctum Joseph in ➙teatro Passionis hoc anno, conclusum extitit quod ipse
+                Gillet dictas dalmaticas habebit, quas prefatus dominus Leconte in debito statu
+                reddere promisit. Die sabbati, XIIIa mensis junii, anno Domini millesimo
+                quingentesimo trigesimo quarto, fuerunt capitulantes domini cantor, etc. Super
+                supplicatione nonnullorum officiariorum presentis ecclesie et aliorum parentum
+                quorumdam dominorum de presenti capitulopro ornamentis nanciscendis de indumentis
+                sericis ecclesie pro solemnitate Passionis Dominice hoc ano Pictavis mistice
+                fingenda, commissi sunt domini Leconte et Guillot, operis fabrice receptor, pro
+                dictis indumentis eisdem accomodandis, qui in statu ut nunc sunt restituere
+                tenebuntur ; tamen nullus predictorum consequetur preciosa seu pulchra indumenta
+                deaurata seu aurifrigata, sed solum simplicia et communia.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Documents pour l’histoire de l’Eglise Saint-Hilaire de
+                  Poitiers, t. II, p. 193.</bibl>
+                        <bibl type="additional">Arch. St-Hilaire Reg. capit., n°5, f°CCLXIV, CCLXXVII et
+                  CCLXXVIII.</bibl>
+                        <bibl type="additional"> cf. Runnalls, Les Mystères dans les provinces…,
+                  p. 220</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Prêt</item>
+                        <item>Déguisement</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Chanoine</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Mystère de La Passion 1534 - En 1534, la tragédie de la Passion de Notre
+                Seigneur dut jouée publiquement sur le théâtre au Marché-vieil, où tous les
+                chapitres assistèrent montés sur des échafauds, au mois de juillet. (Note de
+                M. Rapaillon, D. Fonteneau, t. XXXV, extr. des archives de St Hilaire, p. 99). - au
+                sujet de la représentation : Annales d’Aquitaine, par J. Bouchet, éd. de 1644,
+                p. 474</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8305"
+                    source="S2724"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Furent faictes, dit également Jean Boucher, joyeuses et trimphantes monstres des
+                mystères de l’Incarnation, de la Nativité, de la Passion, de la Résurrection de
+                N.-S. Jésus Christ et de la mission du Saint Esprit, lesquels on joua en ung théâtre
+                fait en rond, for triomphant, et commença ledit jeu le dimanche 19 juillet et dura
+                11 jours continuels, où il y eut de très beaux joueurs et richement acoutrés.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">– Essai historique sur l’église collégiale de saint Hilaire
+                  de Poitiers, p. 306. - Boucher, Histoire d’Aquitaine, partie IV, f°267. -
+                  Rapaillon, dom Fonteneau, t. XXXV.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8306"
+                    source="S2724"
+                   
+                   
+                   >
+                  <head>epître XC</head>
+                  <div type="transcription">
+                     <p>contenant les fruictz de la passion nostre Seigneur Jesu Christ envoyée a ceulx de
+                Poitiers qui ont monstre par personnages ledict mistere et ceulx de son Incarnation,
+                Nativité, Résurrection, Ascension, et Mission du Saint-Esprit, l'an mil cinq cent
+                trente quatre</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Les mystères, t. II, p. 123.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8307"
+                    source="S2724"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Je ne me puis contenir, mes chers frères, Vous envoier les fruictz des haulx
+                mystères De Jesu Christ, tant de sa Passion, Nativité, que Resurrection, Ascension
+                et mission ignelle Du Sainct Esprit, faicte en forme tant belle Qu'avez jouez a
+                Poictiers vifvement En grant triumphe, et si parfaictement Tant qu'a vo'touche en
+                l'art de rethoricque, Qu'on n'en sçauroit mal parler sans replicque ; Et appert bien
+                que par dévotion Avez joué, sans ostentation. Je n'ouy onc (a tous ainsi le semble)
+                Nombre si grant de bons joueurs ensemble, Ne tant aisez, car on n'a veu sortir De
+                vous que paix, ne aulcun s'assortir A interrompre une telle entreprise. Homme n'y a
+                qui fort ne vous en prise. S'il y a heu es fainctes des deffaulx Et a couvrir le
+                parc et eschaffaulx Tous faict en rond, en fault faire les plainctes Contre ung
+                tendeur, et le faiseur de fainctes, Painctres aussi (sans faire d'eulx contemps) ;
+                Car ilz n'ont heu l'espace ne le temps. Dieu l'a permis, affin que folle gloire
+                N'aneantist euvre tant méritoire. Tout ce oublié, je vous supply, messieurs. Que les
+                labeurs, travaulx et grans sueurs Qu'avez portez, jouans voz personnages, Senlans en
+                vous des chaleurs les oultrages. Ne soient perduz, mais en gardez le pris, Et
+                retenez ce que y avez appris.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Les mystères, t. II, p. 124.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8308"
+                    source="S2724"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>J'ay veu jouer ces mystères trois foys Dont suis content, veu mes ans, toutesfois
+                Desire fort, disant mes patenostres De veoir jouer les Actes des Apostres, Parce que
+                c'est la prosecution Du fruict tant doulx de celle passion De Jesu Christ, voire la
+                forme et guise Comme a esté plantée saincte Eglise. 11 est tout vray que les voy par
+                escript Et oy prescher; plus content est l'esprit De veoir qu'ouyr; la chose qu'on
+                voit vifve, Icelle oyant, est plus apprehensive.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Les mystères, t. II, p. 125.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

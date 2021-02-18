@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2403">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1492"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Rouen</settlement>
+                        <region>Seine-Maritime/Haute-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rouen</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>49.443232, 1.099971</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Gosselin, 1868. p. 30. – Petit de Julleville, 1880, t. 2. p. 62.</bibl>
+                  <bibl type="additional">Manuscrit Bigot, XVIe siècle, possédé par M. E. Frère.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Confrérie de la Passion (Rouen)</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Cimetière</item>
+               </list>
+               <note>Il existait à Rouen au XVe siècle une confrérie de la Passion érigée dès l'année 1374
+          en l'église Saint-Patrice pour un objet purement religieux. Les principaux habitants
+          s'honoraient d'en faire partie; Pierre Giel, lieutenant général du bailli, et Guillaume
+          Tasserie, membre du Puy du Palinod, et auteur de moralités dont nous parlerons ailleurs,
+          étaient au nombre des confrères, vers la fin du siècle. Au commencement de l'année 1491,
+          la confrérie de la Passion, jalouse d'imiter les confrères de Paris, s'avisa de vouloir
+          représenter la Passion. Le roi Charles VllI parlait alors de venir à Rouen. Guillaume
+          Tasserie s'assura le concours de trois ou quatre cents personnes, recueillit des subsides
+          et fit même commencer « des establies contre la forme accoutumée ». On dépensa près de 800
+          livres. Mais le roi ne vint pas à Rouen, et défendit même que le mystère fût joué, ce qui
+          causa dans le peuple un grand mécontentement ; car on s'était si fort avancé que les
+          reliques de la Passion avait été engagées. On avait envoyé des invitations jusqu'à Paris,
+          jusqu'à Orléans. [Petit de Juleville] - Il semble que les échevins n’ont pas donné leur
+          concours à la représentation, étant donné que l’on n’en trouve aucune trace dans leurs
+          délibérations. [Gosselin] - Gosselin donne une description de la confrérie.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7992"
+                    source="S2403"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Aussi, nonobstant la défense du roi (laquelle fut probablement levée dans
+                l'intervalle), au mois de mai de l'année suivante (1492), dans le cimetière des
+                Jacobins, fut représenté le « mystère de la Passion de Nostre Seigneur Jésus, qui
+                fui jouée très magnifiquement par les confrères et de grandz personnages en habits
+                bien honnestes et en establies composées bien suffisamment, lequel mystère n'avait
+                esté joué par avant de quarante ans ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Les mystères, t. II, p. 62 – E Gosselin, Recherches sur les
+                  origines et l'histoire du théâtre à Rouen, p. 30 – Manuscrit Bigot, XVIe siècle,
+                  possédé par M. E. Frère.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Interdiction (outre l'-)</item>
+                        <item>Représentation (description de la -) // Juridiction : Royale</item>
+                        <item>Déguisement : Vêtements</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

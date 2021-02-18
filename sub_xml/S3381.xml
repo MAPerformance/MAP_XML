@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Farce de Pattes-Ouaintes</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3381">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author">Pierre de Laisnauderie</persName>
+                  </item>
+                  <item>
+                     <title>Farce de Pattes-Ouaintes</title>
+                  </item>
+                  <item>
+                     <date when="1492"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Caen</settlement>
+                        <region>Calvados/Basse-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Bayeux</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>49.182863, -0.370679</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">La farce de Pates-Ouaintes, pièce satyrique représentée par les
+              écoliers de l'Université de Caen, au carnaval de 1492; publiée d'après un manuscrit
+              contemporain, par T. Bonnin, Évreux, Ancelle, 1843, vi + 29 p. – Laîné, Stéphane, « La
+              farce de Pates-Ouaintes (1493), un épisode méconnu de contestation estudiantine:
+              approche historique, littéraire et linguistique », Images de la contestation du
+              pouvoir dans le monde normand (Xe–XVIIIe siècle). Actes du colloque de Cerisy-la-Salle
+              (29 septembre–3 octobre 2004), éd. Catherine Bougy et Sophie Poirey, Caen, Presses
+              universitaires de Caen, 2007, p. 205-230. – Rousse, Michel, « Gouberville et le
+              théâtre populaire », Le Cotentin au temps du sire de Gouberville, Revue du département
+              de la Manche, 28, 1986, p. 107-118 –Doudet, Estelle, « Parodies en scène. Textes et
+              contextes dans le théâtre de Pierre de Lesnauderie (Caen, 1493-1496) », Cahiers de
+              recherches médiévales, 15, 2008, p. 31-44.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Scolaire</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9437"
+                    source="S3381"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Revêtus du costume habituel et officiel des parties intéressées dans le débat,
+                entourés de leurs trois mille camarades, dont une partie portait des torches ou
+                était armée de bâtons, et suivis d'une foule de sergents et de bedeaux de
+                l'université, quelques-uns d'entre eux s'avancèrent tumultueusement sur les
+                carrefours et jusqu'aux portes des collecteurs, pour y représenter la satire qu'ils
+                avaient composée : La farce des pates ouaintes.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Caen, Musée des Beaux-Arts, Mancel, 69, f. 305r-331r.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item>Carrefour</item>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

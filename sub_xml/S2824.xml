@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moralité</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2824">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Moralité</title>
+                  </item>
+                  <item>
+                     <date when="1546"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Genève</settlement>
+                        <region>Genève</region>
+                        <country>Suisse</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.198392, 6.142296</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Roget, 1870, t. 2. p. 236. – Holl, 1903. p. 104. – Jonker, 1939. p. 197.</bibl>
+                  <bibl type="additional"> Doumergue, Calvin, t. III, p. 581, e.s. – Keegstra, Abraham
+              sacrifiant de Théodore de Bèze, p. 11 – Wille, De Gereformeerden en het toneel tot
+              omstreeks 1630, in Christendom en Historie, Lustrumbundel, 1930.</bibl>
+                  <bibl type="additional"> Sur le personnage de Roux Monet, cf. A. Roger, Histoire du
+              peuple de Genève, t. III, p. 112-116 – Doumergue, Calvin, t. III, p. 356.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Dimanche</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Roux Monet (notaire, secrétaire de la justice et substitut du procureur général en
+          1545, exécuté à cause de certains livres obscènes qu’il avait fait composer et qu’il
+          nommait son Nouveau testament) et plusieurs compagnons.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8390"
+                    source="S2824"
+                   
+                   
+                   >
+                  <head>16 avril 1546, Registre du Conseil de la ville de Genève</head>
+                  <div type="transcription">
+                     <p>On accorde l’autorisation « ayans entendu que les ministres l’on visité et que
+                c’est à l’édiffication et augmentation de la parolle de Dieu »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Jonker, 1939. p. 197.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Autorisation accordée</item>
+                        <item>Censure</item>
+                        <item>Motif : Enseignement</item>
+                        <item>Contrôle : Ministres</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Emetteur : Conseil de la ville de Genève - le 8 avril, demande de l’autorisation
+                de jouer une moralité. Le Conseil répond que d’abord les ministres devaient dire
+                leur opinion sur la pièce. - Pierre de Rages ferait des ‘fainctes’ mais au dépens
+                des acteurs.</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8391"
+                    source="S2824"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le sermon est « suspendu devers le soyer »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Roget, 1870, t. 2. p. 236 – Jonker, 1939. p. 197.</bibl>
+                        <bibl type="additional">Wille, De Gereformeerden en het toneel tot omstreeks 1630,
+                  in Christendom en Historie, Lustrumbundel, 1930; p. 119.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Aménagement : Déplacement du sermon</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item>Sermon</item>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Emetteur : Conseil de la ville de Genève - Jonker et Wille croient que le sermon
+                a été remis au soir, et qu’on ne l’a point supprimé comme le présume Roget (et
+                d’autres).</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

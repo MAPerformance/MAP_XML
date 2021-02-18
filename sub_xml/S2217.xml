@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Sainte Catherine de Sienne</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2217">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Sainte Catherine de Sienne</title>
+                  </item>
+                  <item>
+                     <date when="1468"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Metz</settlement>
+                        <region>Lorraine</region>
+                        <country/>
+                        <placeName type="bishopric">Metz</placeName>
+                        <placeName type="eccl_province">Trèves</placeName>
+                        <geo>49.119666, 6.176905</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 32.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Dominicains</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Actrice</item>
+                  <item>Ordre : Frères prêcheurs</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Cour du couvent</item>
+               </list>
+               <note>- Le rôle de sainte Catherine de Sienne fut tenu par une jeune fille. Nous ne
+          retrouverons les femmes sur le théâtre qu'à Grenoble en 1535 et à Valenciennes en
+          1547.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7672"
+                    source="S2217"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>En ladicte année fut faict et jué en Mets le jeu de madame saincte Catherine de
+                Sienne, vraye religieuse de l'ordre des Jaicopins. Et fut ce jeu fait en la cour des
+                grans Proischeurs, parmy les trois festes de la Penthecoste. Et pour le faire en
+                furent abattus les estaiges qui estoient couverts tout a l'entour encontre la
+                muraille et qui couvroient les anciennes epitaphes et sépultures. El le fist faire
+                et juer dame Caitherine Baudoiche, a ses frais et despens ; et gist icelle dame
+                auxdits grans Proischeurs en la chapelle qu'elle fist faire et fonder qui est située
+                à l'entrée d'icelle église et fondée au nom de ladicte saincte Catherine. Et portoit
+                le personnaige de saincte Catherine une jonne fillette, aigée de environ dix huit
+                ans, laquelle estoit fille a Dedict le vairier, du Four du Cloistre, et fist
+                merveilleusement bien son debvoir, au gré et plaisir d'ung chescun. Touttes fois
+                avoit ladite fille vingt trois cents vers de personnaige, et neantmoins elle les
+                scavoit tous sur le doigt, et parla celle fille si vivement et piteusement qu'elle
+                provocqua plusieurs gens a pleurer, et estoit agréable a toutes gens. Et a
+                l'occasion de ce, fut celle fille richement mariée a un gentilhomme soldoieur de
+                Mets, appelle Henry de Latour qui d'elle s'énamoura parle grant plaisir qu'il y
+                print.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Huguenin, Chroniques de Metz. Cf. Jacomin Husson, édit.
+                  Miclielant, p. 103. Journal d'Aubrion, édit. Larchey, p. 29.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère des Trois Doms</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2526">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère des Trois Doms</title>
+                  </item>
+                  <item>
+                     <date when="1509"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Romans-sur-Isère</settlement>
+                        <region>Dauphiné</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>45.044236, 5.052735</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 95. – Konigson, 1975. p. 144.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Expiation</item>
+                  <item>Saint local</item>
+                  <item>Représentation (manuscrit de la -)</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Official</item>
+                  <item>Chanoine</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Le mystère des Trois Doms (SS. Séverin, Exupère, Félicien) fut joué à Romans les 27,
+          28, 29 mai 1509. On possède au sujet de cette représentation des documents fort curieux.
+          Il n'y a pas longtemps que le texte du mystère est perdu ; nous en avons même une courte
+          analyse; écrite au siècle dernier, en 1787, dans les Affiches du Dauphiné (20 juillet
+          1787) et reproduite dans le Journal de Paris (1787, n°264, p. 1143). Elle est rédigée dans
+          l'esprit du temps, avec une intention très marquée de ridiculiser le drame du moyen âge
+          (cf. doc.) Il ne nous paraît pas certain que les reliques des saints aient été réellement
+          promenées sur la scène. A la vérité Romans possédait ces reliques : mais il semble plus
+          probable qu'elles ne furent pas apportées au théâtre et qu'on fil seulement un simulacre
+          de la translation. A travers cette sèche analyse, nous devinons que le mystère se
+          terminait comme toutes les pièces de ce genre à cette époque, par l'invention des corps
+          saints et une foule de guérisons miraculeuses accomplies sur leur tombeau. A défaut du
+          texte perdu, M. Giraud a publié en 1848 un intéressant manuscrit trouvé par lui chez des
+          particuliers de Romans. Il est intitulé : Conclusion et despence faicte pour le jeu et
+          mistere des troy doms de Romans de l'an 1509. L'histoire de cette représentation est là
+          tout entière avec des détails que nous ne possédons sur aucune autre. En 1442, 1446, 1494
+          et 1505, la ville de Romans avait été décimée par la peste. Après la fin de la dernière
+          épidémie, laquelle dura jusqu'en 1507, les habitants voulurent rendre grâces à Dieu de la
+          cessation du fléau et en prévenir le retour par quelque œuvre pie. En juillet 1508 le
+          chapitre, les consuls et les notables de Romans, réunis en assemblée générale, résolurent
+          de faire représenter le martyre des trois saints Séverin, Exupère et Félicien, patrons de
+          la ville, aux fêtes de la Pentecôte l'année suivante. Le chapitre (aidé pour un sixième
+          par « messieurs du chapitre de Saint-Moris ») et la ville devaient partager les frais. Les
+          cordeliers avancèrent deux cents florins qu'on leur remboursa plus tard, et prêtèrent
+          gratuitement pour la représentation la vaste cour de leur couvent. Diverses confréries
+          firent également des avances d'argent. Il y eut une sorte d'emprunt forcé imposé sur les
+          confréries et les habitants qui ne jouaient pas. Six commissaires furent désignés : trois
+          ecclésiastiques, trois laïques. Le chanoine Pra, de Grenoble, fut chargé de composer le
+          mystère. Nous ne reviendrons pas sur les détails que nous avons déjà donnés concernant ce
+          personnage, sa collaboration avec Chevalet, l'indemnité qu'il reçut de la ville, ni sur la
+          construction et l'aménagement du théâtre où fut représenté le mystère, ni sur le nombre
+          des spectateurs et sur le prix des places. L'œuvre fut terminée au mois de mars 1509. Nous
+          ignorons quelle en était l’étendue. M. Giraud pense que ce mystère en trois journées dut
+          renfermer à peu près trois mille vers ; c'est certainement une erreur. Un mystère de ce
+          genre en trois journées devait se composer au moins de dix à douze mille vers. Nous savons
+          d'ailleurs par M. Giraud lui-même que le chanoine se fit rembourser quarante-deux mains de
+          papier employées pour son manuscrit. D'autre part trois « noteres » reçurent en tout sept
+          florins pour avoir recopié le texte; chacun avait copié une journée. Sept florins du temps
+          représentent 19 fr., 81, qui vaudraient aujourd'hui près de 200 francs. Ce salaire serait
+          excessif si le mystère n'avait renfermé que 3000 vers. Les spectateurs auxquels on
+          demanda, comme on a vu, un prix assez élevé, auraient trouvé aussi qu'ils n'en avaient pas
+          pour leur argent. Les acteurs paraissent avoir appartenu, en partie du moins, à
+          l'aristocratie de Romans. On trouve parmi eux un noble, un notable conseiller, un
+          dignitaire du chapitre et l'official lui-même. Le manuscrit n'en nomme qu'un petit nombre.
+          On remarquera que le livre de comptes qu'a publié M. Giraud est écrit en français, mêlé, à
+          la vérité, de bon nombre de mots patois. Dans l'évaluation des monnaies nous avons suivi
+          les calculs de M. Giraud, quant à la valeur intrinsèque du florin, du sou et du denier.
+          Mais quant à la valeur relative des mêmes espèces, il nous paraît s'être mépris ; il croit
+          que la puissance de l'argent était seulement trois fois plus grande en 1509 qu'en 1848
+          (date où il écrivait); elle était au moins six fois plus grande ; et nous croyons exagérer
+          fort peu en disant qu'aujourd'hui elle est dix fois moindre qu'au temps de Louis XII. Si
+          l'on en croit le témoignage un peu vague d'Aymar du Rivail le mystère des Trois Doms fut
+          représenté plusieurs fois et pour ainsi dire périodiquement à Romans (cf. doc.) - La scène
+          sur le centre de la place est souvent rectangulaire, comme à Romans en 1509, entourée sur
+          deux cotés de bancs et de loges pour les spectateurs aisés [Konigson 1980, p. 144]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8115"
+                    source="S2526"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>La scène, y est-il dit, ensanglantée par le martyre des Trois Doms, tantôt est à
+                Rome, tantôt à Vienne, tantôt à Lyon ; d'autres fois dans les Alpes, et cependant le
+                théâtre représente sans cesse l'Enfer et le Paradis, l'Europe, l'Asie et l'Afrique
+                qui sont cantonnées dans trois tours. On y personnifie des êtres métaphysiques ; par
+                exemple dame Silence fait presque tous les frais du prologue; Soûlas humain. Grâce
+                divine et Confort divin donnent du secours aux héros de la pièce et de l'ennui à
+                ceux qui la lisent. L'Enfer vomit des diables impatientans par leurs propos
+                orduriers ; ces diables n'ont que des sottises à dire à la déesse Proserpine, qui,
+                par un mélange singulier de la fable et de la religion révélée, vient aussi figurer
+                sur le théâtre. Parmi les quatre-vingt-douze personnages qui paraissaient dans le
+                mystère des Trois Doms, on voit la sainte Vierge et Dieu le Père. Les noms de
+                plusieurs de ces personnages sont d'une singularité remarquable; il y a un
+                Brise-Barre, un Ferragus, un Mache-Bourre, acteurs épouvantables qui font parade de
+                bravoure, mais qui prouvent qu'ils ne sont que cruels. Les reliques des saints
+                martyrs étaient aussi portées sur le théâtre des représentations; il y a même sur
+                leur translation une pièce en un acte qui n'a pas été jouée.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8116"
+                    source="S2526"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Au temps de Charlemagne, le sixième jour avant les nones d'octobre, saint Bernard,
+                archevêque de Vienne, plaça dans une église fondée par lui-même à Romans, les
+                reliques de Séverin, Exupère et Félicien… et à certains intervalles les habitants de
+                Romans célèbrent à grands frais le souvenir de la vie, du supplice et de la mort de
+                ces trois saints en les représentant dans des jeux.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- La translation des trois martyrs eut lieu sous Louis le Débonnaire et non sous
+                Charlemagne. Aymar du Rivail avait environ 20 ans quand fut joué le mystère des
+                Trois Doms en 1509. Il était né à Saint-Marcellin, près de Romans, et avait été
+                élevé à Romans. Son témoignage a donc une grande valeur. [Petit de
+                Julleville]</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

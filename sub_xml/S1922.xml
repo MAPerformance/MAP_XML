@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Histoire de Griseldis</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S1922">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Histoire de Griseldis</title>
+                  </item>
+                  <item>
+                     <date when="1395"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Paris</settlement>
+                        <region>Paris/Île-de-France</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Paris</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.856614, 2.352222</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 6.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Bazoche</item>
+                  <item>Roi</item>
+                  <item>Charles VI de France</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Selon une tradition qui n'offre rien d'invraisemblable mais qui n'est guère prouvée,
+          « l'Histoire de Griselidis par personnages » a été jouée devant Charles VI par les clercs
+          de la basoche, et le manuscrit unique de la Bibliothèque nationale (fr. 2203), daté 1395,
+          fut présenté et offert à ce roi. Le fait de la représentation est attesté par le chevalier
+          de Mouhy dans sa volumineuse histoire inédite du théâtre français (Bibl. nat., mss. fr.,
+          9229). Mais quelle créance mérite cet historien trop bien informé, qui ne cite jamais ses
+          sources et raconte une multitude de faits dont on ne trouve nulle trace ailleurs que chez
+          lui ? Après avoir lu soigneusement la partie de cet ouvrage qui traite du théâtre au moyen
+          âge, nous nous sommes déterminé à ne tenir aucun compte des assertions qu'elle renferme;
+          les erreurs certaines qu'on y trouve en nombre infini rendent suspects en effet tous les
+          faits plausibles qui peuvent y être mêlés. On ne trouvera donc dans cette liste ni la
+          Translation de saint Jacques, jouée, paraît-il, en 1403 par les confrères delà Passion; ni
+          la vie de Saint François, jouée en 1437, ni celle de Sainte Elisabeth, jouée en 1440; ni
+          celle de Saint Landry, jouée en 1468; ni celle de Saint Josse, jouée en 1496; ni celles de
+          Saint Honorât (1501), Saint Césaire (1508), Saint Maxime (1509), Saint Clair (1518), etc.
+          Le chevalier de Mouhy avait bien acheté à Claude Parfaict le privilège de l'Histoire du
+          théâtre français, mais il n'avait pas hérité de là bonne foi des deux frères auteurs de
+          cet excellent ouvrage. On ne saurait hasarder la moindre assertion sur son témoignage,
+          toutes les fois qu'il est isolé. [Petit de Julleville]</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

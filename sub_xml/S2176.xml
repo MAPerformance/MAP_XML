@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Vengeance de N.-S. Jésus Christ</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2176">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Vengeance de N.-S. Jésus Christ</title>
+                  </item>
+                  <item>
+                     <date when="1463"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Abbeville</settlement>
+                        <region>Somme/Picardie</region>
+                        <country/>
+                        <placeName type="bishopric">Amiens</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>50.105467, 1.836833</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Louandre, 1851. p. 319. – Grenier, 1856. p. 404. – Petit de Julleville, 1880, t.
+              2. p. 30.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- La Vengeance de Noire-Seigneur Jésus-Christ fut jouée de nouveau à Abbeville en
+          1463. - Grenier dit 1463 (mais janvier).</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7616"
+                    source="S2176"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Sur la requeste faite par Guillaume Bournel, lieutenant général de monseigneur le
+                seneschal de Pontieu, sire Jehan Landier, Maiheu de Pont, Bernard de May et Maiheu
+                de Beaurains, commis à la conduite et gouvernement du jeu de la vengeance de le
+                Passion de Nostre-Seigneur Jésus-Christ, qui naguerres a esté ordonné estre jué en
+                ceste ville aux festes de Pentecouste prochainement venant, adeo(?) que on voloit
+                donner aucune somme de deniers de la ville pour aidier a supporter le dépense qu’il
+                convenra faire à cause de ladite mystère. » Il a été conclu qu’au cas qu’il fût
+                joué, on donnerait la somme de conquante livres.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Grenier, 1856. p. 404.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

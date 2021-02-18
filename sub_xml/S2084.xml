@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Eloi</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2084">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Eloi</title>
+                  </item>
+                  <item>
+                     <date when="1447"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Dijon</settlement>
+                        <region>Bourgogne</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>47.322047, 5.041480</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 19. – Petit de Julleville, 1886. p. 330. –
+              Bouhaïk-Gironès, 2003.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Scénario</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Dimanche</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Ordre : Carmel</item>
+                  <item>Prêtre</item>
+                  <item>Laïc</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Champ</item>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7534"
+                    source="S2084"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le dimanche 29e jour d'octobre M.CCCC.XXXX.VII, certains religieux de l'ordre des
+                frères du Carmel, avec certains prestres et aultres gens laiz, jouèrent, a Dijon, ou
+                champ du Morimont, sur certaines loges ou ➙chaffaulx, illec dressiez et levez, le
+                mistere et ➙representacion de la vie de Monsieur saint Eloi ; duquel mistere estoit
+                meneur et conduiseur Messire Jehan Montbeliard, prebstre, et par dedans ledit
+                ➙mistere, y avoit certaine ➙farse meslée, par manière de faire resveiller ou rire
+                les gens. Laquelle ➙farse fut jouée par Jehan Savenot, tixerant de draps, Girard de
+                Vesoul, dit Tabourin, cordouanier, Denizot Bernier, Guillaume Bouquemont, aussi
+                cordouanier, et aultres. Lesquels, en jouant ladite ➙farse, dirent plusieurs mots et
+                clauses en rimes, touchans et sentans manière de reproche, mocquerie ou raffarde
+                contre l'honneur du Roi nostre sire, de Monseigneur le Daulphin, et de leurs gens ;
+                et dont plusieurs notables personnes, qui estoient alez voir ledit ➙mistere, furent
+                moult malcontentes, et se départirent incontinent qu'ils oïrent jouer ladite ➙farse,
+                disant qu'ils ne seroyent plus présents et ne vouloyent point oïr telle folle et
+                oultrageuse parole. Là-dessus, Jean Rabustel, clerc procureur de la ville, lequel
+                déclare qu'il ne fut pas présent, « ains arriva illec après que lesdites folles
+                paroles furent dittes », fit commandement « ausdits Denisot, Girard et Guillaume »
+                qu'ils missent entre ses mains « le livre original d'icelle ➙farce ». Inspection
+                faite du texte, le clerc procureur soupçonna qu'on avait dû altérer deux rôles,
+                « l'ung nommé Robin, l'aultre Jaquin ». Il interrogea les témoins. Mais chacun se
+                dérobait à merveille. « Premièrement, Girard de Vesoul, corduanier, demeurant a
+                Dijon, l'ung de ceux qui a aydé a jouer ladite farse… dit qu'il est vray que le
+                vendredy avant et prouchain du dimanche que lesdits ➙mistere et ➙farse furent
+                ➙jouez, plusieurs des compaignons dudit jeu lui apportèrent son ➙personnaige de
+                ladite ➙farse ; lequel ➙personnaige se appeloit Jehannot ; et luy requirent moult
+                instamment qu'il ➙jouast ledit ➙personnaige; a quoy moult envis il se accorda, et ne
+                vit oncques reciter ladite ➙farse entièrement jusque le jour qu'elle fut ➙jouée. » A
+                l'égard des rôles et passages suspects, « dit que, en son ➙personnaige n'en est rien
+                contenu, ainsi que apparoir peut par iceluy ; mais il est vray que lesdits Robin et
+                Jaquin les ont jouez ainsy qu'ils sont escripts, excepté que la ou il (y) a escrit
+                escorcheurs, ils le nommoyent estradeurs ; et n'y scet aucune aultre mutation de
+                langaige. Interrogué s'il scet dont est venue ladite ➙farse, ne qui l'a faite, dit
+                qu'il y a oy dire a Jehan Savenot qu'il l'avoit apportée de Beaune et luy semble que
+                ledit Savenot disoit qu'elle avoit esté jouée audit Beaune, et plus avant n'en
+                scet. » Guillaume Bouquemont, cordonnier, avoue qu'il a joué le personnaige du
+                tavernier « mais il n'y pensoit en nul mal », et son personnage n'est soupçonné
+                d'aucun mot irrévérencieux. A la fin du premier interrogatoire, le Procureur prie
+                Messieurs les Conseillers de la Ville d'expliquer par écrit leurs intentions :
+                doit-il procéder plus avant ? poursuivre outre les joueurs de la farce, ceux du
+                mystère ? ou seulement ceux des acteurs qui ont dit « paroles injurieuses » et
+                « chargé les gens du Roy ». L'affaire se divulguait. « Plusieurs en parlent, l'un en
+                une manière, l'aultre en une aultre ». Il importe qu'il soit procédé « à l'honneur
+                et décharge de la ville ». Dijon serait compromis « si la renommée estoit d'avoir
+                joué telle desrision en ladite ville ». On rechercha Jehan Savenot, « ouvrier de
+                draps », accusé d'avoir introduit à Dijon la farce incriminée. Il se rendit
+                prisonnier * de son plein gré et volonté », car « a son retour qu'il a fait en son
+                hostel de certain lieu ou il estoyt aie en ses besoings, l'on ly a dit que ledit
+                procureur l'avoit fait adjourner a comparoir en personne a certain jour naguère
+                passé, et que iceluy procureur avoit entencion de poursuivre de ceste matière. Et
+                pour ce, afin de soi escuser et rendre obéissant a justice, il s'est venu rendre es
+                dites prisons, pour illec ester a droit ; et requiert que l'on le vueille oïr en ses
+                justifications et ygnosance. » Le Vicomte Maïeur (ou maire) de Dijon interrogea
+                luimême ce principal inculpé. Jean Savenot avouait avoir joué le personnage de
+                Jaquin ; un nommé Jean Regnard, clerc de messire Jean Milant, avait joué Robin. Mais
+                Jean Savenot seul avait apporté la farce à Dijon : « A la feste de saint Nicolas
+                d'esté, a eu deux ans que il, qui parle, venoit de Genève et retourna par Beaune, a
+                l'entencion de aler veoir sa mère qui demeure audit lieu » — (quoi de plus innocent,
+                ou même de plus louable ?) — « et lorsque arriva audit Beaune, ung nommé Jehan
+                Serouot, ung aultre nommé Jehan Dubois et autres, ➙jouoient ladite ➙farse pour
+                laquelle veoir il se arresta, et estoient la jouans, lorsque y arriva, sur le point
+                là ou l'on trompe le tavernier, qui est l'un des ➙personnaiges de ladite ➙farse ; et
+                pour ce qu'il lui sembloyt que ladite ➙farse estoyt assez joyeuse après qu'elle fut
+                faite et jouée, il se tira devers les compagnons qui l'avoient jouée, (et) leur prya
+                qu'ils luy voulsissent bailler ladite ➙farse, ou la copie, a ses dépens ; lesquels
+                ly accordèrent, et lors la fit copier et en paya cinq ou six blancs ; et l'a gardée,
+                jusque naguère que le ➙mistere de la vie dudit saint Eloy (fut joué). » « Interrogué
+                comment, ne par quel moyen ladite ➙farse fut jouée et meslée avec ledit mistere, dit
+                qu'il est vray que lorsque celluy ➙mistere fut mis sus, il fut avisié par les
+                compaignons qui le dévoient ➙jouer, qu'il seroit bien fait d'avoir une ➙farse pour
+                entremesler par dedans ; et lors il fut demandé a plusieurs s'ils n'en savoient
+                point de bonnes. A quoy il qui parle, veant que aucun d'eux n'en bailloit point,
+                leur dit qu'il en avoit une qui lui sembloit estre bonne, et qu'il avoit veu jouer a
+                Beaune. La quelle il leur bailla, et après qu'elle eust esté veue et visitée par
+                tous les compaignons dudit ➙mistere, fut dit qu'il leur sembloit qu'elle estoit
+                bonne ; et fut conclud qu'elle seroit jouée et entremeslée par le dit mistere, et
+                furent les personnaiges baillés. » « Interrogué se, en recitant ladite ➙farse, et
+                avant qu'elle a este ➙jouée publicquement, il y a eu aucun des dits compaignons
+                joueurs tant du dit mistere comme de ladite farse qui s'ait donné garde qu'il y ait
+                aucune parole touchant ne derogant a l'honneur d'autruy, et mesmement des gens du
+                Roi nostre Sire, et de Monseigneur le Dauphin, dit que non ; excepté toute voye, que
+                les aucunz d'eulz se doubterent que ce ne fust mal fait de nommer les escourcheurs,
+                selon que en aucun acte de ladite farse estoit contenu ; et pour ce, avisèrent entre
+                eulx que seroit plus honorable de les nommer estradeurs, et ainsi fut conclud de
+                faire ; et a esté fait ; car en tous les points ou en ladite farse avoit escrit
+                escourcheurs, a esté dit estradeurs. » « Interrogué se, durant le temps de la
+                ressitacion, ne en jouant la dite ➙farse, il s'ait point donné garde qu'il y eust
+                parole injeurieuse ne perileuse a dire, dit que non, par le serment que a fait. Car
+                s'il l'eust congnu de soi, ou eust esté adverti par aultres que eust esté mal faict
+                de ➙jouer icelle ➙farse, il s'en fast incontinent depourté et désisté de tout
+                point... Et luy sembloit que, s'il y eust eu rien mal faict, que les compaignons de
+                Beaune ne l'eussent point ➙jouée. Car au regard de luy, en tant que luy touche, il
+                n'est point clerc. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Petit de Julleville, 1886. p. 331</bibl>
+                        <bibl type="additional"> Archives départementales de la Côte-d'Or. Procès criminels,
+                  justice municipale de Dijon. Communication particulière de M. Joseph Garnier,
+                  archiviste.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                        <item>Représentation (titre de la -) // </item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Quelques hardiesses semées dans cette farce donnèrent lieu à un procès curieux
+                pour l'histoire de la censure. Nous en parlerons dans notre tome IIIe. [Petit de
+                Julleville] - cf. Marie Bouhaïk-Gironès, « Le Procès des Farceurs de Dijon », EMD,
+                Brepols, 2003.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

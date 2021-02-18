@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Conception de la Très Sainte Vierge</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2904">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Conception de la Très Sainte Vierge</title>
+                  </item>
+                  <item>
+                     <date when="1556"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Le Mans</settlement>
+                        <region>Sarthe</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Le Mans</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>48.006110, 0.199556</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Piolin, 1858. p. 39. – Piolin, 1861, t. 5. p. 241. – Petit de Julleville, 1880, t.
+              2. p. 159</bibl>
+                  <bibl type="additional"> Archives du chapitre du Mans, B-15 – Ms. de la bibliothèque du
+              Mans n°257.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Office</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Chanoine</item>
+                  <item>Enfants de chœur</item>
+                  <item>Habitué</item>
+                  <item>Clerc-public</item>
+                  <item>Clerc-acteur</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Piolin note que les temps son difficile pour la province : cf. Histoire de l’église du
+          Mans, chapitre XXIX. - On ignore quel texte fut suivi à cette représentation. D. Piolin
+          pense, assez vraisemblablement, que ce fut celui que renferme un manuscrit de la
+          Conception qui est à la bibliothèque du Mans.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9517"
+                    source="S2904"
+                   
+                   
+                   >
+                  <head>Délibération capitulaire des 11 et 12 septembre 1556</head>
+                  <div type="transcription">
+                     <p>1/ les chanoines autorisent les enfants de chœur à chanter dans ce mystère. 2/ ils
+                avancent les offices du matin, et retardent ceux du soir pour s’accommoder aux
+                heures choisies par les entrepreneurs des jeux publics. 3/ ils interdisent la
+                sonnerie des cloches pendant la représentation pour ne pas gêner les acteurs et les
+                spectateurs. 4/ Ils permettent aux commissaire du chapitre le prêt de plusieurs
+                ornements d'église (sauf les plus précieux) pour le décor. 5/ Eux-mêmes s'autorisent
+                à ne pas assister à tous les offices pendant le temps des jeux, sauf aux matines. 6/
+                Ils autorisent quatre habitués à remplir des rôles pourvu que ce soit sans scandale.
+                [Piolin, 1861 dit trois]</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Aménagement : Modification de la liturgie</item>
+                        <item>Aménagement : Arrêt des cloches // Organisation : Prêt d'ornements
+                  liturgiques</item>
+                        <item>Aménagement : Dispense pour les ecclésiastiques</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

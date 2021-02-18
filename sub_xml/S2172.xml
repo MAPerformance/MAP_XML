@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moralité de la Terre et de la Fortune et Le Monde et l’espérance</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2172">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Moralité de la Terre et de la Fortune et Le Monde et l’espérance</title>
+                  </item>
+                  <item>
+                     <date when="1462"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Draguignan</settlement>
+                        <region>Provence</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>43.537727, 6.464993</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Albanès, 1874. p. 506.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Organisation : Représentations multiples</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Chapelain diacre</item>
+                  <item>Chapelain sous-diacre</item>
+                  <item>Artisan</item>
+                  <item>Clerc-acteur</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Une autre Moralité (Le Monde et l’espérance) est jouée. - acte passé devant Honorat
+          flamengui, qui a signé avec trois témoins, devant la boutique de draperie de maître
+          Bertrand Hellant, située sur la place du marché.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7612"
+                    source="S2172"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Promissio de ludendo unum ludum seu moralitatem. Anno incarnationis Domini
+                millesimo IIIIe LXI et dier decima sexta mensis Marcii, notum sit, etc., quod
+                magister Ludovicus Honorati, barberius, Bertrandus Hellant, calssaterius ville
+                Draguignani, Jacobus Richerii, appothecarius ejusdem ville, necnon venerabiles viri
+                domini Jacobus de Barbona, capellanus secundarius, et Desiderius Quadrati,
+                capellanus dyaconus ecclesie dicte ville Draguignani, et ego Honoratus Flamenqui,
+                notarius subscriptus, bona fide, etc., omnes simul unus alteri et e contra,
+                promisimus, et quilibet promisit, se quemlibet nostrum ludere in quodam ludo, seu
+                moralitate, noviter ludenda et levanda in dicta villa Draguignani ; que quidem
+                moralitas appellatur la Terra et Fortuna, et l’un e l’autre, lo Monde et Speranssa ;
+                videlicet quilibet ludat suum personagium sibi jam traditum, cum pactis sequentibus.
+                Et primo, fuit de pacto inter nos dictos omnes quod quilibet nostrum teneatur et
+                debeat venire, et ad hoc se non reddat difficilem, in die et loco eligendo per
+                dictum dominum Jacobum de Barbona, super hoc electum, ad impetorandum et recordandum
+                ipsam moralitatem ; et ille qui non erit in ipso recordio, in loco et termino supra
+                assignandis, solvere debeat unum grossum, pro vice qualibet aplicandum et exponendum
+                in societate, nisi forcitan, talis esset absens. Hoc adjecto, quod si quis nostrum
+                esset recessurus necessario, quod per unam diem ante recordacionem fiendam, postquam
+                fuerit sibi per predictum dominum Jacobum intimatum, habeat suum recessum dicto
+                domino Jacobo, seu societati, manifestare. Item plus, fuit de pacto quod quilibet
+                nostrum se promptum reddat, et non dificilem, ad juvandum ad construendum
+                caldaffalscos pro dicta moralitate ludenda, dum necesse fuerit, et requisitus erit
+                per dictum dominum Jacobum ; et ad illam ludendum, die propterea eligenda inter nos.
+                Item plus, quod die qua moralitas ipsa ludi debebit, quilibet nostrum intersit, sine
+                excusatione aliquali ; nec se habeat absentari, postquam dies ipsa electa fuerit ;
+                et hoc sub pena unius senti(?) pro quolibet ille die deficienti, ut supra applicandi
+                et exponendi ; nisi forcitan talis esset infirmus, vel aliam haberet justam et
+                legitimam excusationem. Et volunt, casu quo allegaretur per alterum nostrum
+                aliqualis excusacio, quod cognicio illius remittatur totaliter dicto domino Jacobo
+                de Barbona, ipseque habeat cognoscere super hoc, et quilibet stet dicto suo, et pro
+                facto habeatur id quod per ipsum factum et ordinatum fuerit. Hanc autem promissionem
+                cum pactis, etc. Renunciantes, etc. De quibus, etc. Actum Draguignani, infra
+                appothecam draperie magistri Bertrandi Hellant, que est in platea fori. T. Bressonus
+                Gaudemaris, M. Anthonius Gaufridi ; calsaterii de Forojulio. Et ego Flamenqui,
+                etc.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Albanès, 1874. p. 508</bibl>
+                        <bibl type="additional"> Archives départementales du Var, 3 622, fol. LXXX. (Protoc.
+                  notarum Honorati Flamenqui, alias Pavesii, not. publ. Tholoni.)</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Contrat</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

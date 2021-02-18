@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Sébastien</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2428">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Sébastien</title>
+                  </item>
+                  <item>
+                     <date when="1497"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Châlon-sur-Saone</settlement>
+                        <region>Bourgogne</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.780764, 4.853947</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 75</bibl>
+                  <bibl type="additional"> Bulletin du Comité historique des monuments écrits de
+              l'histoire de France, t. II, p. 119 et suiv.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Motif : Protection de la ville</item>
+                  <item>Motif : Vœu</item>
+                  <item>Peste</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Le 14 juillet 1490, les habitants de Chalon-sur-Saône, éprouvés par la peste, avaient
+          fait un vœu à saint Loup. En 1493, ils avaient fait un nouveau vœu en l'honneur « de Dieu,
+          de sa glorieuse mère et des saints et des saintes du paradis ». En 1496, la peste durant
+          toujours, ils résolurent d'exécuter « le jeu et mistere de Monsieur Saint Sebastien,
+          intercesseur d'icelle maladie ».</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8014"
+                    source="S2428"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Assemblée faicte en la maison de la ville et cité de Chalon, le XXVe jour du mois
+                de décembre l'an mil Illlc IIIIxx et seize, touchant le jeu de monsieur saint
+                Sebastien (y assistent trois eschevins, le lieutenant du bailliage, l'advocat du
+                roy, et soixante-un habitants de Chalon). « Tous les dessus nommez d'ung mesme
+                accord et consentement sont d'avis et oppinion que attendu que depuis environ six
+                ans eu ça la dicte ville n'a esté exemple de la maladie contagieuse appelée peste,
+                les habitans de la dicte ville en l'onneur de Dieu et de monsieur saint Sebastien
+                intercesseur d'icelle maladie et affin qu'il plaise a Dieu le créateur retirer sa
+                main et les dicts habitans pluissent d'uy en amere estre preservez de la dicte
+                maladie, que l'on mectra sus le jeu el mistere du glorieux amy de Dieu monsieur
+                saint Sebastien pour icelluy jouer le plus tost que faire se pourra bonnement. »
+                Douze personnes seront élues, « les quels auront la charge de bailler et asseoir les
+                personnaiges » (du mystère), avec six autres « esleuz a venir et corriger la ryme du
+                dict mystere ou mestier sera ». D'après ces derniers mots, le texte qu'on devait
+                jouer existait déjà. Les douze premiers élus devront en outre « faire afaire les
+                chaffaulx, secretz, provision de bois a ce nécessaire, et toutes aultres choses
+                qu'il appartient au dict jeu ». Aussi a esté conclud qu'ils se trouveront a toutes
+                les récitations qui se feront, et que ceulx qu'ils cognoistront non estre souffisans
+                pour jouer le personnaige a eulx baillé, qu'ils pourront changer et bailler aultres
+                personnaiges a ceulx ou ils cognoistront estre expédient, ou en faire ainsi que bon
+                leur semblera selon raison.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Communication de M. Marcel Canat, insérée dans le Bulletin
+                  du Comité historique des monuments écrits de l'histoire de France, t. II, p. 119
+                  et suiv.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Description : Organisation</item>
+                        <item>Organisation : Distribution des responsabilités</item>
+                        <item>Organisation : Rôle (distribution de -) // Organisation : Obtention du
+                  texte</item>
+                        <item>Organisation : Construction de la scène // Organisation : Obtention des
+                  accessoires</item>
+                        <item>Organisation : Répétition // Organisation : Secrets</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8015"
+                    source="S2428"
+                   
+                   
+                   >
+                  <head>5 février 1496 (1497 nv. st.), Procès-verbal d'une assemblée tenue en la maison de
+              ville</head>
+                  <div type="transcription">
+                     <p>Trente habitants dont on donne les noms « ont fait serment et juré aux sains
+                evangilles de Dieu ez mains de noble homme maistre Jehan Symon, advocat du roy
+                nostre sire audict Chalon de accepter et avoir pour agréable les personnaiges a
+                chacun d'eulx baillez du jeu et mistere de monsieur saint Sebastien, et iceulx
+                jouer, et eulx habillier, a leurs frais missions et deppens, chacun selon qu'il
+                appartiendra et que son personnage le requerra ». Les contrevenants paieront « dix
+                escus livres tournois » d'amende au profit de la ville, « les chaffaulz et secretz
+                du dict mistere estans a la charge d'icelle ». Même amende contre ceux qui
+                manqueront « a toutes recitations générales » sans excuse légitime. Les acteurs
+                jugés insuffisants aux répétitions recevront d'autres rôles, ou seront éliminés et
+                remplacés ; dans ce cas ils restitueront la copie ou « registre » de leur rôle.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Communication de M. Marcel Canat, insérée dans le Bulletin
+                  du Comité historique des monuments écrits de l'histoire de France, t. II, p. 119
+                  et suiv.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Type : Règlement</item>
+                        <item>Organisation : Rôle (distribution de -)</item>
+                        <item>Finance : Assumer son rôle</item>
+                        <item>Condamnation : Amende // Organisation : Répétition</item>
+                        <item>Organisation : Obtention du texte</item>
+                        <item>Condition : Restitution</item>
+                        <item>Organisation : Construction de la scène</item>
+                        <item>Organisation : Secrets // Description : Organisation</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8016"
+                    source="S2428"
+                   
+                   
+                   >
+                  <head>16 février 1496 (1497 nv. st), Procès-verbal de l'assemblée tenue en la maison de
+              ville</head>
+                  <div type="transcription">
+                     <p>Soixante-quinze habitants sont présents, quatre personnes sont élues « pour amasser
+                et faire la poursuyte d'avoir du bois pour les chaffaulx ». Six autres enfin « pour
+                faire les pauses du dict jeu et pour veoir reciter les joueurs pour cognoistre s'il
+                conviendra chauger ou ester a d'aulcuns leurs personnaiges comme non souffisans pour
+                les jouer ». L'un d'eux « pourtera l'ung des registres ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Communication de M. Marcel Canat, insérée dans le Bulletin
+                  du Comité historique des monuments écrits de l'histoire de France, t. II, p. 119
+                  et suiv.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Distribution des responsabilités</item>
+                        <item>Organisation : Répétition // Organisation : Construction de la scène</item>
+                        <item>Description : Organisation // </item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

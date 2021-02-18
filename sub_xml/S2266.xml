@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Victor</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2266">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Victor</title>
+                  </item>
+                  <item>
+                     <date when="1476"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Triel-sur-Seine</settlement>
+                        <region>Yvelines/Île-de-France</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rouen ?</placeName>
+                        <placeName type="eccl_province">Rouen ?</placeName>
+                        <geo>48.989382, 2.005531</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Gosselin, 1868. p. 22. – Petit de Julleville, 1880, t. 2. p. 40.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Procès</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Habitant</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Cimetière</item>
+               </list>
+               <note>En 1476 les habitants de Triel représentèrent le mystère de Saint Victor dans le
+          cimetière de la paroisse, contre la défense du curé, qui porta plainte devant l'official.
+          On avait de plus osé prendre une statue de sainte dans l'église pour s'en servir en guise
+          d'idole dans la représentation. L'officialité condamna quatre joueurs ou entrepreneurs à
+          trente sous d'amende et deux autres à dix sous. - Est-ce la bonne commune ?</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7732"
+                    source="S2266"
+                   
+                   
+                   >
+                  <head>Registre de compte des émoluments du vicariat de Pontoise.</head>
+                  <div type="transcription">
+                     <p>Condamnation à 32 sous d'amende, de quatre particuliers de Triel, pour avoir, sans
+                permission de justice, joué un mystère de saint Victor.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">ADSM, registre capitulaire G. 338 (1476-1477).</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Jugement ecclésiastique</item>
+                        <item>Autorisation (sans -)</item>
+                        <item>Condamnation : Amende</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7733"
+                    source="S2266"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Condamnation à 10 sous d'amende, d'un particulier de la même localité [Triel] pour
+                avoir descendu de sa huche la statue d'une noble dame qui se trouvait près de
+                l'hôtel Sainte-Anne, afin de servir à la représentation d'une idole, au mystère de
+                Saint-Victor.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">ADSM, G. 338 (1476-1477)</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Jugement ecclésiastique</item>
+                        <item>Condamnation : Amende</item>
+                        <item>Organisation : Prêt de matériel</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item>Hôtel</item>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7734"
+                    source="S2266"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Condamnation à 10 sous d'amende, d'un autre particulier qui avait fait jouer des
+                comédiens dans le cimetière de Triel, malgré la défense du chapelain.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">ADSM, G. 338 (1476-1477)</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Procès : Jugement</item>
+                        <item>Interdiction (outre l'-)</item>
+                        <item>Contrôle : Chapelain // Condamnation : Amende</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

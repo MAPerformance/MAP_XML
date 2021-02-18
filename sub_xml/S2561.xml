@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Farce</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2561">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Farce</title>
+                  </item>
+                  <item>
+                     <date when="1516"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Bourges</settlement>
+                        <region>Berry</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>47.081012, 2.398782</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Girardot, « Histoire du chapitre Saint-Etienne de bourges », in
+              Mémoires de la société archéologique de l’Orléanais (N° 2) (Orléans : Gatineau,
+              Libraire), 1853, p. 96.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Procès</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Chanoine</item>
+                  <item>Vicaire</item>
+                  <item>Clerc-acteur</item>
+                  <item>Clerc-public</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>3n 1531 : défense de se masquer, en 1602, défense d’assister aux représentations des
+          bateleurs et comédiens. Ajouter l’entrée pour 1516.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8167"
+                    source="S2561"
+                   
+                   
+                   >
+                  <head>8 février 1516</head>
+                  <div type="transcription">
+                     <p>Quatre chanoines ou vicaires sont condamnés à tenir prison un jour à pain et à eau
+                « pour avoir joué devant le cardinal une farce avec plusieurs paroles déshonnêtes,
+                et ne convenant pas à des personnes ecclésiastiques. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Condamnation : Amende</item>
+                        <item>Condamnation : Prison</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Le cardinal est probablement le (futur) cardinal Antoine Bohier, dit Du Prat :
+                il est archevêque depuis 1514, et est créé cardinal en 1517.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

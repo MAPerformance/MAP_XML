@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2211">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1467"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Orbe</settlement>
+                        <region>Vaud</region>
+                        <country>Suisse</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.724920, 6.534402</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Aebischer, 1972. p. 158. – Barbey, 1912. p. 45.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pâques</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Les transcriptions de la documentation sont bonnes, mais il faut revoir le découpage
+          en docs. - Chocheyras dit pour la Fête-Dieu. Mystère mimé ou par personnage. [Chocheyras]
+          - On érige une grande croix et un sepulcre devant lesquels jouent les
+          acteurs.[Chocheyras]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7663"
+                    source="S2211"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Pour cinq traz employ ou piez de la grand croi, achité de Jehan Garin, v s. A Jehan
+                Bertin pour dues pieces de boys, l'une mise en la grand croy et de l'autre l'on fit
+                le dues petites croy, iij s. A Nicolet Bazan pour les lan de luy achité dequel on
+                fit le sepulcre, iiij s. Pour troy quarteron de cloz employ tam ou sepulcre comme
+                sur l'oges, xv d.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Barbey, 1912. p. 45 – Aebischer, 1972. p. 158.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7664"
+                    source="S2211"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>A quatre compagnyon qui se gardirent la nuyt du Grand jeudi pour les drap et
+                cultines qu'estoient estendus, iiij s. vj d. Eis pourtez de la ville et à troy
+                aultres compagnyon qui gardirent la ville et les portes dementre que l'on jue la
+                passion, iiij s. Ou frere prescheour qui a prechiez toute la carême et se aydaz à
+                faire la Passion, xiij s. A maistre Hugoz Florin, pour la peinaz qui a euz de la
+                Passion, xx s.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Barbey, 1912. p. 45 – Aebischer, 1972. p. 158.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7665"
+                    source="S2211"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le venredi Saint pour pain, vin et poison pour la cenaz du jeuz de la Passion, vj
+                s. Chiez Jaquet Borgeis, pour le digne de ceux qui gardirent le tour de la croy, iij
+                s. ij d.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Barbey, 1912. p. 45 – Aebischer, 1972. p. 158.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7666"
+                    source="S2211"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Pour cinq traz employ ou piez de la grand croi, achité de Jehan Garin, v s. A Jehan
+                Bertin pour dues pieces de boys, l'une mise en la grand croy et de l'autre l'on fit
+                le dues petites croy, iij s. A Nicolet Bazan pour les lan de luy achité dequel on
+                fit le sepulcre, iiij s. Pour troy quarteron de cloz employ tam ou sepulcre comme
+                sur l'oges, xv d.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Barbey, 1912. p. 45 – Aebischer, 1972. p. 158.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

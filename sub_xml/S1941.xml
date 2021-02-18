@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jeu</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S1941">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Jeu</title>
+                  </item>
+                  <item>
+                     <date from="1400" to="1401"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Cambrai</settlement>
+                        <region>Nord/Pays-bas méridionaux</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>50.173538, 3.236633</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1886. p. 325. – Durieux, 1883. p. 1.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Les comptes de la ville font mention, à cette année-là, de diverses représentations.
+          Des mentions analogues sont répétées dans les comptes de la ville de Cambrai, aux années
+          1417, 1419, 1437, 1438, 1448.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7359"
+                    source="S1941"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Présenté le IIe jour dudit mois (mai) au commandement de Messrs a plusieurs
+                compaignons juans as escus, c'est assavoir d'Amiens, de Saint-Quentin, d'Arras, et
+                de cité, XVI pos de vin de XXXII los, le moitié de vin vermel a II sous le lot,
+                l'autre de vin franchois a xx. d. le lot, avec le portage LXII s. VIII d.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Petit de Julleville, Louis, Répertoire du théâtre comique en
+                  France au Moyen Âge (Paris : Léopold Cerf), 1886, p. 325 – A. Durieux, Le Théâtre
+                  à Cambrai, avant et depuis 1789, Cambrai, Renaut, 1883, in-8°.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Salaire</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7360"
+                    source="S1941"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Présenté le IIIe jour dudit mois, as compaignons de Gambray juans asdits escus, et
+                autres plusieurs estans en leur compaignie, liquel soupperent avec eux, xii pos de
+                xxiiii les. moitié en vin vermeil a II. s., l'autre en vin franchois a XX. d.
+                etc.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Petit de Julleville, Louis, Répertoire du théâtre comique en
+                  France au Moyen Âge (Paris : Léopold Cerf), 1886, p. 325 – A. Durieux, Le Théâtre
+                  à Cambrai, avant et depuis 1789, Cambrai, Renaut, 1883, in-8°.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Salaire</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7361"
+                    source="S1941"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Ce jour présenté au Prince des Folz du Palais, au soupper, sur le marchiet ou il
+                souppait desoubs une tente, VIII pos de vin de XVI los.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Petit de Julleville, Louis, Répertoire du théâtre comique en
+                  France au Moyen Âge (Paris : Léopold Cerf), 1886, p. 325 – A. Durieux, Le Théâtre
+                  à Cambrai, avant et depuis 1789, Cambrai, Renaut, 1883, in-8°.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Salaire</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

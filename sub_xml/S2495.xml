@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2495">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1507"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Châlons-sur-Marne</settlement>
+                        <region>Champagne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Châlons-sur-Marne</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>48.956682, 4.363073</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Evêché (hôtel de -)</item>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8076"
+                    source="S2495"
+                   
+                   
+                   >
+                  <head>Lundi 3 mai 1507, Délibération du conseil de ville</head>
+                  <div type="transcription">
+                     <p>Sur ce que par ledit Bourgeois procureur a esté mis en délibération assavoir si on
+                procederoit au parachef du mistere de la Passion et la ou on se assemblera pour fere
+                les monstres et monter sur les eschaffaulx, quel jour l'on commencera a jouer, a
+                quelle heure, et aussy a quelle heure on cessera. Item a esté fete requeste par
+                cellui qui joue le personnage de Lucifer qui est povre, que aucuns de messieurs qui
+                ne jouent le veuillent aider a acoustrer… Au premier point a esté conclud que l'on
+                procédera a parachever ledit mistere de la Passion, et s'en fera l'assamblée tant
+                pour fere les monstres que pour monster sur les eschaffaulx en l'ostel episcopal de
+                l'evesché dudit Chaalons ; et comencera on des le jour de Penthecoste a jouer de dix
+                heures du matin, s'il plaist a monseigneur, et cessera on entre quatre et cinq
+                heures du soir, et rescripra on a mondit seigneur qu'il lui plaise de mettre et
+                commuer au jeudi et vendredi de Penthecoste deux des festes des mois de moissons,
+                telle qu'il vouldra aviser et aussy de promectre chanter chacun jour de ladite
+                Passion messe sur les eschaffaulx avant que commencer a jouer. Au second point,
+                messieurs les abbez, bailly de Chaalons et plusieurs gens de bien dudit Chaalons qui
+                ne jouent point se sont offert et ont promis d'acoustrer a leurs despens cellui qui
+                joue le personnage de Lucifer pour ce qu'il est pouvre et bon joueur.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Les mystères, t. II, p. 91.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Description : Organisation</item>
+                        <item>Organisation : Décision du lieu</item>
+                        <item>Organisation : Monstre</item>
+                        <item>Organisation : Construction de la scène</item>
+                        <item>Organisation : Décision de la date</item>
+                        <item>Organisation : Rôle de Satan // Finance : Costume</item>
+                        <item>Finance : Subvention municipale</item>
+                        <item>Aménagement : Déplacement de la messe</item>
+                        <item>Organisation : Fabrication des costumes // Juridiction : Coopération</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Abbé</item>
+                        <item>Bailli</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

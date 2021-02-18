@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Lazare</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2560">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Lazare</title>
+                  </item>
+                  <item>
+                     <date when="1516"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Autun</settlement>
+                        <region>Bourgogne</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.950914, 4.301565</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. I, p. 405 et t. II, p. 105.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Nous avons transcrit ailleurs un long passage du jurisconsulte Chassaneus ou
+          Chassanée, où il raconte avec emphase une représentation mémorable du mystère de Saint
+          Lazare donnée à Autun en 1516, et vante la magnificence du théâtre construit à cette
+          occasion. Ce théâtre, s'il faut l'en croire, aurait contenu quatre-vingt mille
+          spectateurs. Il faut rapprocher du passage déjà cité celui-ci qui le complète : Plus loin
+          l'auteur transcrit une hymne en l'honneur de saint Lazare composée en vers latins
+          saphiques et adoniques par Pierre Turel, d'Autun. A ce propos il dit que la représentation
+          du mystère de 1516 eut lieu en août. La fête du saint se célébrait en effet à Autun le 31
+          août et le 1er septembre. [Catalogus, duodecima pars, p. 565]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8165"
+                    source="S2560"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Entre autres spectacles qui furent représentés dans toute la France, et même en
+                Europe depuis nombre d'années, il n'y en eut pas de plus excellent que celui qui fut
+                donné dans cette cité des Eduens l'an 1516, en l'honneur de la divine majesté et de
+                saint Lazare, patron de notre cité et du diocèse. Duquel la vie fut par spectacle et
+                jeux de théâtre ainsi montrée que rien de plus excellent ne peut être vu, ni dit. Il
+                fut construit en effet un théâtre de bois et rond, avec un art et une somptuosité
+                merveilleuse, lequel contenait deux cent quarante chambres entièrement distinctes;
+                de sorte que ceux qui étaient dans l'une ne pouvaient accéder à l'autre; et que ceux
+                qui étaient dans les chambres supérieures ne pouvaient incommoder ceux (nocere his)
+                qui étaient dans celles du bas.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Catalogus, undecima pars, p. 448, col. 2.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8166"
+                    source="S2560"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Nous Éduens, l'an du Seigneur 1516, nous avons construit un excellent et magnifique
+                amphithéâtre dans le champ de Saint-Lazare, qui est au milieu de notre cité. Il
+                était en bois équarri, fabriqué avec un art extraordinaire, aux frais de l'église et
+                des citoyens. Il n'y eut rien de comparable en France. Le théâtre contenait 240
+                cellules dans sa partie supérieure, toutes séparées au moyen de parois
+                intermédiaires en bois, et revêtues de lambris. Là prenaient place les gens
+                d'église, nobles, sénateurs, chevaliers, gentilshommes, patriciens de la Cité. Dans
+                la « cavea », ou partie inférieure, les degrés et les bancs étaient ainsi disposés
+                que le cercle allait toujours en s'élargissant à mesure qn'on s'élevait ; le peuple
+                s'y plaça en foule à l'abri de toiles de lin qui protégeaient contre la pluie les
+                spectateurs assis ou debout, et les acteurs  ; lesquels jouaient au milieu de la
+                cavea, ou scène théâtrale, et étaient séparés du peuple par un fossé plein d'eau et
+                par d'autres obstacles. Dans cet amphithéâtre, 80 000 hommes pouvaient se rassembler
+                sans peine, et comme le spectacle avait été annoncé dans les régions voisines, les
+                spectateurs affluèrent en nombre presque infini. La représentation fut parfaite ;
+                elle était donnée en l'honneur de saint Lazare, patron des Éduens ; duquel la vie,
+                écrite en vers excellents, non par vaine gloire, mais pour l'honneur de la majesté
+                divine et de saint Lazare, fut très vivement et gratuitement représentée
+                (vehementissime et gratis). Aussi Dieu permit qu'il ne se produisît à cette occasion
+                ni sifflets, ni tumulte populaire, ni raillerie ou dérision. Il pleuvait la nuit ;
+                mais le jour il faisait le plus beau temps et le plus pur qu'on ait jamais vu.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Petit de Julleville, 1880, t. 1. p. 405.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

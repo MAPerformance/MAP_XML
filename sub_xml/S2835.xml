@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de l’Ancien Testament et du Nouveau Testament</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2835">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de l’Ancien Testament et du Nouveau Testament</title>
+                  </item>
+                  <item>
+                     <date when="1547"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Meaux</settlement>
+                        <region>Seine-et-Marne/Île-de-France</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Meaux</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.959396, 2.879255</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Habitant</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Théâtre</item>
+               </list>
+               <note>- En 1547 on construisit à Meaux, pour la représentation des mystères, un théâtre
+          permanent, fort peu luxueux, à vrai dire, car il était fait de bois et simplement
+          recouvert de toile. Ce théâtre était situé sur l'emplacement où se trouve aujourd'hui le
+          collège. Les acteurs étaient des amateurs choisis parmi les gens de la ville. On jouait
+          surtout les mystères de l'Ancien et du Nouveau Testament. L'historien inédit affirme que
+          c'était chose belle et bonne à voir, et qui attira grand nombre de spectateurs étrangers à
+          Meaux. La première représentation eut lieu le 1er mai 1547. Ce n'était pas la première
+          fois qu'on jouait des mystères à Meaux. Dès l'année 1527, l'évêque Briçonnet avait
+          interdit toute représentation dans son diocèse, à moins que les pièces ne fussent
+          examinées par lui ou ses vicaires. L'institution de cette censure prouve l'existence du
+          théâtre en Brie avant 1547. (cf Ordonnance de l’évêque Briçonnet).</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8409"
+                    source="S2835"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Il était creux par dessous, dit l'auteur de mémoires inédits sur la ville de Meaux,
+                par le moyen de quoi se faisaient de belles machines y ayant gens expérimentés pour
+                cet effet. Les représentations durèrent deux années, excepté les hivers. Le premier
+                été, ledit théâtre était couvert de toile, quoiqu'il fût grand, mais cela ne dura
+                guère en ce qu'elle fut rompue du vent, nonobstant qu'il y eût grande quantité de
+                cordes par dessus et par dessous. Le circuit dudit théâtre était haut et fait par
+                degrés de planches et au haut il y avait des loges tout autour fermant à clef,
+                lesquelles étaient louées à des habitants de Meaux.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Mémoires manuscrits sur la ville de Meaux, par Rochard,
+                  conservés à la bibliothèque communale de cette ville.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Description : Scène</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8410"
+                    source="S2835"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Après deux années de représentations et malgré leur succès, le théâtre fut démoli
+                et le terrain vendu ; l'on ne voit pas que les jeux de la scène aient été repris de
+                longtemps à Meaux. Peut-être la fin misérable de plusieurs des gens qui y avaient
+                pris part en fut-elle la cause : fin qui, dans le récit du chroniqueur, semble un
+                peu tourner à la légende. Suivant ce récit, en effet, ceux qui avaient fait les
+                personnages de diables moururent fort pauvres. Celui qui avait joué le rôle de
+                Satan, un nommé Pascalus, auquel le sobriquet de Diable était resté, fut pendu, et
+                celui qui avait représenté le Désespoir s'empoisonna lui-même. Sans trop vouloir
+                dépoétiser la légende, on pourrait remarquer que ceux qui avaient fait les démons
+                étaient de pauvres diables auxquels la passion scénique avait fait prendre en
+                désaffection leur métier ordinaire, ainsi que l'auteur l'insinue lui-même ; et quant
+                à Pascalus, on le voit plus tard jouant au sérieux, dans les troubles religieux et
+                civils, un rôle dangereux, qui pouvait bien, comme cela arriva en effet, le conduire
+                au gibet, abstraction faite de ses antécédents diaboliques.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Le théâtre de bois ne dura pas longtemps.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

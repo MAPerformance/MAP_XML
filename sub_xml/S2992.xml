@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Sébastien</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2992">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Sébastien</title>
+                  </item>
+                  <item>
+                     <date when="1567"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Lanslevillard</settlement>
+                        <region>Savoie</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>45.289457, 6.909927</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 1. p. 384. – Petit de Julleville, 1880, t. 2.
+              p. 164</bibl>
+                  <bibl type="additional"> F. Rabut, le Mystère de saint Sébastien, Préface – le Théâtre
+              en Maurienne au XVIe siècle, par Florimond Truchet, Saint-Jean-de-Maurienne, 1879,
+              broch. in-8°.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Représentation (manuscrit de la -)</item>
+                  <item>Condition : Censure</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Habitant</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Salle (rectangulaire)</item>
+                  <item>Chapelle</item>
+               </list>
+               <note>Le mystère de Saint Sébastien fut joué au mois de mai 1567, à Lanslevillard (Savoie),
+          par les habitants de ce bourg, dans une grande salle rectangulaire que Sébastien Turbil,
+          ancêtre du possesseur actuel d'un des manuscrits de ce mystère, avait fait orner de
+          peintures représentant la vie de saint Sébastien. Nous n'avons aucun détail sur cette
+          représentation ; mais nous savons que le texte qui y fut suivi avait été soumis à un
+          examen spécial et à une censure attentive de l'autorité ecclésiastique, laquelle paraît
+          avoir été plus sévère en Savoie qu'en France. Il est vrai qu'en France, à cette époque, on
+          ne jouait déjà presque plus de mystères.</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

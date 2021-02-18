@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Sainte Barbe</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2409">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Sainte Barbe</title>
+                  </item>
+                  <item>
+                     <date when="1493"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Laval</settlement>
+                        <region>Mayenne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Le Mans</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>48.077863, -0.770138</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Piolin, 1858. p. 47. – Piolin, 1861, t. 5. p. 238. – Petit de Julleville, 1880, t.
+              2. p. 63.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Champ</item>
+               </list>
+               <note>- Les gens de Laval avaient entrepris de représenter le mystère de Sainte Barbe ; mais
+          ils avaient d'abord échoué dans leur dessein. Une seconde tentative fut plus heureuse.
+          [Petit de Julleville] - cf. représentation de la Moralité du bon et du mauvais Pèlerin
+          (Laval, 1493).</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7996"
+                    source="S2409"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Et ce voyant, ceux de la vile, Que tout le monde les avile. Et que mutiner se
+                voulurent, Après brief temps, tous s'apparurent, Au moins le plus, devant Monsieur
+                Qui leur comanda par honneur Reprendre ce beau mistere Et leur bailla pour
+                commissaire Trois ou quatre bourgeoys moult saiges Pour départir les parsonnaiges A
+                gens qu'on sauroit bien jouer Afin d'en estre mieulx louez. Ce qui fust faict en
+                grand honneur, Sans y acquerir deshonneur ; Nul n'estoit abilliez de toille.
+                iMonsieur eu fist caner la vayle. Cent joueurs abilliez de soye Et de veloux a
+                plaine voye, Au moins les compaignons d'enfer. Si estoit le grant Lucifer. Puis y
+                avoit une volée Qui fust soudainement trouvée Laquelle decora le jeu. Pluseurs
+                personnages du lieu Y volaint d'un bout juc en l'aultre. Puys y avoit une beste
+                aultre, Qui estoit de faczon orrible, De grandeur et grosseur terrible ; Et par Jean
+                Hennier compousée, Lequel dessus, en chevauchée, Venoit chascun jour faire homaige A
+                Lucifer et son mesnaige. Elle gectoit le feu par sept lieux, Par ses nazeaux et par
+                ses yeulx. Qu'elle avoit fort espouvantables ; Ses gestes estoient merveillables ;
+                Et fust jouée, pour dire amen, Par maistre Pierre le Maignen, Jeune advocat mais
+                bien lectré, Qui de tous fut bien atiltré Et puys se rendit cordelier Car sa femme
+                sans peu tarder, Se mourut tout en ensuyvant. Et puys, Dyoscorus le grant Fust joué
+                par René Hubert, Sergent du Roy, moult bien expert ; Et le grant diable infernal
+                Fut, par André le Seneschal. Monsieur, et sa noble contesse Furent presens sans
+                faire presse ; Au long de six jours ; leurs trompectes, Clerons, sonnans en choses
+                faictes, A toutes les belles entrées, Et pauses, qui furent bien notées. Tellement
+                qu'a mont et a val Il n'estoit honneur qu'en Laval. Monsieur par son commandement De
+                Paris sieurs de parlement Fist venir, a ses propres mises, Pour de Rarbe veoir les
+                devises. Tel pavillon avoit ou pré Ou cent hommes eussent entré.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Le Doyen, 1839. p. 74</bibl>
+                        <bibl type="additional"> Annales et chroniques de Guillaume le Doyen, p. 74 ; Laval,
+                  1859, in-8°.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

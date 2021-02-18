@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2369">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère</title>
+                  </item>
+                  <item>
+                     <date when="1489"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Paris</settlement>
+                        <region>Paris/Île-de-France</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Paris</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.856614, 2.352222</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Pommeray, 1933. p. 421.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Procès</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Chapelain</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Un ancien chapelain de Montreuil-sous-bois est condamné pour avoir fait l'annonce d'un
+          mystère autorisé avec un costume d'emprunt dans quelques villages environnants.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7962"
+                    source="S2369"
+                   
+                   
+                   >
+                  <head>Samedi 29 mai 1489, Jugement de l’officialité.</head>
+                  <div type="transcription">
+                     <p>Dominus Michael du noyer nuper capellanus de monsterol(i)o suptus nemora (X X)
+                emendavit cum esset capellanus Monsterolii postquam fuit permissum quod inibi
+                luderetur quoddam misterium fecisse preconisationem ludi misterii in duobus aut
+                tribus villagiis in habitu dissimulato.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Pommeray, 1933. p. 421</bibl>
+                        <bibl type="additional"> Archives nationales, Z1o -19, f° 106 v., § 1.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Jugement ecclésiastique</item>
+                        <item>Autorisation accordée</item>
+                        <item>Clerc (vêtements) // Cause : Statut de clerc</item>
+                        <item>Clerc (statut de -)</item>
+                        <item>Déguisement : Vêtements // </item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

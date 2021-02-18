@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2405">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1492"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Vitré</settlement>
+                        <region>Îlle-et-Vilaine/Bretagne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rennes ?</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>48.124746, -1.215430</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9689"
+                    source="S2405"
+                   
+                   
+                   >
+                  <head>Mandement du comte de Laval, baron de Vitré, du 19 avril 1492</head>
+                  <div type="transcription">
+                     <p>De par le conte de Laval, Jehan de Challet, miseur des deniers establiz et ordonnez
+                a la reparacion de nostre ville de Vitré, nous vous mandons paier et bailler,
+                desdicts deniers, aux compaignons et partie des habitans de nostre dicte ville qui
+                jouent le saint Vendredy prochain le misTere de la Passion Nostre Seigneur Jhesu
+                Christ, la somme de dix livres pour aider a leurs fraiz et mises. Et ces presentes,
+                avec la quictance du procureur des bourgois de nostre dicte ville, qui en est l’un,
+                vous en vauldra descharge comme mestier en aurez. Donné en nostre chastel dudict
+                Vitré le XIXe jour d’apvril l’an mil IIIIcc IIIIxx et unze. GUY J. GANCHE</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Archives de N-D. de Vitré [Borderie]</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Salaire</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Au dos: la quittance, donnée à Jehan de Challet par R. Colin, procureur des
+                bourgeois, le 17 juillet 1492.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Sainte Suzanne</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2227">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Sainte Suzanne</title>
+                  </item>
+                  <item>
+                     <date when="1470"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Chambéry</settlement>
+                        <region>Savoie</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>45.564601, 5.917781</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 32.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Dimanche</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Noble</item>
+                  <item>Bourgeois</item>
+                  <item>Habitant</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Joué du samedi au mardi. - Sous ce nom de moralité on joua très probablement le
+          mystère de Sainte Suzanne qui fait partie du Vieux Testament, mais qui a été aussi publié
+          isolément et joué à part plusieurs fois, entre autres à Montélimar en 1512, sous ce même
+          nom de moralité.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7692"
+                    source="S2227"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>…En quel mistere joyer et aprester ils ont vacqué depuys le samedi dernier jour du
+                mois passé de juing mil cccclxx au soupper en jusques le mardi IIIe jour moys
+                ensuyvant de juillyect le beyre enclus : que sont une souppée, deux jours entiers,
+                et le beyre dudit mardi ; que ils ont despendu par les hostelleries et par la ville
+                et pour les aultres chouses necessayres a eulx pour jouer leurs dicts jeulx que
+                aussi pour faire les chafaulx et eulx aprester pour joyer la dite vie…</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Perrin, notice citée. (Voy. 1416, Chambéry, p. 9, et
+                  Menabrea, Chroniques d'Yolande de France, documents publiés pur l'Académie de
+                  Savoie, t. I, p. 77.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

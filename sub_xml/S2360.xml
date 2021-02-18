@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2360">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère</title>
+                  </item>
+                  <item>
+                     <date from="1488" to="1493"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Lyon</settlement>
+                        <region>Lyonnais</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Lyon</placeName>
+                        <placeName type="eccl_province">Lyon</placeName>
+                        <geo>45.764043, 4.835659</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Entrée</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7947"
+                    source="S2360"
+                   
+                   
+                   >
+                  <head>Comptabilité communale (1488 - 1493), Pièces justificatives de dépenses par
+              Guillaume Dublet, receveur de la ville de Lyon</head>
+                  <div type="transcription">
+                     <p>- Mémoires, mandats et quittances. _ Affaires diverses. _ Payements faits " es
+                maistres massons et charpentiers jurez de la ville, et nauchiers et gens de rivière
+                assemblez pour adviser le remede que l'on pourroit donner pour faire retourner le
+                Rosne en son ancien cours auprès de la ville ; _ à Glaude Poncet et à Girard,
+                apoticaires, pour neuf douzeines de torches de cire à baston, pour faire honneur de
+                par la ville tant es exèques de feu mons. le duc de Bourbon comme à l'enterrement de
+                feu mons. le cardinal de Bourbon, arcevesque et conte de Lion ; _ à Pierre
+                d'Aubenas, peintre, pour avoir fait six douzeines d'escussons aux armes de la ville
+                pour mettre auxdites torches ; _ à Jehan de Paris pour avoir fait deux escussons aux
+                armes de la ville et adoubé ung aultre escusson, fait ung grand soleil et une lune,
+                et pour les clouz et avoir tendu la tapisserie à l'entrée de monsr le duc de Savoye
+                ; _ au beau père des Carmes, pour avoir faict les deux sermons pour et en faveur du
+                pont du Rosne, et afin de aider à covrir ung reliquiaire des dix mille martirs ; _ à
+                Jean du Mont, peintre, tant pour XLVIII escussons, comme pour avoir adoubé les
+                verrières de l'ostel de ville ; _ à Rostain Nicolas, mercier, pour six aulnes et
+                demy quart de taffetas de Bouloigne, tant pers, rouge que vert, prins pour habiller
+                troys filhes de la ville en vertuz, pour ung mistère qui fut entr'autres joué à
+                l'entrée de monsr de Savoye, au-devant de la porte de la Lanterne ; _ à Jehan
+                Prevost, paintre, pour sertaines paintures par ley formés en la porte de la
+                Lanterne, tant d'or que d'argent ; _ à Roland Gendre, mareschal, pour aller en
+                Alaval, afin de faire fourger certaines barres de fer pour lier aucuns arcs du pont
+                du Rosne. " _ Dépenses pour l'ameublement de l'hôtel de la ville ; _ pour le pas
+                d'armes tenu de l'autorisation du Roi, par messire Claude de Vauldray, chevalier,
+                seigneur de l'Aigle, au-dessus du pont de bois sur le Rhône, au mois de mai 1492 ;
+                etc.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Rolle, 1887, t. 3. p. 57</bibl>
+                        <bibl type="additional"> AM Lyon, CC 519.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Accident</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

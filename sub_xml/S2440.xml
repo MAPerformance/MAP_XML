@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2440">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1500"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Amiens</settlement>
+                        <region>Somme/Picardie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Beauvais</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.894067, 2.295753</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Grenier, 1856. p. 403. – Petit de Julleville, 1880, t. 2. p. 77.</bibl>
+                  <bibl type="additional">Dusevel, Histoire d'Amiens, p. 294</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Récurrence : Coutume</item>
+                  <item>Pluralisme juridique</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8025"
+                    source="S2440"
+                   
+                   
+                   >
+                  <head>28 janvier 1499 (1500 nv. st), registres de l'échevinage</head>
+                  <div type="transcription">
+                     <p>Sur ce que sire Pasquier de Bethembos, Nicolle Capperon, Philippe Marchant,
+                prebstres ; Jehan Menchon, maistre des enffans, et sire Pierre Long, aussi prebstre,
+                Jehan Ostien et Jehan Legrant, demeurans a Amiens, avoient faict ce jourd'hui
+                présenter a messieurs certaine requeste en leur eschevinage contenant que de
+                longtemps ne avoit point esté joué enceste ville d'Amiens le mystère de la Passion
+                de Nostre-Seigneur Jhesu Crist, combien que en icelle ville y eust plusieurs
+                honnestes compaignons, et gens de bien qui ad ce faire s'exerceroient voulontiers ;
+                considéré que Dieu merchy le roïaulme de France estoit en bonne paix, et aussi que
+                pain et vin estoient a bon marché, et y avoit habundance de tous biens, qui est a
+                loer Dieu ; et a ces causes requeroient les dessus només qu'il nous pleust leur
+                permettre et accorder qu'ils peussent jouer ou faire jouer ledit Mystère de la
+                Passion tel que ils l'avoient veu autreffois, qui contenoit trois journées, et tel
+                qu'il avoit esté joué a Doullens et leur consentir qu'ils peusseut fouir, henzer et
+                picquer au champ ou l'on a acoustumé faire et jouer ledict mystère, faire courir les
+                personnages des diables, tailler les devantures en la terre qui est a l'environ
+                dudict champ, ainsi que l'on avoit accoustumé faire ; et a l'aide de Dieu ils
+                offroient en bien faisant leur debvoir, en ediffier le peuple et les habitants de la
+                ville et d'aultres lieux qui vouldroient veoir ledit mystère. Veue laquelle requeste
+                et sur ce eu conseil et advis, mes dits sieurs en consideracion que l'on ne joua
+                ledit jeu dès longtemps a, en ladicte ville et aultres considérations telles que
+                dessus et aussi que l'on avoit conclu dès l'année passée, de jouer ledit mystère ;
+                ont les plusieurs esté de cet advis, mais toutes voies ont déclaré, avant que du
+                tout conclure, que l'on parlera et communiquera touchant cette matière aux gens et
+                officiers du Roy, a révérend père en Dieu Mgr l'evesque d'Amiens, et aux doyen et
+                chapitre pour sur ce avoir leur advis et ayde se meslier est, ainsy que autrefois a
+                esté faict, et que mesdits sieurs le feront jouer par tels qu'il sera advisé, et ne
+                donneront point ceste auctorité aux dits suppliants.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Revue des sociétés savantes, 3e série, t. IV, p. 388 et 389.
+                  Nov.-déc. 1864.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Autorisation (demande d'-) // Description : Organisation</item>
+                        <item>Motif : Enseignement</item>
+                        <item>Juridiction : Royale // Juridiction : Ecclésiastique</item>
+                        <item>Juridiction : Coopération</item>
+                        <item>Condition : Politique</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8026"
+                    source="S2440"
+                   
+                   
+                   >
+                  <head>3 février 1499, Registres de l'échevinage</head>
+                  <div type="transcription">
+                     <p>Nicolas Fauvel et Richard de Saint-Fuscien font leur rapport de l'entretien qu'ils
+                ont eu avec messieurs les officiers du Roy, touchant le mystère de la Passion de
+                Notre-Seigneur Jesus-Christ, que l'on avoit advisé jouer, en ceste présente année ;
+                lesquels leur avoient fait bonne reponce, mais que quant a monsieur l'evesque et au
+                chapitre, il pouvoit sembler, veu leurs excuses et remonstrances, que ils ne y
+                avoient pas grant affection, ni que ils y volsissent contribuer. Sur ce eu conseil
+                et advis, messieurs ont délibéré que si les gens du Roy sont d'advis de le jouer,
+                sans en plus parler ausdits evesque et chapitre, ils feront jouer ledit mystère de
+                la Passion de nostre Seigneur Jesus-Christ es festes de Penthecouste prochain
+                venant, et que les rymes se bailleront avec les dédicaces et termes a l'environ du
+                lieu acoustumé, ainsi qu'en tel cas est acoustumé faire.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Revue des sociétés savantes, 3e série, t. IV, p. 388 et 389.
+                  Nov.-déc. 1864.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Juridiction : Royale</item>
+                        <item>Finance : Subvention ecclésiastique (retrait de la -)</item>
+                        <item>Description : Organisation</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8027"
+                    source="S2440"
+                   
+                   
+                   >
+                  <head>25 mai 1500, Registres de l'échevinage</head>
+                  <div type="transcription">
+                     <p>Messieurs ont conclud audit eschevinage de bailler les terrasses autour et a
+                l'environ du parcq ou l'on juera ceste année le mystère de la passion de nostre
+                seigneur Jesus-Christ, aux habitants de la ville, signaument a ceux qui ont rymes et
+                jouent audit mystère, en payant 11 s. pour part de terre.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Revue des sociétés savantes, 3e série, t. IV, p. 388 et 389.
+                  Nov.-déc. 1864.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Organisation : Décision du lieu</item>
+                        <item>Finance : Prix de la place</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8028"
+                    source="S2440"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Messieurs ont ordonné sur ce en conseil et advis ensemble, qu’ils délaisseront
+                encors le lieu fait pour le paradis et celui fait pour infer ou mystère de ma
+                Passion naguerres joué aux festes de la Pentecostes dernière passées audit Amiens,
+                avec le hourt du déluge, en l’estat qu’il sont à présent, jusques à ce que, environ
+                le Noël prochain venant, l’on porra avoir advis que l’on jouera en l’an prochain
+                venant le jeu de la vengeance Nostre-Seigneur Jésus-Christ, que plusieurs désirent
+                estre joué en icelle année. (In anno jubilei 1500 celebrati sunt ludi Passionis
+                Christi in Ambiano, cum maximo triumpho et apparatu in festis Pentecostes)</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Chron. Corb. Ms. D Caulincurtis, f90v., col. 2. - Grenier,
+                  Pierre-Nicolas, Introduction à l'histoire générale de la province de Picardie
+                  (Amiens : Duval et Herment imprimeurs), coll. « Mémoires de la Société des
+                  antiquaires de Picardie. Documents inédits concernant la province » (N° 3), 1856,
+                  p. 403</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (matériel pour la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8029"
+                    source="S2440"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>L’inventaire fait mention de « trois livres en papier escripts a la main, couverts
+                de cuir noir, ou estoient contenues les histoires de la Passion Notre Seigneur
+                jouées on la dite ville, en l'an cinq cens, les deux, trois et quatrième
+                journée ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Grenier, Pierre-Nicolas, Introduction à l'histoire générale
+                  de la province de Picardie (Amiens : Duval et Herment imprimeurs),
+                  coll. « Mémoires de la Société des antiquaires de Picardie. Documents inédits
+                  concernant la province » (N° 3), 1856, p. 403.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (manuscrit de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8030"
+                    source="S2440"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>On a mis en la trésorerie de la ville d’Amiens deux figures du Paradis et Enfer, et
+                du Parq du lieu et autre choses servant audict mystère, et aussy de la vengeance,
+                qui sont en icelle huche, le 26e jour d’octobre l’an 1502.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Inventaire côté S2 – Grenier, Pierre-Nicolas, Introduction à
+                  l'histoire générale de la province de Picardie (Amiens : Duval et Herment
+                  imprimeurs), coll. « Mémoires de la Société des antiquaires de Picardie. Documents
+                  inédits concernant la province » (N° 3), 1856, p. 403.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Stockage pour prochaine représentation</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

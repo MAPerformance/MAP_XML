@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2015">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1430"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Rennes</settlement>
+                        <region>Îlle-et-Vilaine/Bretagne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rennes</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>48.113475, -1.675708</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 11.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Ascencion</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Noble</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Date : Ascension=le 25 mai.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9692"
+                    source="S2015"
+                   
+                   
+                   >
+                  <head>Extrait du compte de Guillaume Durdous, miseur de la ville de Rennes de 1428 à
+              1430</head>
+                  <div type="transcription">
+                     <p>Du jeudy XXVe jour de may (1430) qui fut la feste de l’Anscension [sic]. A Raoullet
+                Sequart, miseur des preparemens du mistere de la Passion, tant pour le chauffaut de
+                Monr le duc que pour plusseurs autres choses necessaires pour ledit mistere, par le
+                commandement et ordennance du seneschal de Rennes, fut ordonné lui estre baillé, sur
+                les deniers appartenans a la repparacion de ladicte ville, la somme de deiz libvres.
+                Item audict mistere fut employé et mis, du commandement des connestables, quatorze
+                libvres de pouldre de canon.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Archives municip. de Rennes.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Salaire</item>
+                        <item>Type : Comptabilité</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

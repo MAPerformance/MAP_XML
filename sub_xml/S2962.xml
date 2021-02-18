@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vie du Duc Jean de Bourgogne</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2962">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Vie du Duc Jean de Bourgogne</title>
+                  </item>
+                  <item>
+                     <date when="1563"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Béthune</settlement>
+                        <region>Nord/Pays-bas méridionaux</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province">Cambrai</placeName>
+                        <geo>50.531036, 2.639260</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Sujet : Histoire locale</item>
+                  <item>Organisation : Représentations multiples</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Fêtes</item>
+                  <item>Dimanche</item>
+                  <item>Sermon (après)</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Enfant de bourgeois</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8624"
+                    source="S2962"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le Magistrat agrée la requête d’« aulcuns enffans de bourgeois, affin de avoir
+                congié et licence de pooir jouer histoires, cronicques, moralles avec farse joieuse,
+                par chascun dimenche et feste, aprez le sainct service divin faict et accomply :
+                assçavoir la vie et histoire du bon duc Jehan de Bourgongne », à la condition
+                « qu’ilz ne prendront pour chascune personne quy yront veoir lesdits jus, que deux
+                deniers, et qu’ilz ne juront sinon aprez ledit sainct service faict et
+                accompli ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>La Fons-Mélicocq, 1858. p. 37 – Lavéant, 2007. p. 424.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Contrôle : Magistrat municipal</item>
+                        <item>Autorisation sous condition</item>
+                        <item>Finance : Prix de la place</item>
+                        <item>Condition : Finance</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item>Service (après)</item>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

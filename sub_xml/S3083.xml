@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tragédie des Juives</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3083">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Tragédie des Juives</title>
+                  </item>
+                  <item>
+                     <date when="1594"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Arras</settlement>
+                        <region>Nord/Pays-bas méridionaux</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Arras</placeName>
+                        <placeName type="eccl_province">Cambrai</placeName>
+                        <geo>50.291002, 2.777535</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Juridiction : Municipale</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>voir aussi Cambrai 1593 et Mons 1599.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8784"
+                    source="S3083"
+                   
+                   
+                   >
+                  <head>11 Février 1594</head>
+                  <div type="transcription">
+                     <p>A nobles et vertueux seigneurs messeigneurs les eschevins de la ville d’Arras.
+                Remontre humblement Adrien Talmy, joueur d’histoires, disant que, mercredy dernier,
+                auroit presenté ses humbles supplicacions a voz seigneuries, pour estre auctorisez
+                de povoir jouer en vostre ville d’Arras ; a quoy lui auroit esté respondu qu’il
+                falloit paroistre et declarer quelles histoires ; en quoy ledit suppliant n’a voulu
+                faillir. Premierement les Juifve, aultrement dict Captivité de Sedicie soubs
+                Nabucodonosor ainsy qu’elles sont redigez par Robert Garnier en ses tragedies ;
+                ensemble la Troade, Les Amours de Phedre a Hipolite, comme est contenu dans ledict
+                Garnier ; ensemble le Ravissement de Philomene faict par Teri [Térée], la tragedie
+                de Medee tiree des histoires d’Ovide, la tragedie de Philame [Philanire], la Taverne
+                de Volupté endormie et Peché retiré par Disciplaine et de La Calamité du pauvre
+                peuple ; une pastourelle des Amours d’Atlette et de Menalque, tiré des oeuvres de
+                Juliette ; une autre pastourelle nommee le Grand Bon Temps. Le tout a l’honneur de
+                Dieu, de la saincte eglise catholicque, apostolicque et romaine et a l’edification
+                du peuple, comme est declaré par les certificaz icy attachez.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Lebègue, 1948. p. 15 – *Lavéant, 2007. p. 419.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Autorisation (demande d'-)</item>
+                        <item>Censure // Motif : Honneur de Dieu</item>
+                        <item>Organisation : Certificat des comédiens</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8785"
+                    source="S3083"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Messieurs ont admis le suppliant a jouer le temps de huict jours a commencher lundy
+                prochain, payant 6 deniers pour chascune personne. Faict le XIe jour de fevrier
+                1594. [signé] F. Corillon.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Lebègue, 1948. p. 15 – *Lavéant, 2007. p. 419.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Autorisation sous condition</item>
+                        <item>Condition : Finance</item>
+                        <item>Finance : Prix de la place</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

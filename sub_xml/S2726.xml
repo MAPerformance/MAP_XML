@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jeu de Madeleine</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2726">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Jeu de Madeleine</title>
+                  </item>
+                  <item>
+                     <date when="1534"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Yverdon</settlement>
+                        <region>Vaud</region>
+                        <country>Suisse</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.778471, 6.642493</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Aebischer, 1972. p. 161. – Petit de Julleville, 1880, t. 2. p. 183. – Petit de
+              Julleville, 1880, t. 2. p. 644. – Petit de Julleville, 1880, t. 2. p. 533.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>etit de Julleville mentionne des représentations de mystères de Marie-Magdelaine en
+          1460 à Cambrai, en 1500 à Lyon, en 1530 à Montélimar, en 1534 à Auriol et en 1600 à
+          Grasse. Il résume un mystère de ce nom, dont il existe une édition de 1605, rééditée dans
+          la Bibliothèque du théâtre français, (t. I, p. 19 sq.) mais ce mystère serait sensiblement
+          antérieur à cette date de 1605. - Biblio : Petit, 1880, t. 2 p. 533 ou 553 ?</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8311"
+                    source="S2726"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>On construit de nouveau des tribunes, «pro nobilibus et aliis qui volebant videre
+                lusores ludi Magdalene »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Aebischer, 1972. p. 160</bibl>
+                        <bibl type="additional">Archives d’Yverdon, Comptes de la ville 1533-1534, non
+                  foliotés.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

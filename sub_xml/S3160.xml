@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nativité</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3160">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Nativité</title>
+                  </item>
+                  <item>
+                     <date from="1670" to="1671"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Gruyères</settlement>
+                        <region>Fribourg</region>
+                        <country>Suisse</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.581500, 7.076270</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Dellion, 1893, t. 7. p. 60.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Récurrence : Annuelle</item>
+                  <item>Finance : Salaire en nature</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Nativité</item>
+                  <item>Offices de la nuit</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Eglise</item>
+               </list>
+               <note>Le mystère de la naissance de Notre-Seigneur fut pendant longtemps représenté d'une
+          manière très populaire, mais grotesque. La nuit de Noël, à minuit, des jeunes gens
+          habillés en bergers et bergères entraient dans l'église pour représenter l'arrivée des
+          bergers à Bethléem. [Dellion] - On leur offrait un souper et ils festoyaient avant et
+          après les offices de la nuit</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8887"
+                    source="S3160"
+                   
+                   
+                   >
+                  <head>Décision du conseil</head>
+                  <div type="transcription">
+                     <p>puisque les pasteurs scandalisent plutôt par leurs folies que d'exciter a dévotion
+                on ne leur baillera rien.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Interdiction</item>
+                        <item>Organisation : Prêt de matériel</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8888"
+                    source="S3160"
+                   
+                   
+                   >
+                  <head>Mandement du 31 octobre 1761</head>
+                  <div type="transcription">
+                     <p>Mgr Duding défendit « de faire les pasteurs dans la nuit de « Noël, selon un
+                antique usage »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

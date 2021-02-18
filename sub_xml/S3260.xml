@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arrêt contre des pièces scandalauses</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3260">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Arrêt contre des pièces scandalauses</title>
+                  </item>
+                  <item>
+                     <date when="1553"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Agen</settlement>
+                        <region>Aquitaine</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>44.203142, 0.616363</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Type : Arrêt</item>
+                  <item>Juridiction : Coopération</item>
+                  <item>Juridiction : Royale</item>
+                  <item>Juridiction : Ecclésiastique</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Maison</item>
+               </list>
+               <note>En second lieu, le théâtre. Nous avons déjà signalé des repré- sentations de pièces à
+          tendances nettement hérétiques données à Agen en 1553, à Clairac en 1554, à Libourne en
+          1555, à la maison commune ou au collège, par des comédiens professionnels, des ama- teurs
+          appartenant à la classe éclairée ou encore des écoliers 3 . — Plusieurs arrêts (5 juin
+          1554, 14 mai 1555) relatifs aux rapports de la Réforme et du Théâtre en Guienne, au
+          supplice île Jérôme Casebonne à Bordeaux (cf. Crespin, Histoire des martyrs, éd. Benoit et
+          Lelièvre, Tou- louse, 188T, t. II, p. 444 et suiv.;,, ont été publiés in extenso dans le
+          Bul- letin de la Société de l'Histoire du protestantisme [murais, année 1901, p. 525 et
+          suiv.; 1902, p. 141 et suiv., 244 et suiv. </note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9169"
+                    source="S3260"
+                   
+                   
+                   >
+                  <head>16 septembre 1553, Arrêt du Parlement</head>
+                  <div type="transcription">
+                     <p>Arrêt ordonnant aux consuls d'Agen de comparaître pardevant la jurisdiction de Me
+                Léonard Alesme, conseiller député par la Cour pour faire enquête sur certaines
+                « ➙farces jouées en la ville d'Agen et maison des consuls d'icelle, pleines
+                d'erreurs, scandale et doctrine réprouvée contre la foy et religion xrestienne » ;
+                et défendant en même temps « à peine de dix mil livres et autres peines et amendes
+                arbitraires aux consuls de la ville d'Agen et à tous autres de n'octroier aucune
+                permission à l'advenir de jouer ➙farsses ne ➙moralitez en icelle, par ➙basteleurs
+                Enfants sans souci, ne autres que premièrement telles ➙farces ne ➙moralités n'aient
+                esté monstrées et communicquées aux officiers du Roy en lad. seneschaucée et à
+                l'evesque d'Agen, son vicaire ou official, pour par eulx estre examinées s'il y a
+                aucune chose reprouvée contre la foy ou religion crestienne et le service du Roy ».
+                Texte complet dans le document de 1501</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Patry, 1901. p. 524 – *Patry, 1912. p. 152.</bibl>
+                        <bibl type="additional">Archives de la Gironde, B. 63 [liasse], à la date.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Interdiction d'autoriser</item>
+                        <item>Type : Arrêt</item>
+                        <item>Contrôle : Consul // Condition : Censure</item>
+                        <item>Contrôle : Evêque</item>
+                        <item>Contrôle : Officier du roi // Contrôle : Vicaire</item>
+                        <item>Contrôle : Official</item>
+                        <item>Condition : Sans attaquer la famille du roi</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

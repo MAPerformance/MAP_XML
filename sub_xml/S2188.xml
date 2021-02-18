@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Christophe</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2188">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Christophe</title>
+                  </item>
+                  <item>
+                     <date when="1464"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Compiègne</settlement>
+                        <region>Oise/Picardie</region>
+                        <country/>
+                        <placeName type="bishopric">Soissons</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.417816, 2.826145</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>De Buchère De L'épinois, 1864. p. 135. – Petit de Julleville, 1880, t. 2.
+              p. 30</bibl>
+                  <bibl type="additional"> Sorel, notice citée.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Confrérie</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Place publique</item>
+               </list>
+               <note>- La ville fit un don aux acteurs qui étaient des jeunes gens de bonne volonté, pris
+          parmi les habitants. - Ces expressions, « la Passion et mistere de la vie saint Christofle
+          » , ne sont pas très claires. Nous ne pensons pas qu'elles signifient « la Passion (de
+          J.-C.) et la vie de saint Christophe. » Elles désigneraient alors deux mystères et deux
+          représentations distinctes. Nous croyons qu'il faut entendre : la vie et la passion
+          (c'est-à-dire le martyre) de saint Christophe. [Petit de Juleville]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7647"
+                    source="S2188"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>A plusieurs jeunes hommes et compaignons de la ville, lesquelz au mois de juillet,
+                jouèrent la passion et mistere de la vie saint Christofle… en faisant ledit jeu a la
+                place devant la croix du marché aux fromages.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Henri de l'Épinois, Notes extraites des archives communales
+                  de Compiègne, Bibl. de l'École des chartes, série E, t. V, p. 135. Sorel, notice
+                  citée.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Ces expressions, « la Passion et mistere de la vie saint Christofle » , ne
+                sont pas très claires. Nous ne pensons pas qu'elles signifient « la Passion (de
+                J.-C.) et la vie de saint Christophe. » Elles désigneraient alors deux mystères et
+                deux représentations distinctes. Nous croyons qu'il faut entendre : la vie et la
+                passion (c'est-à-dire le martyre) de saint Christophe.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

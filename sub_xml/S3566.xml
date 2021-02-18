@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Entrée de Pierre II, Duc de Bretagne</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3566">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Entrée de Pierre II, Duc de Bretagne</title>
+                  </item>
+                  <item>
+                     <date when="1450"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Nantes</settlement>
+                        <region>Loire-Atlantique/Bretagne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Nantes</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>47.218371, -1.553621</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Type : Entrée</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Date : 8 octobre 1450.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9698"
+                    source="S3566"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Mises faictes à l'entrée du duc à Nantes (Pierre II), qui fut au mois d'octobre
+                1450. A Jehan Maillart, fouacier, et autres, pour pain prins et achaté pour servir
+                aux tables et carreffours de la ville, 23s 2d. Pour 180 quartes et 2 mesures vin
+                blanc, à 12 d chacune quarte, 9 l 6 d. Pour 4 quartes de vin de Ris, prins pour le
+                carreffour du Pilory, en deffault d'autre vin, 5 s. Pour une pippe de vin rouge de
+                Pynot, qui fut servy aux carrefours de ladite ville, 12 l 10s. Achat de treize bues
+                de terre pour porter lesdits vins aux carreffours, 6 s 6 d. Pour achat de poyres,
+                resins, noez, dairesmes ( ?) et autres fruitz qui furent servi aux carrefours de
+                ladite ville, 55 s 7 d. Huit fromaiges pour servir auxdits carrefours, 22 s 10 d.
+                Deiz rouartés de boais et demy cent de fagoz seez, pour faire les feuz, et pour le
+                portaige et mesuraige dudit boais, 40 s. A Geffroy Galloppin, Simon Galloppin, Jehan
+                Petit et autres qui jouerent le Jugement au carrefort des Changes, auxquels fut
+                donné et baillé pour quérir partie de leurs abillemens à faire et jouer ledit
+                mistère, 40 s. A Jacquet Pyoche, pour ung vestement qui lui fut fait faire pour
+                jouer au Pilory la semblance d'un ange, 7 s 6 d. Pour Jehan l'enlumineur et Georget
+                Huet, affin de les faire jouer leur fut donné en vin, 20 d. Pour la faczon d'un
+                rollet de boais pour servir audit Pyoche qui joua l'ange au Pillory, 2 s 6 d. A
+                divers apoticaires pour 21 quartes d'ypocras servy et despencé aux carreffors, à 12
+                s 6 d chacune quarte, 13 l 2s 6 d.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Transcription de l’inventaire.</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9703"
+                    source="S3566"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>40 s. à G. Galopin pour jouer le Jugement au carrefort des Changes, pour l'entrée
+                du duc, le 8 octobre 1450.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

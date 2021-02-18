@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2344">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author">Jean Michel</persName>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1486"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Angers</settlement>
+                        <region>Maine-et-Loire/Anjou</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Angers</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>47.478419, -0.563166</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Représentation (mystère)</item>
+                  <item>Organisation : Rôle de Jésus pour un clerc</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Doyen</item>
+                  <item>Chanoine</item>
+                  <item>Chapelain</item>
+                  <item>Clerc-acteur</item>
+                  <item>Enfants de chœur</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Place publique</item>
+                  <item>Place publique</item>
+               </list>
+               <note>Ajoutons quelques détails qui concernent les acteurs de cette Passion. Pierre Turpin,
+          doyen de Montaigu et chanoine de Saint-Martin, joua le personnage de Dieu, Laurent,
+          chapelain de Saint-Maurice, joua celui de la Vierge; le chanoine Thibaut Binel, celui de
+          Judas ; Nicolas Pietaut, celui de la Madeleine, un enfant de chœur de Saint-Laud, celui de
+          la fille de la Chananéenne. L'auteur Jean Michel joua le rôle de Lazare. Le nombre des
+          acteurs fut de 87 dans la première journée, 100 dans la seconde, 87 dans la troisième, 105
+          dans la quatrième, non compris les figurants et personnages muets. - Doyenné de Montaigu :
+          Montaigu en Vendée.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7927"
+                    source="S2344"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Cy commence le mistere de la Passion, etc… Lequel mistere fut joué a Angiers moult
+                triumphanment et sumptueusement en lan mil quatre cens quatre vingtz et six en la
+                fin daoust.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Intitulé de l’édition princeps de la Passion de Jean
+                  Michel.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7928"
+                    source="S2344"
+                   
+                   
+                   >
+                  <head>Samedi 12 août, Conseil de la Ville</head>
+                  <div type="transcription">
+                     <p>le gouverneur et les principaux de la ville tinrent conseil « pour donner ordre ou
+                fait de la garde et seureté de la ville pour le mistere de la Passion de nostre
+                Seigneur qui est assigné a eslre joué en caste ville de demain en huit jours ». On
+                arrêta les mesures suivantes : Don de cent livres tournois « des deniers communs,
+                pour y ayder a paier les fainctes dudit jeu ». Élection de commissaires « pour faire
+                faire silence oudict jeu sur peine de prinson et d'amende arbitraire ». Les
+                principaux personnages de la ville, le lieutenant criminel, le lieutenant civil, le
+                procureur général de l'Université, etc., acceptent cette fonction. Durant les jeux,
+                les portes de la ville seront fermées, sauf deux, que garderont vingt hommes, bien
+                armés. Les clefs seront remises au connétable. Vingt-cinq hommes armés « yront par
+                la ville, pour obvier aux inconvénients des crocheteurs et aultres mauvaises gens ».
+                Chaque nuit le guet et arrière-guet seront renforcés. Les hôteliers surveilleront
+                les arrivants, et ne recevront personne « de Broychessac (Brissac) ne d'ailleurs ou
+                il y a peste ». Les échafauds seront visités, on s'assurera de leur solidité.
+                Défense sera faite à tous autres que les gardes de « porter bastons invasibles ne
+                deffensables… Pour mieulx commancer et avoir sillence, si l'on voit qu'il soit
+                expédient, sera dicte une messe, ou (au) jeu, sur ung autel honnestement
+                droissé. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Participation financière</item>
+                        <item>Sécurité (peste) // Peste</item>
+                        <item>Organisation : Sécurité</item>
+                        <item>Description : Organisation // Aménagement : Déplacement de la messe</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7929"
+                    source="S2344"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Deux commissaires furent élus « pour faire présenter et distribuer, durant le
+                mistere de la Passion, du vin qui a este ordonné estre donné de par la ville aux
+                gens de bien qui sourviendront ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Distribution des responsabilités</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7930"
+                    source="S2344"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le 24 août, pendant les représentations, « a esté ordonné que oultre la somme de
+                cent livres tournois ordonnez sur les deniers communs de la ville, estre baillés
+                pour paier les fainctes du mistere de la Passion, qui se joue présentement en ceste
+                ville, sera encore baillé sur lesdits deniers la somme de 100 l. t., ou au dessolz
+                d'icelle somme, jusques au paiement desd. fainctes, en voyant par messieurs du
+                conseil les receptes et mises qui ont esté iaictes par la ville pour paier lesd.
+                mises, ad caque led. mistere ne demeure imparfait ». On avait tenté une souscription
+                particulière : elle avait été insuffisante.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Petit de Julleville, 1880, t. 2. p. 49.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Dépenses</item>
+                        <item>Finance : Salaire</item>
+                        <item>Organisation : Secrets</item>
+                        <item>Finance : Subvention par des particuliers</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7931"
+                    source="S2344"
+                   
+                   
+                   >
+                  <head>4 Septembre</head>
+                  <div type="transcription">
+                     <p>Jehan Fallet, prévôt, échevin, receveur des deniers communs, présenta « les parties
+                des coutz et mises du chauffault qu'il a fait faire pour le sieur de la Forest,
+                gouverneur de ceste ville, qui lui a servy pour le jeu du mistere de la Passion qui
+                nagueres a esté joué en ceste ville ». La dépense montait à 38 livres 4 s. 2 d.
+                t.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Comptabilité</item>
+                        <item>Finance : Bilan</item>
+                        <item>Organisation : Construction des loges</item>
+                        <item>Organisation : Loges des magistrats municipaux</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7932"
+                    source="S2344"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Pro mysterio Passionis Jesu Christi anno presentis composti, Andegavi per
+                personnagia manifestato, data fuit ex parte nationis summa deceni librarum ad onera
+                hujusmodi mysterii supportanda.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">compte des dépenses faites par la nation d'Anjou de
+                  l'Université d'Angers, à l'occasion de la Passion jouée en 1486</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Subvention ecclésiastique</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9518"
+                    source="S2344"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le premier jour, avant de commencer la pièce, on célébra une grande messe au milieu
+                du parterre. Le chapitre de la cathédrale avança le matin et retarda le soir ses
+                offices pendant les quatre jours, afin que les chanoines pussent assister au
+                spectacle. Pierre Turpin, doyen de Montaigu et chanoine de Saint-Martin, joua le
+                personnage de Dieu; Laurent, chapelain de Saint-Maurice, joua celui de la Vierge; le
+                chanoine Thibault Binel, celui de Judas; Nicolas Piétaut fit la Madeleine; un enfant
+                de chœur de Saint-Laud le personnage de la fille de la Canannée, et l'auteur, Jean
+                Michel, joua le rôle du Lazare. Enfin dans celle pièce quatre-vingt-sept acteurs
+                parurent sur la scène dans la première journée, cent dans la seconde.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Bodin, recherches
+                  (http://books.google.nl/books?id=uhQ8AAAAMAAJ&amp;dq=bodin%20recherches%20angers%20passion&amp;hl=fr&amp;pg=PA48#v=onepage&amp;q&amp;f=false)
+                  Rey Flaud, p. 280.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Rôle (distribution de -)</item>
+                        <item>Organisation : Rôle de Jésus // </item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

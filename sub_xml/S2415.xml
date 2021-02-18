@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion, de la Résurrection et de la Vengeance de Notre
+                Seigneur</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2415">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion, de la Résurrection et de la Vengeance de Notre
+                Seigneur</title>
+                  </item>
+                  <item>
+                     <date when="1494"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Malines</settlement>
+                        <region>Flandres</region>
+                        <country>Belgique</country>
+                        <placeName type="bishopric">Malines</placeName>
+                        <placeName type="eccl_province"/>
+                        <geo>51.025110, 4.476580</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Prêtre</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- C’est la même pièce que celle de Lille en 1484. [Petit de Julleville]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8000"
+                    source="S2415"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>La ville de Lille donne « XVIII s. pour les depens de VI compaignons, ordonnés
+                d’aller en la ville de Malines pour juer la Passion, Resurrection et Venganche de
+                nostre Seigneur Jhesu-Christ devant la personne de l’archiduc [Philippe le Beau]…
+                Item XL s. pour sire Thurien Blouet, prestre, pour avoir presté le jeu autrefois jué
+                en ceste ville [de Lille] du mistere dessus dit, pour delivrer ausdits jueurs… A
+                sire Thurien Blouet, prestre, IIII l. pour les jeux de la Passion et Resurrection de
+                nostre Seigneur Jhesu-Christ, en XIIII volumes que eschevins lui avoient promis
+                rendre et qu’ilz ne ont pu »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Petit de Julleville, 1880, t. 2. p. 46 – *Lavéant, 2007. p. 436.</bibl>
+                        <bibl type="additional"> La Fons de Mélicocq, Bulletin des comités historiques. Mars
+                  1850, p. 74.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Dépenses</item>
+                        <item>Représentation (manuscrit de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Prêtre</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Les six « compagnons » dont il est ici question ne pouvaient jouer la
+                Vengeance à eux seuls ; car elle exigeait le concours de 112 personnages parlants,
+                et de plus de 200 figurants. Mais, sans doute, ils tenaient les premiers rôles et
+                dirigeaient, dans l'exécution des rôles secondaires, les habitants de Malines qui
+                s'étaient associés à eux pour la représentation.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

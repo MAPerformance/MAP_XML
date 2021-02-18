@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Sébastien</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2601">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Sébastien</title>
+                  </item>
+                  <item>
+                     <date when="1520"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Laval</settlement>
+                        <region>Mayenne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Le Mans</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>48.077863, -0.770138</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Piolin, 1858. p. 65. – Piolin, 1861, t. 5. p. 240. – Petit de Julleville, 1880, t.
+              2. p. 109.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Confrérie</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Cette même année on figura la Passion à Laval, avec peu de paroles. cf. chapitre
+          « Mystères mimés » : 1520, Laval, la Passion. [Petit de Julleville] - Piolin note le
+          développement de la confrérie de Saint-Sébastien dans la région, et la nomination d'un
+          fertois à Rome qui a dû contrubuer à ce développement. cf. Paul Piolin Histoire de
+          l'église du Mans, chap. XXVIII. [Piolin, 1858]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8200"
+                    source="S2601"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Puis la Penthecouste venue, Et sans que mon propos je mue, De Sebastien le mistere
+                A Botz fut, sans nul vitupere, Joué, et en fust l'entreprise Faicte par très bonne
+                divise Par Loys le Gauffre et Lamyer, Qui y employerent maint desnier En chauffaulx
+                de grands édifices ; Et si n'y eut nul malefice Que chacun ne fist son debvoir Par
+                sept jours, sans mal esmouvoir. Le dict Gauffre le saint joua Ou après chascun se
+                voua.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Le Doyen, 1839. p. 174</bibl>
+                        <bibl type="additional"> Annales et chroniques de Guillaume le Doyen, p. 174.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- C'est-à-dire qu'après la représentation toute l'assistance se consacra à saint
+                Sébastien. René Lamyer avait été l'ordonnateur des représentations de 1509 et de
+                1515. [Petit de Julleville]</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

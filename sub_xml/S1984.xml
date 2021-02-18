@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Naissance du sauveur</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S1984">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Naissance du sauveur</title>
+                  </item>
+                  <item>
+                     <date from="1416" to="1417"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Constance</settlement>
+                        <region/>
+                        <country>Allemagne</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>47.661937, 9.172426</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Concile</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Empereur</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7418"
+                    source="S1984"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>« Tout le monde s’empressa dans cette occasion à lui donner des témoignages publics
+                de son zèle et de sa gratitude. Les anglais se signalerent entre les autres par un
+                spectacle nouveau, ou au moins inusité jusqu’alors en Allemagne. Ce fut une espèce
+                de comédie pieuse, ou Moralité, que les Evêques anglais firent représenter devant
+                l’Empereur le Dimanche 31 de Janvier, sur la naissance du Sauveur, sur l’Arrivée des
+                Mages, et sur le Massacre des Innocents. Ils avaient déjà fait représenter la même
+                pièce quelques jours auparavant en présence des Magistrats de Constance et de
+                quantité de personnes de distinction, afin que les acteurs fussent mieux en état de
+                faire bien leur rôle devant l’empereur. » Lenfant.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Du Méril, 1849. p. 60</bibl>
+                        <bibl type="additional"> Lenfant, Histoire du concile de Constance, t. II, p. 21 –
+                  Ulrich Reichenthaler, Concilium-buch zu Costencz, f°xli, v°, col. 2.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

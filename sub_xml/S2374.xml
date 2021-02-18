@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2374">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1490"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Compiègne</settlement>
+                        <region>Oise/Picardie</region>
+                        <country/>
+                        <placeName type="bishopric">Soissons</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.417816, 2.826145</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 55</bibl>
+                  <bibl type="additional"> Sorel, Notice citée, p. 46 et 53. — H. de L'Epinois, « Notes
+              extraites des archives communales de Compiègne », Bibl. de l'école des Chartes, série
+              E, t. IV, p. 140.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Finance : Description du montage financier</item>
+                  <item>Finance : Collecte</item>
+                  <item>Finance : Garantie donnée par la municipalité</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Prêtre</item>
+                  <item>Clerc-producteur</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Il avait été convenu qu'une collecte serait faite pour subvenir aux frais, la ville se
+          chargeant d'ailleurs de payer tout l'excédent des dépenses.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7968"
+                    source="S2374"
+                   
+                   
+                   >
+                  <head>3 mars</head>
+                  <div type="transcription">
+                     <p>Une réunion avait eu lieu à l'hôtel de ville pour préparer et régler tout le détail
+                de la représentation. Jean Noël, prêtre, fut l'ordonnateur du jeu et reçut 24 sous,
+                « a quoy a esté tenu a lui pour le reste qui lui estoit du d'avoir fait les livres
+                pour jouer ledit mistere ». Mahieu Venesse, tonnelier, fut constructeur des hours,
+                et reçut 16 sous « pour plusieurs tretteaux par luy bailliez, tant a faire le
+                paradis, comme le gouffre (l'enfer), pour jouer iceluy mistere ». Berthault Diet
+                fournit les poissons qui servirent à la mise en scène de la pêche miraculeuse,
+                moyennant 20 sous parisis.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Sorel, Notice citée, p. 46 et 53. — H. de L'Epinois, « Notes
+                  extraites des archives communales de Compiègne », Bibl. de l'école des Chartes,
+                  série E, t. IV, p. 140.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Comptabilité</item>
+                        <item>Finance : Salaire</item>
+                        <item>Organisation : Rôle (distribution de -)</item>
+                        <item>Organisation : Obtention du texte</item>
+                        <item>Organisation : Construction de la scène</item>
+                        <item>Organisation : Obtention des accessoires</item>
+                        <item>Organisation : Distribution des responsabilités</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

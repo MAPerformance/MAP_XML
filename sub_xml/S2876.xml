@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Vendition de Joseph</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2876">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Vendition de Joseph</title>
+                  </item>
+                  <item>
+                     <date when="1550"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Péronne</settlement>
+                        <region>Somme/Picardie</region>
+                        <country/>
+                        <placeName type="bishopric">Noyon ?</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.933071, 2.933353</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 123. – Grenier, 1856. p. 407.</bibl>
+                  <bibl type="additional">Biblioth. nation, mss. Collection de Picardie, t. CL VIII,
+              fol. 83</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Récurrence</item>
+                  <item>Sujet : Ecritures saintes</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Habitué</item>
+                  <item>Clerc-acteur</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Place publique</item>
+                  <item>Publiquement</item>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8448"
+                    source="S2876"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Dix-sept années plus tard, trois clercs habitués de Saint-Fursy sollicitèrent
+                l'autorisation de jouer en public la Vendition de Joseph aux fêtes de la Pentecôte.
+                Les idées du chapitre s'étaient modifiées. La permission fut refusée « pour
+                plusieurs raisons qu'on exposa de vive voix. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Biblioth. nation, mss. Collection de Picardie, t. CL VIII,
+                  fol. 83 – Reg. capitulaire, ann. 1550; f°56r.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération capitulaire</item>
+                        <item>Autorisation (réfus d'-) // Autorisation (changement d'attitude)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Chanoine</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

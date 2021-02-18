@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère des Actes des Apôtres</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2791">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère des Actes des Apôtres</title>
+                  </item>
+                  <item>
+                     <date when="1541"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Paris</settlement>
+                        <region>Paris/Île-de-France</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Paris</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.856614, 2.352222</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. I, chap. XII et p. 365, et t. II,
+              p. 140.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Dimanche</item>
+                  <item>Fêtes</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>On a vu plus haut l'éclat de la représentation de 1536 à Bourges. Paris se piqua
+          d'honneur ; les confrères de la Passion ne voulurent pas faire moins bien que les
+          provinciaux ; ils entreprirent à leur tour de donner les Actes des Apôtres et en 1541 ils
+          jouèrent ce mystère avec beaucoup de magnificence et un grand succès. Nous avons raconté
+          ailleurs comment cette représentation eut des suites fâcheuses pour la confrérie et lui
+          aliéna l'esprit du Parlement. On joua durant six ou sept mois, mais le dimanche seulement,
+          et non les jours de fêtes solennelles. Il y eut ainsi environ vingt-cinq à trente
+          journées. Comme il était d'usage, les représentations avaient été précédées par une
+          proclamation publique appelée cry, qui était destinée à convoquer tous les amateurs
+          désireux de prendre un rôle dans ce mystère, où paraissaient cinq cents personnages
+          parlants. Nous avons cité ce cry. La Croix du Maine et Beauchamps parlent vaguement de
+          représentations des Actes données à Angers, au Mans, à Tours. Pour la représentation
+          d'Angers, voyez ci-dessus (1478, Aix. ) Nous ne savons rien de celles du Mans et de
+          Tours.</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

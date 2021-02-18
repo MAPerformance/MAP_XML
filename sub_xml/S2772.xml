@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Sainte Barbe</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2772">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Sainte Barbe</title>
+                  </item>
+                  <item>
+                     <date when="1539"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Tirepied</settlement>
+                        <region>Manche/Basse-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Avranches</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>48.710104, -1.261329</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 137 – Arrêts du Parlement (Tournelles),
+              16 déc. 1639, 16 oct. 1640, cités par Gosselin, ouvrage cité, p. 62 et 63.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Dimanche</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>En 1539, à Tirepied, près d'Avranches, on joua « la vie et mystère de madame sainte
+          Barbe ». La représentation, commencée le dimanche 10 août, devait occuper quatre dimanches
+          consécutifs. Elle fut troublée par un incident curieux. Un sieur de Vaulevrier avait
+          obtenu un arrêt de prise de corps contre deux des joueurs, nommés Montléon, qu'il accusait
+          de l'avoir volé. Le 10 août il se présenta avec un sergent pour exécuter l'arrêt; les
+          accusés et leurs compagnons le mirent en fuite. Il se représenta le dimanche suivant. Un
+          des diables, nommé Hamel, cousin de Montléon, suivi de plusieurs autres acteurs armés
+          d'arquebuses chargées, donna la chasse à Vaulevrier et au sergent, déchirant ses habits de
+          diable, pour courir plus vite. Il ne put atteindre les fugitifs et revint achever le
+          mystère. L'affaire se dénoua devant le Parlement ; les Montléon furent condamnés au fouet
+          et au bannissement ; le diable, à des amendes qui atteignirent la somme de 750 1.
+          t.</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

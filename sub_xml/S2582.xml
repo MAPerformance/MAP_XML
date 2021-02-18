@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ystoire</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2582">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Ystoire</title>
+                  </item>
+                  <item>
+                     <date when="1516"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Lyon</settlement>
+                        <region>Lyonnais</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Lyon</placeName>
+                        <placeName type="eccl_province">Lyon</placeName>
+                        <geo>45.764043, 4.835659</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Brouchoud, 1865. p. 17</bibl>
+                  <bibl type="additional"> Nombreux documents aux archives de la ville, BB 34, f°161. -
+              cf. A. Bassard « La querelle des consuls et des artisans », dans Revue d’Histoire de
+              Lyon, Tome huitième, 1909, pp. 40-41.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Interdiction</item>
+                  <item>Juridiction : Conflit</item>
+                  <item>Juridiction : Municipale</item>
+                  <item>Juridiction : Royale</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Entrée</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Bourgeois</item>
+                  <item>Roi</item>
+                  <item>Reine</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Maison (porte)</item>
+               </list>
+               <note>Les conseillers décidèrent qu’à eux seuls appartenait le droit de régler les
+          ordonnances des entrées royales et portèrent leurs plaintes au sénéchal et au chancelier
+          de France qui étaient venu à Lyon au devant de la cour. Le théâtre de Syrodes disparut et
+          les Echevins purent sans inquiétude conduire, à travers les rues de la ville, le cortège
+          du roi. - Dans le contexte houleux des querelles qui surviennent périodiquement entre
+          consuls et artisans dès 1515-1516, l’arrogance des artisans, qui n’hésitent pas à accuser
+          publiquement le Consulat de dilapider les fonds de la ville, est à son comble lorsqu’un
+          certain Pierre Cyrodes, dit Grenoble, fait dresser plusieurs estrades devant sa maison «
+          pour jouer certaine ystoire à la prochaine entrée de la royne, par lequel, comme l’on dit,
+          il blasme et entend blasmer plusieurs qui sont et on esté conseillers ». Le Consulat
+          interdit cette manifestation, « veu qu’il n’est loisible à personne faire aucunes ystoires
+          ès entrées, sinon celles qui ont esté ordonnées par les conseillers » [Bassard]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8187"
+                    source="S2582"
+                   
+                   
+                   >
+                  <head>25 février 1515</head>
+                  <div type="transcription">
+                     <p>Il veut jouer « certaine ystoire où il blamait des membres du corps commun. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Brouchoud date le document de 1515, il doit cependant se tromper, la
+                représentation ayant lieu en 1518.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2936">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1559"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Bruges</settlement>
+                        <region>Flandres</region>
+                        <country>Belgique</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>51.210836, 3.224869</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Organisation : Représentations multiples</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>cf. Comédies, Bruges (1559-1559)</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8597"
+                    source="S2936"
+                   
+                   
+                   >
+                  <head>23 décembre 1559, Archives de la ville </head>
+                  <div type="transcription">
+                     <p>A tous ceulx etc. Pour ce que raison veult et droict requiert qu’on certifie choses
+                veritables, mesmes quand on est ad ce requis, si c’est ce que a la requeste et
+                instance de Wolfgancq Treslecat, natyf de Condé-sur-l’Escault près Valenchienes, sa
+                femme, enfans et compaignons, joueurs d’histoires, comedies, tragedies, histoires
+                humaines [sic : romaines], musicque a violes et aultres instruments, certifions et
+                attestons que nous et monseigneur l’eschouthete [sic] de ladicte ville avons octroyé
+                et consenti ausdictes personnes de jouer publicquement en ladicte ville de Bruges
+                certains jeux de la Vie et Passion de Nostre Signeur et trois aultres histoires
+                prophanes, oultre aultres farces et jeux non contenantz choses divines ou
+                ecclesiasticques, contenuz et escriptz en 14 libvres, apres que iceulx jeux et
+                histoires avoient esté par nostre ordonnance visitez et approuvez par maistre Josse
+                Reyngout, prieur du monastere de Saint-Augustin audict Bruges, maistres et freres
+                Rogier le Jeusne, docteur, Philippe Logian, licencié et Gaultier Ramakere, bacelier
+                en theologie, lesquelz ont lesdicts libvres, en signe de leur dicte approbation,
+                signé de leurs noms. En tesmoignage etc. Actum, 23 decembre 1559. _____ Le 23
+                décembre, les acteurs sont autorisés à jouer également les « comédies » (en fait une
+                Passion, voir ci-dessous) « aprez la visitation des livres ycy exhibeez et signeez
+                par ceulx du couvent des Augustins ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Parmentier, 1926. p. 394 – *Lavéant, 2007. p. 425.</bibl>
+                        <bibl type="additional">Bruges, archives de la ville (Stadsarchief), portefeuille
+                  Overleg 1559-1560, nº67 et 68.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Autorisation sous condition</item>
+                        <item>Condition : Censure</item>
+                        <item>Contrôle : Théologien // </item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Augustin</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8598"
+                    source="S2936"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Remonstrent humblement Wolfgang Treslecat, natif de Condé-sur-l’Escault pres
+                Valenchiennes, sa femme, enfans et compaignons, joueurs d’histoires, comedies,
+                tragedies, histoires romaines, musicque, violes et aultres instrumens, le tout sans
+                aulcune scandale, comme ilz ont faict dernierement en la ville de Ypre, ou ilz ont
+                sejourné l’espace d’ung mois, dont ils viennent a present, qu’il seroient bien
+                d’advys de jouer et monstrer lesdictes comedies et aultres en ceste ville, lesquelz
+                ilz exhibent avec ceste [requête], suppliant qu’il vous plaise de voz benignes
+                graces permectre en cestedicte ville de Bruges reciter lesdictes comedies, tragedies
+                et histoires romaines, sans aulcun scandalle comme dict est.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Parmentier, 1926. p. 394 – *Lavéant, 2007. p. 425.</bibl>
+                        <bibl type="additional">Bruges, archives de la ville (Stadsarchief), portefeuille
+                  Overleg 1559-1560, nº67 et 68.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Autorisation (demande d'-)</item>
+                        <item>Condition : Sans scandale</item>
+                        <item>Description : Représentation</item>
+                        <item>XXX</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

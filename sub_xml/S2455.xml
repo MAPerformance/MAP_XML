@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère du Trépas de Notre Dame</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2455">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère du Trépas de Notre Dame</title>
+                  </item>
+                  <item>
+                     <date when="1501"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Béthune</settlement>
+                        <region>Nord/Pays-bas méridionaux</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>50.531036, 2.639260</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Ce sont les mêmes acteurs qui avaient joué la vie de Saint Roch, l'année précédente,
+          dans la même ville. - A Péronne, vers le même temps, on représentait le mystère de la Vie
+          de Méron, mystère et passion du Bancquet. Nous ignorons ce que pouvaient être les pièces
+          désignées sous ce nom; quoique intitulées mystères, c'étaient probablement des moralités.
+          [Petit de Julleville]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8040"
+                    source="S2455"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>« A Anthoine Morel, Jehan le Tardieu et aultres personnages au nombre de XVIII a
+                XX, XVI s., pour eulx recreer enssamble, aprez qu’ilz ont eu joué et monstré par
+                mistere le trespas Nostre-Dame, qui a duré ung jour, ou ils ont eu de la despence ».
+                « A Jehan le Tardieu, Clement d’Ablaing, Anthoine Carpentier, Estienne Herencq et
+                Jehan Capelier, lesquelz firent pluisieurs jeus, esbatemens et ballades,
+                acompaigniez de gens de bien de cestedite ville, deux quasnes de vin de
+                Beaune ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>La Fons-Melicocq, 1848. p. 342 – Petit de Julleville, 1880, t. 2. p. 83 –
+                  *Lavéant, 2007. p. 421.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2523">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date from="1509" to="1510"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Chateaudun</settlement>
+                        <region>Eure-et-Loir/Beauce</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Chartres</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.070369, 1.327696</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 93</bibl>
+                  <bibl type="additional"> Cartier, Le Théâtre à Amboise au XVe et au XVIe siècle, dans
+              les Mémoires de la Société des antiquaires de l'Ouest, p. 241.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Représentation (mystère)</item>
+                  <item>Organisation : Rôle de Jésus</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Nous ne pouvons affirmer que la Passion ait été jouée en 1509 à Châteaudun, cependant
+          le fait est très probable, car le gouverneur, duc de Longueville, tenait fort à ce qu'elle
+          fût représentée devant lui, comme nous l'apprend la lettre suivante, qu'il adressait en
+          1508 aux magistrats de la ville d'Amboise où l'on venait déjouer ce mystère. [Petit
+          de Julleville] - Runnalls date la pièce de 1510, Petit de Julleville de 1509. - Le texte
+          est celui de la Passion d’Amboise de 1507. - Le rôle de Jésus est tenu par un
+          écuyer.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8113"
+                    source="S2523"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Monsieur le bailly, je me recommande bien fort a vous. J'ay esté adverti que avez
+                le livre de la Passion qui a esté jouée a Amboise, qui est, comme l'on dit, le plus
+                beau qu'on puisse trouver. Et pour ce que j'ai l'intention de faire jouer le dit
+                mistere eu ceste ville, je vous prie que, par ce porteur, mon serviteur, me veillez
+                envoyer le dit livre, et je vous le ferai rendre et renvoyer. Et en ce faisant, me
+                ferez plaisir, et a Dieu. Qu'il soit garde de vous. Escript a Chateaudun le Ve jour
+                d'octobre (1508). Le duc de Longueville bien vostre. (Signé : ) Francoys.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Cartier, Le Théâtre à Amboise au XVe et au XVIe siècle, dans
+                  les Mémoires de la Société des antiquaires de l'Ouest, p. 241.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (manuscrit de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Les magistrats ne se dessaisirent pas du précieux original ; mais ils firent
+                exécuter une copie par deux notaires, un prêtre et un clerc, qui reçurent (à 7 d.
+                1/2 par feuille) 15 livres 3 s. 9 d. pour 442 feuilles.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

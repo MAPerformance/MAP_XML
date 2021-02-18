@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Jean-Baptiste</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2510">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Jean-Baptiste</title>
+                  </item>
+                  <item>
+                     <date when="1508"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Mende</settlement>
+                        <region>Languedoc</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>44.517241, 3.498588</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 92 – Extrait du compte rendu de Jean
+              Femenier, prêtre, baille des anniversaires de l'église de Mende pour l'année
+              1508.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Saint Jean</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Ecclésiastique</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Le jour de Saint-Jean-Baptiste de l'année 1508, des ecclésiastiques de Mende
+          jouaient « sur la place publique une moralité pour l'instruction du peuple ». Des paysans
+          mal intentionnés se jetèrent sur eux et troublèrent la représentation. Ils furent
+          poursuivis et sans doute condamnés. La représentation ayant été donnée par des
+          ecclésiastiques le jour de la Saint Jean, nous avons supposé que la pièce jouée était un
+          mystère de Saint Jean. Mais ce n'est là qu'une hypothèse. Le nom de moralité donnée à la
+          pièce n'empêcherait pas d'ailleurs qu'elle pût être un mystère. Nous trouverons au
+          XVIe siècle beaucoup de purs mystères qualifiés de moralités. Les distinctions de genres
+          littéraires étaient vagues au moyen âge. [Petit de Julleville]</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

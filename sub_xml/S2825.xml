@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère des Actes des Apôtres</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2825">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère des Actes des Apôtres</title>
+                  </item>
+                  <item>
+                     <date when="1546"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Genève</settlement>
+                        <region>Genève</region>
+                        <country>Suisse</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.198392, 6.142296</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Jonker, 1939. p. 197.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Pluralisme juridique</item>
+                  <item>Sujet : Ecritures saintes</item>
+                  <item>Juridiction : Ecclésiastique</item>
+                  <item>Juridiction : Municipale</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Trouver le document du 21 juin, qui arrête que la représentation aura lieu le 4
+          juillet, et du 25 juin, le Conseil accorde « trente escus soley » aux acteurs pour
+          subvenir aux frais. - Cf. Correspondance Farel/Calvin - Viret, qui se trouve à Genève,
+          assiste à la représentation. Il n’est pas pour le théâtre, mais est probablement là pour
+          contrôler.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8392"
+                    source="S2825"
+                   
+                   
+                   >
+                  <head>24 mai1546, Registre du Conseil.</head>
+                  <div type="transcription">
+                     <p>Le Conseil arrête que d’abord il faut communiquer la pièce à Calvin afin de savoir
+                « si n’y a rens qui soyt contre Dieu » et donner permission.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Jonker, 1939. p. 197.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Contrôle : Ministres</item>
+                        <item>Censure // Autorisation (demande d'-)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>On a demandé l’autorisation le 24 mai.</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8393"
+                    source="S2825"
+                   
+                   
+                   >
+                  <head>1er juin 1546, Registre du Conseil</head>
+                  <div type="transcription">
+                     <p>Remontrance de Calvin aux « joyeurs des ystoyre ». Calvin déclare avec ses
+                colllègues avec qui Abel Poupin et lui ont conféré, ne sont point d’avis quer la
+                représentation ait lieu. Il ne faut pas gaspiller son argent et « laisser les
+                oeuvres de charité ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Jonker, 1939. p. 198.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Interdiction</item>
+                        <item>Cause : Finance</item>
+                        <item>Finance : Pauvre (aide aux -)</item>
+                        <item>Capacité économique</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Même jour que l’interdiction de pièces profanes.</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8394"
+                    source="S2825"
+                   
+                   
+                   >
+                  <head>14 juin 1546, Registre du Conseil.</head>
+                  <div type="transcription">
+                     <p>Le conseil ordonne à Poupin de parachever l’entreprise, et aussi « que les aultres
+                soyent appeller pourquoy ilz ne veullent pas que cella ce face et leurs soyt faictes
+                bonnes remonstrances qui ne meslent point de la politique. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Jonker, 1939. p. 198</bibl>
+                        <bibl type="additional"> Wille, De Gereformeerden en het toneel tot omstreeks 1630,
+                  in Christendom en Historie, Lustrumbundel, 1930, p. 120, n. 3.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Autorisation sous condition</item>
+                        <item>Autorisation (changement d'attitude)</item>
+                        <item>Condition : Sans politique</item>
+                        <item>Sujet : Polémique politique</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8395"
+                    source="S2825"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Calvin déclare au nom de tous les pasteurs qu’ils ont examiné la pièce et qu’elle
+                est « saingt et cellon Dieu », mais qu’il croit qu’il vaut mieux renoncer à la
+                représentation. Pour montrer que la représentation se fera sans l’approbation des
+                pasteurs, il demande de dispenser Abel Poupin de sa tâche comme directeur :
+                « requerant permectre qui ne sent doibge point mesler. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Jonker, 1939. p. 198.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Censure</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Emetteur : Calvin - Jonker dit qu ce n’est pas le 15, comme dit Roget, mais le
+                lendemain du 14 (??). - Calvin laisse jouer car il ne peut pas faire autrement, mais
+                marque publiquement sa désapprobation pour ne pas montrer qu’il plie.
+                [Jonker]</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8396"
+                    source="S2825"
+                   
+                   
+                   >
+                  <head>27 juin 1546, Sermon du pasteur Cop</head>
+                  <div type="transcription">
+                     <p>Les actrices sont « des effrontées, débordées, sans honneur, n’ayant d’autre
+                dessein que de faire valoir leur corps, habillemens et richesses, pour exciter des
+                désirs impurs dans le coeur de spectateurs. » Il finit par dire « qu’il était de son
+                devoir d’anathématiser tous ceux qui assisteraient à une semblable farce, qui avait
+                pour but de mettre en pièce l’Ecriture et de favoriser l’idôlatrie. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Roget, 1870, t. 2. p. 240 – *Jonker, 1939. p. 200.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Sermon</item>
+                        <item>Anti-histrion</item>
+                        <item>Capacité religieuse</item>
+                        <item>Interdiction // Cause : Sujet sacré</item>
+                        <item>Condamnation : Anathème</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8397"
+                    source="S2825"
+                   
+                   
+                   >
+                  <head>Conseil de Genève</head>
+                  <div type="transcription">
+                     <p>Plainte des acteurs contre le sermon du pasteur Cop. Les plaignants déclarent
+                nettement « qui n’ont que faire à monsieur Calvin ny aus aultres prédicans, fors
+                contre ceulx qui les hont injurié ». Calvin défend Cop, son sermon n’a point été dit
+                « à la malle partz » La séance est tumultueuse, et Cop finit par être emprisonné
+                dans la salle du conseil.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Jonker, 1939. p. 200</bibl>
+                        <bibl type="additional"> Registre du conseil, f°122v.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Procès : Plainte</item>
+                        <item>Condamnation : Prison</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Emetteur : Acteurs et actrices</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8398"
+                    source="S2825"
+                   
+                   
+                   >
+                  <head>Registre du conseil (résumé de la séance du conseil entre Cop et les
+              acteurs).</head>
+                  <div type="transcription">
+                     <p>Calvin trouva, tout en voyant que le Conseil en général était disposé en faveur des
+                pasteurs, que son attitude était trop peu ferme : « Hoc tantum male me habeat quod
+                non esset fortior et animosior : nam pro more suo nimium timide se gessit. » Ce
+                qu’il blâme en Cop, c’est qu’il a été imprudent, qu’il n’a pas compris que le temps
+                n’est pas propre à agir avec tant de rigueur, qu’en ce moment les pasteurs n’avaient
+                pas assez d’ascendant sur le peuple. « Nam imprudentem fuisse iudicabam qui extra
+                tempus tali declamatione usus foret … nullo enim modo approbare poteram quod
+                dixerat. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Jonker, 1939. p. 200</bibl>
+                        <bibl type="additional"> Annales Calvini, p. 384 – Ioannis Calvini opera quae
+                  supersunt omnia, 1873, p. 804, doc. 807 (Calvinus Farello).</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Interdiction (capacité à exercer l'-) // Juridiction : Conflit</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8399"
+                    source="S2825"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>On dresse les loges « por les sieurs du Conseyl Estroyct aut lieu plus
+                propre. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Jonker, 1939. p. 201.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Construction des loges</item>
+                        <item>Organisation : Loges des magistrats municipaux</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8400"
+                    source="S2825"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Lungdy 5 juillet 1546. Le Conseyl ordinaire n’a esté tenuz pource que hier et
+                ledict Lungdy l’on a joyé le commencement des ystoyres des Appostres qui a duré deux
+                jours.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Jonker, 1939. p. 139</bibl>
+                        <bibl type="additional"> Registre du conseil, f°137v.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8401"
+                    source="S2825"
+                   
+                   
+                   >
+                  <head>12 juillet 1546, Registre du Conseil</head>
+                  <div type="transcription">
+                     <p>Les ministres ne sont pas abbatus et ils prient le Conseil de « ne plus permectre
+                plus ainsin joyer telle hystoire mes que l’argent soyt employe pour les povres. » Le
+                Conseil ne s’oppose pas à la volonté des ministres, et il décréta « que de telles
+                ystoyres [seront] suspendues jusque l’on voye le temps plus propre. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Jonker, 1939. p. 201</bibl>
+                        <bibl type="additional"> Annales Calvini, col. 385 – Keegstra, Abraham sacrifiant de
+                  Théodore de Bèze, p. 10.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Interdiction</item>
+                        <item>Juridiction : Coopération // Finance : Pauvre (aide aux -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Cette défense est suivie des faits selon Jonker et Keegstra, pas selon Doumergue
+                (sauf pour les pièces scolaires.)</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8402"
+                    source="S2825"
+                   
+                   
+                   >
+                  <head>31 mai 1546, Registre du Conseil</head>
+                  <div type="transcription">
+                     <p>« …il dient… qui ne veullent point permettre qui se joue » ; c’est à propos des
+                Actes des Appostres que les registres remarquent cela, après avoir dit : « …Monsieur
+                Calvin et aussi que Monsieur Albel que sont bien esté de ce advis que il n’y az
+                riens qui soyt contre Dieu »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Jonker, 1939. p. 202</bibl>
+                        <bibl type="additional"> Registre du Conseil, f°104r.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Interdiction</item>
+                        <item>Cause : Sujet sacré</item>
+                        <item>Censure</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

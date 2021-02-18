@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Bourgoise de Rome</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2435">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Bourgoise de Rome</title>
+                  </item>
+                  <item>
+                     <date when="1498"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Pissanesse (Mayenne)</settlement>
+                        <region>Mayenne</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Le Mans</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo/>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Piolin, 1858. p. 54. – Piolin, 1861, t. 5. p. 239. – Petit de Julleville, 1880, t.
+              2. p. 75</bibl>
+                  <bibl type="additional"> Jubinal, Nouveau recueil de contes, t. I, p. 79 – (Paulin
+              Paris ?) Histoire littéraire (de la France ?), t. XXIII, p. 121.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- La Bourgeoise de Rome est le titre d'un dit qui nous raconte l'amour incestueux
+          d'une mère pour son fils. La coupable mère détruit l'enfant né de cette union et ne se
+          confesse pas de ces deux crimes. Mais la Vierge intercède pour elle ; elle fait en sorte
+          que le pape se trouve là, quoique invisible, au moment où l'inceste et l'infanticide vont
+          être dévoilés et punis. La pécheresse se confesse sans que nul s'en aperçoive ; elle est
+          sauvée, et se fait nonne. Le drame tiré de ce sujet singulier devait être un miracle de
+          Notre Dame. [Petit de Julleville] - Probablement le mystère de l’Impératrice romaine,
+          publié par MM. Montmerqué et Francisque Michel (Le Théâtre Français du Moyen Âge,
+          pp. 365-417), issu d’un conte de Gautier de Coinsy (Nouveau recueil de fabliaux et contes
+          inédits, Méon (éd.), t. II, p. 51) [Piolin, 1858]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8021"
+                    source="S2435"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>En ce présent an, au moys d'octobre, fust joué par troys jours, a Pissanesse (près
+                de Laval) le mistere delà Bourgeoyse de Romme.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Annales et chroniques, de Guillaume le Doyen, p. 83.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

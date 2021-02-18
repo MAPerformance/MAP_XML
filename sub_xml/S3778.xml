@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miracle</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3778">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Miracle</title>
+                  </item>
+                  <item>
+                     <date when="1345"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Carlisle</settlement>
+                        <region>Cumbria Cumberland Cumbrie </region>
+                        <country>Angleterre</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo/>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Saint Michel archange</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Place publique</item>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9909"
+                    source="S3778"
+                   
+                   
+                   >
+                  <head>26 Septembre 1345</head>
+                  <div type="transcription">
+                     <p>Inquisicio capta apud karliolurn die Lune proxima ante festurn sancti michaelis
+                anno regni regis Edwardi tercij a conquestu decimo nono corarn domino Thorna de Lucy
+                Ricardo &lt;………&gt; &lt;…&gt;g'ton per Comrnissionem domini Regis assignatis super
+                quibusdam dissencionibus et discordijs inter homines in municione Castri domini
+                Regis karlioli existentes &amp; Communitatem Ciuitatis karlioli &lt;………&gt; per
+                Adamum de Kyrkeby Petrurn ffrankys Thomam de Neuby Iohannern de mulcastre Ricardurn
+                de Scraityngham Ricardum del sandes &lt;………&gt; Thomam de Canonuby Iohannem de Ireby
+                Iohannern de Agillonuby Iohannem de Cokedene &amp; Iohannem filium simonis de
+                kyrkandres Iuratores Qui dicunt super sacra &lt;………&gt; quod die dommica in vigilia
+                sancti Petri aduincula anno supradicto Cum Clerici fecerunt quendam ludum in foro
+                dicte ciuitatis karlioli quedarn conturnelia mota fuit inter Edmundum Walays
+                seruientem domini Episcopi karlioli &amp; Walterum Cole hominem domini Petri de
+                Tillioll' eo quod idem Edmundus percussit dictum Walterum cum quadarn virga grossa
+                ter in capite &lt;…&gt; dictus Walterus cepit ipsum Edmundurn per capuc&#x7f;urn &amp;
+                delacerauit capucium &amp; tunicam et Ricardus del Botelry seruiens dicti domini
+                Episcopi karlioli videns hoc percussit dictum Walterum cum quodarn cultello in dorso
+                fere ad rnortem &amp; super hoc ludus recessit Et tunc dictus Petrus de Tillioll'
+                videns hominem suum sic esse inpericulo mortis misit Willelmum &lt;…&gt; Wyclyf
+                Coronatorem domini Regis et cum eo Iohannem de stapelton’ et Thomam de Neuby ad
+                dictum dominum Episcopum karlioli supplicando eidem domino Episcopo quoniam cum
+                haberet dictum Ricardum del Botelria in comitiua sua in Castro karlioli qui hominem
+                predictum percussit quod faceret ipsum responsorum de predicta transgressione
+                secundum legem &lt;…&gt; predictus Episcopus karlioli concessit pro se et ominibus
+                suis quod nulla mala fieri deberent quousque veritas fuerit inde inquisita … Acta
+                apud karliolum die Luna proxima ante festum sancti michaelis archangeli anno regni
+                regis Edwardi tercij a conquestu decimo Nono coram domino Thoma de Lucy &lt;………&gt;
+                assignatis per Commissio&lt;…&gt; domini Regis ad inquirendum de diuersis articulis
+                in Commissione contentis per Adamum de Crofton’ Robertum de Tybay Nicholas le
+                spenser Willelmum de morley Thomam kaskell’ stephanum de Acton’ gilbertum de
+                kirkandres Robertum growce henricum de musgraue Iohannem de Tybay stephanum
+                aurisfabrum &amp; Adamum de Appylby’ Iuratores qui &lt;…&gt; super sacramentum suum
+                quod die dominica in vigilia sancti petri ad uincula sicut clerici inceperunt ludere
+                quoddam miraculum in foro karlioli in medio Ciuitatis quid&lt;…&gt;iger Episcopi
+                Edmundus Walays percussit in capite Walterum Cole de Skaleby cum grossa virga ter
+                &amp; Walterus volens impedire dictum Edmundum ne ampl&lt;………&gt; cepit eum per
+                capucium &amp; interim Ricardus frater Walteri de Botellar’ percussit dictum
+                Walterum Cole retro in dorso cum quodam cultello fere ad mortem propter quod populus
+                erat perter&lt;……&gt; vnde maior &amp; balliui multum moti Connotauerunt
+                Communitatem ad aulam Communem ad inquirendum veritatem de dicta contumelia et
+                interim vicemos maior Ciui &lt;……&gt;Corfton’ juerunt ad Episcopum &amp; rogauerunt
+                eum vt pacificaret homines suos ne amplius delinquerint quousque veritas de
+                transgressione predicta fuerit inquisita …</p>
+                  </div>
+                  <div type="translation">
+                     <p>Inquisition taken at Carlisle, Monday next before the feast of St Michael in the
+                nineteenth year of the reign of King Edward, the third from the Conquest, before Sir
+                Thomas de Lucy, Richard &lt;………&gt;g'ton, assigned by a commission of the lord king
+                concerning some dissensions and discords between the men (who) are in munition of
+                the lord king's castle at Carlisle and the community of the city of Carlisle
+                &lt;………&gt;; by the jurors, Adam de Kyrkeby, Peter Frankys, Thomas de Neuby, John de
+                Mulcastre, Richard de Scraityngham, Richard del Sandes &lt;………&gt; Thomas de
+                Canonuby, John de Ireby, John de Agillonuby, John de Cokedene, and John, son of
+                Simon de Kyrkandres, who say on their (oath) that on Sunday, the vigil of St Peter
+                ad vincula, in the year mentioned above, when the clerks performed a certain play in
+                the market-place of the said city of Carlisle, a dispute broke out between Edmund
+                Walays, servant of the lord bishop of Carlisle, and Walter Cole, man of Sir Peter de
+                Tilliol, because the same Edmund struck the said Walter three times on the head with
+                a certain large stick (and) the said Walter took him, Edmund, by the hood and tore
+                both hood and tunic, and seeing this, Richard del Botelry, servant of the said lord
+                bishop of Carlisle, struck the said Walter with a knife in the back, almost killing
+                him and thereupon the play stopped. And then the said Peter de Tilliol; seeing his
+                man was for this reason in danger of death, sent William &lt;…&gt; Wyclyf, the lord
+                king's coroner, and with him John de Stapleton and Thomas de Neuby, to the said lord
+                bishop of Carlisle, beseeching the same lord bishop, since he had in his retinue in
+                Carlisle Castle the said Richard del Botelria, who struck the aforesaid man, that he
+                would make him answer for the said offence according to the law &lt;…&gt;; the said
+                bishop of Carlisle agreed on behalf of himself and his men that no wrongful acts
+                ought to be committed until the truth of the incident should be ascertained…
+                Transacted at Carlisle, Monday next before the feast of St Michael the Archangel in
+                the nineteenth year of the reign of King Edward, the third from the Conquest, before
+                Sir Thomas de Lucy&lt;………&gt; (they) having been assigned by a &lt;commission&gt; of
+                the lord king to inquire into various articles contained in the commission; by the
+                jurors, Adam de Crofton, Robert de Tybay, Nicholas le Spenser, Wiliam de Morley,
+                thomas Kaskell, Stephen de Acton, Gilbert de Kirkandres, Robert Growce, and Adam de
+                Appylby, who &lt;say&gt; on their oath that on Sunday, the vigil of St Peter ad
+                vincula, just as the clerks began to perform a certain miracle play in the
+                market-place of Carlisle in the middle of the city, Edmund Walays &lt;a certain
+                squire&gt; of the bishop, struck Walter Cole of Scaleby on the head three times with
+                a large stick, and Walter, wishing to prevent the said Edmund from
+                &lt;further………&gt; grasped him by the hood and meanwhile Richard, brother of Walter
+                de Botellar, struck the said Walter Cole from behind in the back with a knife,
+                almost killing him, and on this account the people were &lt;angry&gt;; whereupon the
+                mayor and bailiffs, much disturbated, summoned the commons to the common hall to
+                find ou the truth about the said outbreak of violence and meanwhile the sheriff, the
+                mayor &lt;of the city……&gt; Crofton, (these men) went to the bishop and asked him to
+                restrain his men lest they commit further offenses, until an inquiry should be made
+                concerning the truth of the said offence…</p>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

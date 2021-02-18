@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Farce</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2157">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Farce</title>
+                  </item>
+                  <item>
+                     <date when="1460"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Paris</settlement>
+                        <region>Paris/Île-de-France</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Paris</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.856614, 2.352222</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Interdiction d'autoriser</item>
+                  <item>Pluralisme juridique</item>
+                  <item>Procès</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Publiquement</item>
+               </list>
+               <note>Maître Martin de Bellefaye, lieutenant-criminel du prévôt de Paris, avait permis la
+          représentation d'une farce devant le Châtelet, au mépris d'une injonction contraire faite
+          par les huissiers du Parlement au nom de ce dernier. - L'affaire Martin de Bellefaye,
+          rapportée dans les Registres originaux du Parlement, figure tout au long dans la copie qui
+          en a été faite (sur l'original) dans le BN fr. 16288, ff° 64-65 v, et passim. Dix-neuf
+          mois plus tard, en février 1462, Martin de Bellefaye se démettait de ses fonctions de
+          lieutenant-criminel du prévôt de Paris, et était reçu à l'office de conseiller lai du
+          roi.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7592"
+                    source="S2157"
+                   
+                   
+                   >
+                  <head>Arrêt du 7 juillet 1460</head>
+                  <div type="transcription">
+                     <p>La Cour a ordonné que ledit Martin de Bellefaye, lequel avoit été mandé venir en la
+                Cour de céans, sera emprisonné en la Conciergerie du Palais, y demeurera par
+                l'espace d'un quart d'heure, et sera elargy jusqu'à lundi 7 dudit mois (juillet)
+                qu'il comparoitra en personne à la Cour</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Thuasne, 1923, t. 3. p. 476</bibl>
+                        <bibl type="additional"> Arrêts extraits des Registres du Parlement, copie du xviiie
+                  s., BN Fr. 8064, f°538.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Procès : Jugement</item>
+                        <item>Condamnation : Prison</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7593"
+                    source="S2157"
+                   
+                   
+                   >
+                  <head>Extraits de la Tournelle criminelle. 8 juillet 1460</head>
+                  <div type="transcription">
+                     <p>VIII juillet mil IIIIcLX. Veu par la Court l'informacion faicte par ordonnance
+                d'icelle sur certains excès qu'on dit avoir esté faiz par maistre Martin Bellefaye,
+                lieutenant criminel du prevost [de la prevosté] de Paris, et aucuns sergens du
+                Chastellet a l'encontre d'aucuns des huissiers de ladicte Court. En faisant par
+                ordonnance d'icelle defence a aucuns qui, samedi dernier passé, environ quatre
+                heures après midi, voulurent ➙jouer publicquement devant ledit Chastellet certaine
+                ➙farce, de ne jouer jusques a ce que par ladicte Court autrement en fust ordonné.
+                Ladicte Court ordonne que ladicte informacion sera montrée au procureur general du
+                Roy pour jeudi prochain, céans en jugement, faire telles demandes, requestes et
+                conclusions que bon luy semblera, a l'encontre desditz lieutenant, sergens et
+                ➙joueurs. Et enjoinct a iceluy lieutenant que aucunes fois il viengne céans en
+                personne en jugement, et y amené lesditz sergens et ➙joueurs, et apporte ladite
+                ➙farce. Et sera encores faicte plus ample informacion sur lesditz excès et aussi sur
+                le congié et auctorité par laquelle lesditz joueurs vouloient jouer. Et d'icelle
+                farce en ordonnera comme de raison.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Thuasne, 1923, t. 3. p. 476</bibl>
+                        <bibl type="additional"> Dupuy, 250, f°53 ; BN fr. 5908, f°102.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (manuscrit de la -)</item>
+                        <item>Juridiction : Royale</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7594"
+                    source="S2157"
+                   
+                   
+                   >
+                  <head>26 février 1461</head>
+                  <div type="transcription">
+                     <p>Du vendredy XXVIe februier 1461. En la grant Chambre ou estoient les Chambres
+                assemblées. Me Martin de Bellefaye, bachelier en lois[x?] et licencié en décret, a
+                esté reçu en l'office de conseiller lay du Roy, nostre Sire, en ladite Court ou lieu
+                de Me Math&lt;i&gt;eu de Nanterre o[a?]uquel le Roy a donné l'office de premier
+                Président en la Court de céans. Et a fait ledit Me Martin le serment en tel cas
+                accoustumé, en délaissant par ledit Me Martin l'office et exercice de lieutenant
+                criminel du prevost de Paris.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Thuasne, 1923, t. 3. p. 476</bibl>
+                        <bibl type="additional"> Fr. 16288, ff°88v-89 ; de l'orig., f° 227.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Procès</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

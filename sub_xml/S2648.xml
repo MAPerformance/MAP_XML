@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Facétie</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2648">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Facétie</title>
+                  </item>
+                  <item>
+                     <date when="1526"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Paris</settlement>
+                        <region>Paris/Île-de-France</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Paris</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.856614, 2.352222</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Pommeray, n. 4, p. 249</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Procès</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Prêtre</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8239"
+                    source="S2648"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Magister nicolaus de ponchel presbyter clericus fabrice Sancti Bartholomei in
+                civitate parisiensi citatus per Musnier super defectu se submittit emende ex eo quod
+                die dominica novissima in nuptiis Ludovici et Katherine Aulbin factis ? intersigno
+                Delphini in vico tannerie unacum duobus aliis egit personam in una facetia indutus
+                habitu dissimulato en jouant le personnage de l'amoureux ayant une jacquette bleue
+                et une tocque noyr et une hallebarde sur son col de quo se submittit et si ulterius
+                culpabilis inveniatur et scandalum ex hoc ortum taxata per dominum ad x solidos et
+                soluta (texte très proche reproduit Arch. Nat, ).</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Z1o -23, f° 225 v., § 1</bibl>
+                        <bibl type="additional"> Pommeray, n. 4, p. 249</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Procès : Jugement</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item>Noces</item>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Un clerc de fabrique de Saint-Barthelemy, prêtre, s'est rendu à des noces. là,
+                avec deux autres personnes il représente une « facétie ». Lui-même joue le rôle de
+                l'amoureux avec une jacquette bleue, une toque noire et une hallebarde sur son col.
+                - Pommeray dit que le texte de Z1o -24, f° 201 v. est identique. Si la substance
+                semble semblable, nous n'avons cependant pas affaire à un arrêt identique.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

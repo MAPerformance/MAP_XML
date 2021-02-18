@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Vincent</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2231">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Vincent</title>
+                  </item>
+                  <item>
+                     <date when="1471"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Angers</settlement>
+                        <region>Maine-et-Loire/Anjou</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Angers</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>47.478419, -0.563166</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Roi</item>
+                  <item>René d'Anjou</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Marché</item>
+               </list>
+               <note>Représentation du mystère de Saint Vincent à Angers sur un terrain voisin des halles,
+          appelé le Marché aux bêtes. En concédant l'usage de ce terrain. à la fille de son
+          tapissier, en 1463, René s'était réservé le droit d'y faire jouer des mystères, comme on
+          avait coutume de faire. Le charpentier chargé d'installer le théâtre pour le mystère de
+          Saint Vincent avait élevé.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7695"
+                    source="S2231"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Ung chauffault pour ledit seigneur, roy de Sicile, de vingt et quatre piez de long
+                et trente de large, tout planché d'essil, et oudit chauffault avoit la grant salle,
+                la chambre de retraict pour ledit seigneur et entre deux cloaisons d'essil, logeis
+                pour l'eschanzonnerie, chambres et retraicts segrés, cousues aussi a grans clox de
+                fer.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Lecoy de la Marche, Comptes et mémoriaux du roi René, n° 520
+                  et 740, — le Roi Rene, t. II, p. 144.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Description : Loges</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

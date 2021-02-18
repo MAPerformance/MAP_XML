@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S1972">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1410"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Rouen</settlement>
+                        <region>Seine-Maritime/Haute-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Rouen</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>49.443232, 1.099971</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Gosselin, 1868. p. 13. – Petit de Julleville, 1880, t. 2. p. 17.</bibl>
+                  <bibl type="additional">Archives de l'hôtel de ville, registre des délibérations ;
+              Ch. Richard, Revue de Rouen, « Recherches historiques sur Rouen », 1845, p. 296</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Représentation (mystère)</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+                  <item>Toussaint</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Dès l'année 1410, on avait formé le projet, à Rouen, de jouer le mystère de la
+          Passion ; la représentation devait avoir lieu à la Pentecôte. On commença les préparatifs,
+          mais l'argent manquait. Les circonstances étaient fâcheuses : la guerre civile menaçait,
+          et l'on parlait d'un emprunt forcé qui allait être établi. Le conseil des échevins invité,
+          à donner un subside aux entrepreneurs du mystère, délibéra sur leur requête le 28 mars
+          1410, et décida que « si icelles nouvelles continuoient, et que ledict emprunt courust et
+          eust lieu, que l'on feroit cesser le jeu de la Passion qui devoit estre joué en icelle
+          ville. » L'emprunt fut fait ; le projet de jouer la Passion fut abandonné.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7397"
+                    source="S1972"
+                   
+                   
+                   >
+                  <head>28 mars 1410, Délibération du Conseil des Echevins</head>
+                  <div type="transcription">
+                     <p>Assemblée pour « délibérer sur les moyens de venir en aide à ceux qui préparent la
+                représentation du Mystère de la Passion qui doit être joué aux prochaines fêtes de
+                la Pentecôte. » Mais après examen de la requête, il est décidé que « si icelles
+                nouvelles continuaient et que le dict emprunt courût et eust lieu, que l’on ferait
+                cesser le jeu de la Passion qui devait être joué en icelle ville. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Gosselin, 1868. p. 13 – Petit de Julleville, 1880, t. 2. p. 17.</bibl>
+                        <bibl type="additional"> Ch. Richard, Revue de Rouen, « Recherches historiques sur
+                  Rouen », 1845, p. 296</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Interdiction</item>
+                        <item>Cause : Finance</item>
+                        <item>Type : Délibération municipale</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

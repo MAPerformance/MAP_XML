@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2389">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1490"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Troyes</settlement>
+                        <region>Aube/Champagne</region>
+                        <country/>
+                        <placeName type="bishopric">Troyes</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.296592, 4.074735</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 58 – Boutiot, « Recherches sur le
+              Théâtre à Troyes au XVe siècle », Mémoires de la Société d'agriculture, des sciences,
+              arts et belles-lettres de l'Aube, t. XVIII, 1854, pp. 428-430 et 451.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Organisation : Rôle de Jésus pour un clerc</item>
+                  <item>Représentation (manuscrit de la -)</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Ordre : Frères jacobins</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- On se servit du texte conservé dans un manuscrit qui appartenait autrefois aux
+          archives de cette ville et maintenant se trouve à la bibliothèque municipale (n°2282, anc.
+          1410). Les entrepreneurs de la représentation, n'ayant point couvert leurs frais,
+          demandèrent un secours à la ville, dans l'assemblée générale du 11 juin suivant (dite de
+          la Saint-Barnabé). Les recettes montaient à 356 livres environ : les dépenses à six ou
+          sept cents. L'un et l'autre chiffres sont médiocres, si on les compare à ceux que nous
+          citons ailleurs. (Voy. 1509, Romans; 1547,Valenciennes, etc.) L'assemblée décida que, « en
+          faveur et par considération de ce que le mystère avait été joué pour l'honneur et
+          révérence de Dieu, et au décorement de la ville, » il serait accordé aux compagnons la
+          somme de cinquante livres sur les deniers communs; mais à la condition « que les
+          compagnons seraient tenus de bailler et délivrer les livres de la Passion en la chambre de
+          ville, pour là les garder, pour les recouvrer et avoir quand il serait besoing au temps
+          advenir ». Le 5 juillet suivant, Jehan Garbonnier, charpentier, et Huguenin Raguin,
+          cordonnier, pour eux et pour les autres compagnons, donnent quittance des 50 livres au
+          receveur de la ville. Ainsi fut acquis le précieux manuscrit que possède encore
+          aujourd'hui la bibliothèque de Troyes. Mais il lui fut livré malheureusement incomplet,
+          car l'année même de l'acquisition, les échevins ayant fait « relier, fermer, clouer, et
+          mettre en ordre » le manuscrit par Pierre Clérembault, trompette de la ville, la quittance
+          de ce dernier, qui reçut quarante sous pour sa peine, indique seulement trois volumes. Ces
+          trois volumes ne formaient alors comme aujourd'hui que trois journées. Or la Passion de
+          Troyes, comme celle de Greban, qu'elle reproduit presque intégralement, devait en former
+          quatre. En effet la seconde journée, renfermant les faits de la vie publique de
+          Jésus-Christ depuis la prédication de Jean-Baptiste jusqu'aux premières scènes de la
+          Passion, fait défaut. Dans la même assemblée générale de la Saint-Barnabé, frère Nicole
+          Molu, prêtre jacobin, remontra que depuis plus de sept ans, à la prière de plusieurs
+          bourgeois, il avait joué le personnage de Jésus, qu'il avait fait de grands frais pour ses
+          habillements, avait délaissé et abandonné sa vocation et ses prédications pour étudier et
+          jouer son personnage. Cette requête fut accueillie avec faveur par l'assemblée, qui
+          accorda au frère jacobin la somme de 20 livres tournois.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7980"
+                    source="S2389"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le conseil de ville décida que « durant les jours que se jouera et démontrera le
+                mystère de la glorieuse passion de N. S. J.-C. six hommes seront au Beffroy, six
+                hommes à Croncels, six à Saint-Jacques, et deux à chacune des autres portes.
+                D'autres encore iront par la ville et dans les quartiers pour voir quelles gens vont
+                et viennent.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Boutiot, « Recherches sur le Théâtre à Troyes au
+                  XVe siècle », Mémoires de la Société d'agriculture, des sciences, arts et
+                  belles-lettres de l'Aube, t. XVIII, 1854, p. 428.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Organisation : Sécurité</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

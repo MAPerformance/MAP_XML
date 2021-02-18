@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2268">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1477"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Clermont-Ferrand</settlement>
+                        <region>Auvergne</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>45.777222, 3.087025</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 40.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Représentation (mystère)</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Vers cette année-là on dut jouer la Passion à Clermont-Ferrand, ou du moins en
+          Auvergne ; le seul indice que nous possédons de ce fait oublié, c'est une pièce satirique
+          en patois auvergnat, datée de 1477 et transcrite par Dulaure dans ses recueils de copies
+          ou d'extraits. Comme le prétexte de cette satire est le repas que Simon de Béthanie offre
+          à Jésus et l'ordre qu'il donne à ses deux valets Mallegorge et Malbec d'aller chasser pour
+          « avoir viande necte », je suppose qu'elle était introduite pour l'amusement des
+          spectateurs du cru dans le texte d'une Passion ordinaire, comme on faisait ailleurs les
+          couplets du fou. - Cette pièce est curieuse, mais trop étrangère aux mystères pour trouver
+          place ici. Nous la reproduirons dans une autre partie de cet ouvrage (le Théâtre comique
+          au moyen âge). Mallegorge et Malbec s'en vont en chasse, et drossent leurs rets d'abord
+          sans rien prendre, puis attrapent une bête appelée Mallegeype, qui se moque, en patois
+          d'Auvergne, de tous les Auvergnats petits et grands, des petits qui sont lâches et des
+          grands qui sont rapaces.</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

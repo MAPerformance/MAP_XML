@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Crépin et saint Crépinien</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2064">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Crépin et saint Crépinien</title>
+                  </item>
+                  <item>
+                     <date when="1443"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Paris</settlement>
+                        <region>Paris/Île-de-France</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Paris</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.856614, 2.352222</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 16</bibl>
+                  <bibl type="additional"> Lalou, Élisabeth, Le mystére de saint Crépin et saint
+              Crépinien, thèse pour le diplôme d'archiviste paléographe, 1980.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Sujet : Histoire sacrée</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Saint Martin</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>C’est l'un des deux manuscrits que nous possédons du mystère de saint Crépin et de
+          saint Crépinien, qui semblent indiquer une représentation donnée à Paris en 1443
+          (cf. doc.) - A l'année 1458, on trouvera deux témoignages qui attestent une seconde
+          représentation du même mystère donnée à Paris celte année-là.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7507"
+                    source="S2064"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>C'est la vie et le martire de monseigneur saint Crispin et Crispinien par
+                personnages. Laquelle vie et martire a esté faict des deniers de lostel de la
+                charité Dieu, Monsr saint Martin, saint Hemy, saint Crispin et Crispinien, et fut
+                fait du commandement et volonté du prevost et eschevin, et de tous les frères
+                serviteurs qui pour lors estoient et dont les noms ensuivent... Et fut fait l'an mil
+                IIIIc XLIll au siège de este feste saint Martin.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Catalogue Soleinne, t. I, p. 105, n°566.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Rôle (distribution de -)</item>
+                        <item>mpulsion : municipale</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Résurrection</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2230">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Résurrection</title>
+                  </item>
+                  <item>
+                     <date when="1471"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Angers</settlement>
+                        <region>Maine-et-Loire/Anjou</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Angers</placeName>
+                        <placeName type="eccl_province">Tours</placeName>
+                        <geo>47.478419, -0.563166</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Contrairement à ce que dit l’édition imprimée, le roi René ne reparut pas à Angers
+          depuis le mois de septembre 1471. C'est donc en 1471 au plus tard que la Résurrection de
+          Jean Michel fut représentée devant lui. Mais il n'est pas probable qu'elle l'ait été
+          beaucoup plus tôt. Car c'est en 1486 que Jean Michel fit représenter avec un si grand
+          succès sa fameuse Passion ; c'est pendant les années suivantes qu'il exerça avec activité
+          sa profession de médecin ; et quand il mourut en 1501, il ne semble pas que la vieillesse
+          l'eût encore atteint. Jean Michel a dû naître entre 1435 et 1440, et comme ses études
+          médicales durent, pendant sa jeunesse, absorber une grande partie de son temps, il n'est
+          pas probable qu'il ait pu achever longtemps avant 1470 un mystère aussi développé que
+          celui de la Résurrection. Nous ne pensons pas pouvoir nous tromper beaucoup en assignant
+          cette date à son œuvre. Cette année-là, René revint d'Aix à Angers, au mois d'octobre, et
+          il résida le plus habituellement dans cette ville jusqu'au mois de septembre de l’année
+          suivante (1471), où, comme nous avons dit, il partit pour ne plus revenir.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7694"
+                    source="S2230"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Cy finist le mistere de la résurrection de Nostre Seigneur Jesu-Crist composé par
+                maistre Jehan Michel et joué a Angiers triumphament devant le roi de Cécile (René le
+                Bon)</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">L'édition imprimée de. la Résurrection de Jean Michel se
+                  termine par la note suivante.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

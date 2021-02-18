@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saints Félix, Fortunat et Achille</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2633">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saints Félix, Fortunat et Achille</title>
+                  </item>
+                  <item>
+                     <date when="1524"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Valence</settlement>
+                        <region>Provence</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>44.933393, 4.892360</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 113.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Motif : Protection de la ville</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Le mystère de ces trois saints fut joué à Valence en 1524.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8229"
+                    source="S2633"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Les manans habitans de la ville de Valence, pour préserver et garder leur ville des
+                pestes et autres maladies et inconveniens et la tenir en prospérité et en sancté,
+                dès longtemps ont par une ancienne et louable coustume et observance accoustumée, de
+                vingt-cinq en vingt-cinq ans, ou autre temps limité, joué ou fait jouer l'ystoire
+                des glorieux saincts martyrs Félix, Fortunat et Achille desquels les corps reposent
+                en icelle ville ; ce qu'ils ont délibéré de faire cette année présente en laquelle
+                escheut ledict temps et terme limité.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Ollivier, Essai sur Valence, p. 154 et 311. Les lettres sont
+                  du 10 fév. 1524.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Ce témoignage est extrait de lettres patentes de Louise de Savoie, régente de
+                France, qui accordent aux habitants de Valence une exemption des droits de péage
+                pour les bois nécessaires à la construction du théâtre et autres ouvrages de
+                charpente, destinés à cette représentation.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

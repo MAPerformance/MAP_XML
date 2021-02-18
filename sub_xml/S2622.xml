@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sottie à dix personnages</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2622">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Sottie à dix personnages</title>
+                  </item>
+                  <item>
+                     <date when="1523"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Genève</settlement>
+                        <region>Genève</region>
+                        <country>Suisse</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.198392, 6.142296</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Coindet et Chaponnière, 1841. p. 153. – Le Roy, 1868. p. 1. – Naef, 1968, t. 1.
+              p. 441. – Petit de Julleville, 1886. p. 238.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Dimanche des Bordes</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Place publique</item>
+               </list>
+               <note>- Sottie publiée dans Recueil général, t. 2, sous le titre de “Sottie des Béguins”(p.
+          265-298). - Le Dimanche des Bordes est celui précédant le mercredi des Quatre-Temps
+          [Coindet et Chaponnière]. Dimanche des Brandons, le premier de Carême[Petit de Julleville]
+          - cf. Sottie de 1524, même date, même ville.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8221"
+                    source="S2622"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Madame s'en alla delà du pont d'Arve, et s'en vint sus ung chariot triomphant.
+                Monsieur son mary, Monsieur de Bonmont et ungsien Escuier s'estoient en masquez d'un
+                certain mantel gris avec ung chapperon à gorge du même drap. Et tous trois
+                accoustrez d'une parure, sur leurs mules, furent aussy bien resgardez que Madame et
+                tout le mistère que l'on jouoit pour Elle. Premièrement luy vindrent au devant les
+                Sindiques accompaignés de leurs Conseilliers bien montez et auprès de Nostre-Damede-
+                Grace, luy avoir raiel la tres-humble reverence et le bien venant luy misrent sons
+                ung paille de taphetas blanc, frangé de blanc et tané qu'estoit la devise de la
+                dicte dame, lequel portoient les dicts quatre sindiques, et elle estoit sur ung
+                petist branle à deux chevauls richement acoustrée. Procêdans par Plain·Palais luy
+                vindrent an devant premierement cinq centz hommes, beauls personnaiges des plus
+                eminans de la ville, tous vestus d'habis blancz, les ungz de drap et toille
+                d'argent, les anltres de satin de damas et de taphetas deschiquestés et entrelassés
+                de soye tanée pour faire la devise de la dicte dame. Les ungs pourtoient piques et
+                les aultres grans espées et estoit leur capitaine Jehan Philippe acoustré d'ung
+                manteau de velour tané doublé de toille d'argent et avoyt sa femme quant et quant
+                luy belle et richement acoustrée que faisoit beau veoir. Le porteur d'enseigne
+                estoit Claude Richardet, et estoit la dicte enseigne de taphetas blanc et tané. Et
+                quant ilz passêrent en ordre par devant la dicte dame, le dict Capitaine la salua
+                par le couplet qui s'ensuyt : Dame de grant magnifficence La tres-bien arriyee soyes
+                Icy venons en ordonnance Pour vous donner resiouyssance. Vostres soms telz que vous
+                Yoyes Nous ferions pour vous, croyes Plus que pour Dame qui ait vie. Vous nies bien
+                destrc servie. Après ceulx-cy vindrent les dames bourioyses de Geneve pourtant en
+                leurs testes bonnestz de toille d'argent et de satin blanc, eornestes de tané sous
+                grisphes d'or; leurs roubes estoient les unes de toille d'argent, les aultres de
+                satin damas et aultre soye blanche deschiquestée à la mode geneveysane, et bordée à
+                trois bandes larges de quatre dois de velour tané, avec chausses et soliers blancz
+                portant dars et targuestes (boucliers, écus) blancz et tané. Les femmes, leurs
+                coltes restroussées jusques au genouil, pourtoient une chascune une legere rondelle
+                (bouclier) à la main gauche, et ung dard ou javelot à la droicte, que faisoit beau
+                veoir et estaient au nombre environ de trois cens. Leur Capitaine estait la femme du
+                seigneur Françoys d'Espaigne, seigneur d'Av ully, belle et bien acoustrée de drap
+                d'argent avec ses appartenances. Celle qui portait l'enseigne estait la Nycolarde,
+                fille du sire Jaques Frojon, conseillier de la ville, et avec ce qu'elle fust bien
+                acoustrée, elle heust grâce à porter la dicte enseigne, car elle marchoit bien et
+                estait grande et pui~sante pour bien la contourner, • et vrayemenlla porleresse
+                d'enseigne estoit « une belle grant femme qui la manioit et • bransloit aussi
+                proprement comme eust « sçeu faire ung souldart qui n'auroit toute « sa vie faiel
+                auUre chose.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Le Roy, 1868. p. 0,005 – Coindet et Chaponnière, 1841. p. 146.</bibl>
+                        <bibl type="additional">Bonivard, Chronique, t. II, p. 390.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

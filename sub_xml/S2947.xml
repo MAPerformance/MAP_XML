@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moralité de Timon, Jupiter, Mercure, Plutus, Pauvreté, Le Parasite, le
+                Flatteur, L’Ecornifleur, Trafictès, Philosophe</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2947">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Moralité de Timon, Jupiter, Mercure, Plutus, Pauvreté, Le Parasite, le
+                Flatteur, L’Ecornifleur, Trafictès, Philosophe</title>
+                  </item>
+                  <item>
+                     <date when="1560"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Bordeaux</settlement>
+                        <region>Aquitaine</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>44.837789, -0.579180</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1886. p. 314</bibl>
+                  <bibl type="additional"> Archives historiques de la Gironde, t. III, p. 466 – E.
+              Gaullieur, Histoire du collège de Guyenne, p. 256.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Représentation (farce)</item>
+                  <item>Organisation : Représentations multiples</item>
+                  <item>Scolaire</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Ecoliers</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Collège</item>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8609"
+                    source="S2947"
+                   
+                   
+                   >
+                  <head>3 Février 1559 (1650 nv. st.). Arrêt du parlement de Bordeaux qui permet au régent
+              du collège de Guyenne de faire jouer publiquement une comédie, une moralité et une
+              farce.</head>
+                  <div type="transcription">
+                     <p>Sur la requeste présentée à la court par M Jehan Denisers, premier régent du
+                couliège aux fins qu'il lui plust permettre faire jouer publiquement certaine
+                comédie intitulée : Regnorum integritas concordia retinetur, de laquelle sont
+                personnages : Pax, Miles, Mercator, Sano senex, Gecta serveux, Neoptolemus, Passa
+                virgo, Galla meretrix, Fedra puella, Parfillus, Toxfillus serveux, Soforna ancilla ;
+                ensemble une moralité en la quelle sont personnages : Timon, Jupiter, Mercure,
+                Plutus, Pouvreté, le parasite, le flatteur, l'escornifleur, Tracfictes, philosophe ;
+                ensemble une farce à six personnages, assavoir : Robinet, Jehanot, son fils, le
+                vicaire, le buliste, Roguelant, son cuisinier, Jacquette. ICELLE COURT, ouy le
+                rapport de Me Estienne La Boëtie, conseiller commis pour veoir lesdites comédie,
+                moralité et farce, qui aurait dit n'y avoir trouvé aucunes choses scandaleuses, a
+                permis et permet audit Jehan Denisers icelles faire jouer publiquement </p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Lépicier, 1862, t. 3. p. 466</bibl>
+                        <bibl type="additional"> Arrêt du parlement, B, 130.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Arrêt</item>
+                        <item>Contrôle : Parlement</item>
+                        <item>Autorisation accordée</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

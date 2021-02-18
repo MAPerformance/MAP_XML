@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Blaise</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2491">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Blaise</title>
+                  </item>
+                  <item>
+                     <date when="1506"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Seyssel</settlement>
+                        <region>Savoie</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>45.958589, 5.849959</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 88.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- C'est par simple conjecture que nous plaçons à Seyssel (Haute-Savoie) la
+          représentation, vers l'année 1506, d'un mystère de Saint Biaise. Nous savons seulement que
+          Bonnivard, le célèbre prisonnier de Chillon, reçut un rôle « en son enfance » dans une
+          « tragédie » de Saint Blaise qui dut être jouée dans cette ville ou aux environs ; car on
+          croit qu'il passa dans cette région les premières années de sa vie. Le fait est rapporté
+          dans l'Advis et Devis des Lengues, traité qu'il composa en 1563. [Petit de
+          Julleville]</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8071"
+                    source="S2491"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>En mon enfance je fus enroullé avec un autre enfant pour jouer en une tragédie de
+                la passion et martire de Saint Blaise, ou failloit avoir II enfantz avec leur mère
+                par sa parolle convertiz a Jésus Christ, et aussi des soldats qui le menoient au
+                martyre ; mais pour ce que l'histoire latine disoit milites, lesdictz soldatz qui ne
+                servoient illec que de borreaux y estoient accoustrez en chevalliez qui me faisoit
+                alors penser que les empereurs ne se servoient d'autres borreaux que de
+                chevalliez.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Bibliothèque de l'École des Chartes, série B, t. V, p. 340
+                  (id. ibid., p. 290, et id., t. II, p. 385).</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- L'auteur dans ce passage veut faire ressortir l'inconvénient qu'il y a à
+                traduire par chevalier miles qui signifie soldat, en général. Bonnivard était
+                Savoyard ; il naquit en 1496, ce qui nous autorise à placer vers 1506, et à Seyssel,
+                où il paraît avoir passé son enfance, la représentation de ce mystère de Saint
+                Blaise. Car ce fut certainement un mystère, quoique Bonnivard le nomme tragédie ;
+                mais il écrivait en 1563, en pleine Renaissance.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

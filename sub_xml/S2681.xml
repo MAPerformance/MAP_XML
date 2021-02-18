@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Jacques</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2681">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Jacques</title>
+                  </item>
+                  <item>
+                     <date when="1530"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Compiègne</settlement>
+                        <region>Oise/Picardie</region>
+                        <country/>
+                        <placeName type="bishopric">Soissons</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.417816, 2.826145</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 115 – Sorel, notice citée, p. 48. H. de
+              l'Epinois, « Notes extraites des archives de Compiègne », Bibl. de l'École de Chartes,
+              série E, t. V, p. 146.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Dominicains</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Ordre : Frères prêcheurs</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Vers 1530, la ville de Gompiègne accorda un subside à la confrérie de Saint-Jacques
+          de Compostelle, fondée en l'église des Dominicains, pour avoir joué « par misteres et
+          personnages, certain miracle de monseigneur saint Jacques ». Dans la même ville, en 1515,
+          le 1er février, on avait joué un mystère dont le titre n'est pas connu. En 1531, on en
+          joua un autre (également anonyme) le 15 septembre, « dans la rue devant les prisons pour
+          célébrer l'arrivée de la reine Éléonore ». En 1538, on joua aussi un mystère dont le nom
+          ne nous est pas connu davantage, « à l'honneur et louange de la reine de Hongrie ».
+          L'auteur était Loys Chocquet, demeurant à Pont-Saint-Maxence. Loys Chocquet est l'auteur
+          du mystère de l'Apocalypse, imprimé en 1547 à la suite des Actes des Apôtres.</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2441">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1500"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Argentan</settlement>
+                        <region>Orne/Basse-Normandie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Sées</placeName>
+                        <placeName type="eccl_province">Rouen</placeName>
+                        <geo>48.744001, -0.016566</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 79.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Récurrence</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>René d'Anjou</item>
+                  <item>Roi</item>
+                  <item>Pape</item>
+                  <item>Prêtre</item>
+                  <item>Clerc-acteur</item>
+                  <item>Confrérie</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>M. l'abbé Laurent suppose que l'institution de cette confrérie dut être provoquée, ou
+          du moins favorisée par Marguerite de Lorraine, duchesse d'Alençon, qui résidait souvent à
+          Argentan, et dont la jeunesse s'était écoulée à la cour du Roi René, son grand-père, au
+          milieu des fêtes religieuses de l'Anjou et de la Provence. (Voy. 1540, Argentan.)</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8031"
+                    source="S2441"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Au commencement de l'année 1500, notre saint Père le Pape (Alexandre VI), sur
+                requête à lui présentée, accorda aux prêtres d'Argentan de représenter la Passion de
+                Notre-Seigneur et le Martyre des Saints. D'où l'on peut conjecturer que ce fut là
+                l'institution de la confrérie aujourd'hui existante (la confrérie des prêtres ou du
+                saint sacrement) puisque les dépenses de ces jeux ont toujours été payées, d'après
+                les comptes, par la dite confrérie.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Journal de Thomas Prouverre, administrateur de la Confrérie
+                  du Saint-Sacrement de 1669 à 1671. Des extraits en ont été donnés par M. l'abbé
+                  Laurent : Saint-Germain d'Argentan, Argentan, impr. Barbier, 1859, p. 139.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Statut</item>
+                        <item>Type : Document pontifical</item>
+                        <item>Autorisation papale</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

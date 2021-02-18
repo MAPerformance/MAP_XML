@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère des Actes des Apôtres</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2735">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère des Actes des Apôtres</title>
+                  </item>
+                  <item>
+                     <date when="1536"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Bourges</settlement>
+                        <region>Berry</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>47.081012, 2.398782</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 1. p. 377. – Petit de Julleville, 1880, t. 2.
+              p. 130</bibl>
+                  <bibl type="additional"> Registre des actes capitulaires, 5 déc. 1535 – Girardot,
+              ouvrage cité, p. 2 – Histoire du Berry, liv. VI, ch. VII, t. II. (Éd. 1566,
+              in-fol.)</bibl>
+                  <bibl type="additional"> Sur Jehan Chaponneau, principal organisateur de cette
+              représentation : Les Mystères t. I, p. 338, et Notice sur Jehan Chaponneau, par Emile
+              Picot, in-12, Paris, Morgand et Fatout, 1879. —Voy. aussi, sur la représentation des
+              Actes, Relation de l'ordre de la triomphante et magnifique monstre du mystère des SS.
+              Actes des Apostres, etc., Jacques Thiboust, publiée par Labouvrie, Bourges, Manceron,
+              1836, in-8°.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Dimanche</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Chanoine</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Théâtre antique</item>
+               </list>
+               <note>- La fameuse représentation des Actes des Apôtres à Bourges commença le dimanche 30
+          avril 1536. Elle eut lieu dans l'ancien amphithéâtre romain, qui n'a été comblé qu'au
+          XVIIe siècle. Le clergé, la magistrature, la bourgeoisie prirent une part également active
+          et dévouée à cette représentation dont l'éclat devait rester incomparable. Le chapitre de
+          la cathédrale dispensa de l'assistance aux offices ceux des chanoines qui avaient accepté
+          un rôle dans la pièce. Nous avons parlé déjà de celte représentation mémorable ; nous
+          ajouterons seulement quelques détails à ceux qu'on a pu lire au tome Ier de cet ouvrage
+          (p. 377). Ainsi de la liste des « sainctes qu'il conviendra faire pour le mistere des
+          Actes des Apostres », publiée par M. de Girardot, nous extrairons les faits les plus
+          curieux, et les plus propres à nous renseigner sur l'état de l'art du machiniste et du
+          décorateur à la fin du moyen âge. Cette liste des accessoires est soigneusement divisée
+          par livres comme le texte lui-même. La décoration changeait d'un livre à l'autre.
+          Autrement, la scène déjà si compliquée, eût présenté l'aspect d'un inextricable
+          amoncellement de villes, de palais, de montagnes, etc. Dans le livre I, il se faisait au
+          Paradis « ung grant tonnerre organisé » au moment de la descente du Saint-Esprit sur les
+          apôtres ; et plus tard un « grant tremblement de terre ». Les saints Pierre et Paul
+          devaient s'échapper de leur prison sans qu'on vît comment. Dans le livre II, le visage de
+          saint Etienne resplendissait un moment comme un soleil (comment obtenait-on cet effet en
+          plein jour ?). Un éclair suivi de tonnerre foudroyait Saulus sur le chemin de Damas. On
+          voyait dans le livre III un chameau et un dromadaire mécaniques. Saint Paul et saint
+          Thomas s'embarquaient et passaient la mer. Un lion arrachait la main d'un païen. « Ung
+          vaisseau plain de toutes espèces de bestes » descendait du Paradis et y remontait.
+          Caligula se promenait sur un char attelé de plusieurs chevaux. Ce môme empereur était
+          massacré, sans danger pour lui, grâce à « une secrète de teste ou estomach ». Des diables
+          apparaissaient dans les airs. Dans le livre IV, un chal-huant de funeste augure voltigeait
+          sur la tête de Hérode Agrippa; on décapitait saint Jacques ou un mannequin à sa place; on
+          appelait cet accessoire une « décollation ». Dans le livre V, on voyait ramper un serpent
+          d'airain, ricaner une idole, on entendait chanter un chien ; un petit diable sortait du
+          corps d'une possédée. Les apôtres voyageaient dans une nuée. Après le trépas de la Vierge,
+          ils s'en retournaient « par soubz terre chacun en sa région ». Pour jouer le livre VI
+          « fault avoir deux tarières fainctes pour crever les yeulz a saint Mathieu, et fault des
+          yeux faincts procedans dedans les dites tarières ». Deux dragons merveilleux jettent « feu
+          par les yeux, nez, gueulles et oreilles ». Un autre, « le plus horrible que faire se
+          pourra, » se couche aux pieds de saint Matthieu. On brûle vif saint Barnabé, du moins
+          « ung corps fainct plain d'os et de trippes » qu'on substitue adroitement à saint Barnabé.
+          Deux tigres sortent de terre pour suivre les apôtres et se changer en moutons, au moyen
+          d'une trappe. « Fault ung nud ou une carnacion pour escorcher sainct Bartholomy. Sera mis
+          sainct Bartholomy sur une table tornisse et dessoubz ung nud, et en le couvrant d'un
+          linceul fault secrètement tourner la table. » Tout ce livre VI ressemble à une
+          féerie^moderne. Le livre VII n'était guère moins prestigieux : saint Thomas y marchait sur
+          des fers rouges, et sortait « tout sain » d'une fournaise. Un serpent s'enroulait autour
+          d'un chêne en jetant des flammes. Simon le Magicien changeait plusieurs fois de visage
+          devant les spectateurs. Dans le livre VIII, un navire devait virer de bord sur la scène.
+          Une meute de chiens se jetait sur saint Pierre, et s'enfuyait, hurlante, en enfer. Le
+          livre IX s'ouvrait par un truc assez compliqué : « Fault une haute tour en forme de
+          Capitole sur laquelle montera Symon Magus pour voiler, et y doit venir une nue collisse, a
+          demy ronde, pour l'eslever en l'air ; puys se doit oster la dits nue et montrer le corps
+          dudit Symon a descouvert ; puys a la prière de saint Pierre doit cheoir a terre et se
+          rompre la teste et jambes… Sera décapité saint Pol et fera la teste troys saulx, et de
+          chacun sortira une fontaine dont sourdra laict, sang, et eau. » Jean Chaumeau, sieur de
+          Lassay, historien du Berry, n'a pas omis de faire mention de ces jeux : « lesquels ne
+          furent moins laborieux, dit-il, pour n'avoir auparavant esté réduits par actes et scènes,
+          que bien et excellemment jouez par hommes graves et qui sçavaient si bien feindre par
+          signes et gestes les personnages qu'ils représentaient, que la plupart des assistants
+          jugeaient la chose estre vraie et non feinte ». L'amphithéâtre « estoit a deux estages,
+          surpassant la sommité des degrez ; couvert et voislé par dessuz, pour garder les
+          spectateurs de l'intempérie et ardeur du soleil, tant bien et excellemment peint d'or,
+          argent, azur et autres riches couleurs que possible est le sçavoir reciter ».
+          L'amphithéâtre « estoit a deux estages, surpassant la sommité des degrez ; couvert et
+          voislé par dessuz, pour garder les spectateurs de l'intempérie et ardeur du soleil, tant
+          bien et excellemment peint d'or, argent, azur et autres riches couleurs que possible est
+          le sçavoir reciter ». La représentation des Actes des Apôtres à Bourges avait eu un grand
+          retentissement jusque dans les provinces voisines. Dans une de ses épîtres familières (CI)
+          Jean Bouchet, (à la date du 15 mai 1536) s'excuse à messire Jean Chaponneau, docteur en
+          théologie, de Bourges, et metteur en scène du mystère, de ne pouvoir assister à la
+          représentation des Actes. Il se plaint qu'on l'ait cru dédaigneux de ces jeux, dont il
+          fait un magnifique éloge ; mais il est vieux, malade, occupé. Il souhaite bonne chance aux
+          ordonnateurs : mais le succès est difficile, Car chascun n'est a contenter facile. J'y ay
+          passé, je scay très bien que c'est. </note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8323"
+                    source="S2735"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Haec ➙scena augusti et moles operosa ➙theatri, Speclator, votis aedificata piis ;
+                Munera funestae tibi non promittit arenae ; Non locus est vestris, Flora Venusque,
+                jocis. Sed nostrae fuerit quae relligionis origo, Quid pietas edit, quid sit et unde
+                salus. Specta igitur, non ut visu oblecteris inani, Verum ut quod facias, quodque
+                sequare habeas.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Les mystères, t. II, p. 130.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Cette scène et la masse auguste de ce théâtre élevé à grand effort, pour
+                répondre à de pieux désirs, ne te promet pas, ô spectateur, les combats funestes de
+                l'arène. Non, ce lieu, ô Flora, ô Vénus, ne convient plus à vos jeux. Mais quelles
+                furent les origines de notre religion, les oeuvres de la foi, la nature et les voies
+                du salut, vois-le ici même et, loin de te complaire dans un spectacle frivole,
+                apprends ce que tu dois pratiquer et ce que tu dois imiter. - A l'entrée du théâtre
+                érigé dans ce lieu payen, on avait écrit ces vers de Jacques Robert.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

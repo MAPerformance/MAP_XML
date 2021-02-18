@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Germain</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2111">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Germain</title>
+                  </item>
+                  <item>
+                     <date when="1452"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Auxerre</settlement>
+                        <region>Bourgogne</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>47.798202, 3.573781</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 22 – Abbé Lebeuf, « Remarques envoyées
+              d'Auxerre le 6 déc. 1728 », Mercure de France. Déc. 1729, p. 2982.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Ordre : Frères mineurs</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Eglise</item>
+               </list>
+               <note>- En 1452, à Auxerre, furent joués la vie et les miracles de saint Germain, évêque de
+          cette ville. La représentation eut lieu dans l'église des Cordeliers et devant le peuple.
+          Ce fait embarrassait Magnin qui affirmait, sans preuves suffisantes, que jamais mystère en
+          langue française n'avait été représenté dans une église. Il se demandait si le mystère de
+          saint Germain n'était pas écrit en latin ou si l'église des Cordeliers n'était pas
+          soustraite au culte. Ces suppositions sont superflues. Durant tout le moyen âge (et
+          jusqu'à nos jours) on n'a cessé de jouer des mystères en français dans les églises. [Petit
+          de Julleville]</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

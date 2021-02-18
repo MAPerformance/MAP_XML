@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vie de Sainte Marguerite de Poitiers</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2351">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Vie de Sainte Marguerite de Poitiers</title>
+                  </item>
+                  <item>
+                     <date when="1486"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Paris</settlement>
+                        <region>Paris/Île-de-France</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Paris</placeName>
+                        <placeName type="eccl_province">Sens</placeName>
+                        <geo>48.856614, 2.352222</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Pommeray, p. 420.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Procès</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Jeune</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Hôtel</item>
+               </list>
+               <note>Un jeune homme laïc doit payer une amende pour avoir joué un mystère rapportant le
+          miracle et la vie de sainte Marguerite de Poitiers, donné il y a un an dans l'hôtel de
+          Rambouillet. - À vérifier : c'est le dernier cas d'une condamnation d'un laïc par
+          l'official pour ce qui est des mystères, seuls les clercs seront ensuite jugés par le
+          tribunal ecclésiastique.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7940"
+                    source="S2351"
+                   
+                   
+                   >
+                  <head>Jugement de l’officialité, Mercredi 4 octobre 1486</head>
+                  <div type="transcription">
+                     <p>Johannes Dinanceau junior commorans in vico sancti Honorati penes suum patrem ad
+                intersignum delfinis etc. emendavit lusisse in domo de Rabouillet ab an/no citra in
+                quodam ludo de quodam miraculo seu vita beate margarite de poitiers absque hoc quod
+                ludus fuisset visitatus seu approbatus.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Z1o -18, f° 192 v., § 1</bibl>
+                        <bibl type="additional"> Pommeray, n. 3, p. 420</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Procès : Jugement</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

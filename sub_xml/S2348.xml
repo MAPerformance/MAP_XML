@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Sainte Catherine du mont Sinaï</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2348">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Sainte Catherine du mont Sinaï</title>
+                  </item>
+                  <item>
+                     <date when="1486"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Metz</settlement>
+                        <region>Lorraine</region>
+                        <country/>
+                        <placeName type="bishopric">Metz</placeName>
+                        <placeName type="eccl_province">Trèves</placeName>
+                        <geo>49.119666, 6.176905</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 52.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7935"
+                    source="S2348"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>En icelluy temps l'on juoist le jeu saincte Katherine du mon de Sinay en Chambre,
+                duquel je avois esté requis pour eu estre, et se devoit juer es festes de la
+                Pentecouste, ledit an mil iiij. c. et iiij XX et VI (1486). Et fut cellui jeu moult
+                bien jué avec biaulx mystères et fut la ste Katherine ung jonne filz barbier, natif
+                de nostre dame d'Ais, en Allemaigne ; lequel l'an devant avoit desjay esté la ste
+                Bairbe, au jeu ste Bairbe, et fist par trois jours si bien son personnaige qu'il
+                n'estoit possible de mieulx faire. En cellui temps je resamblois tant bien a cellui
+                gairson que l'on m'ait prins XVII fois pour lui, et pour ce, me amoit fort ledit
+                gairson et voulloit tousjours que je fusse l'une de ses demoiselles a cellui
+                jeu.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Gedenkbuch des Metzer bürgers Philippe von Vigneulles ans
+                  den Jahren 1471 bis 1552, publié par Michelant, Stuttgart, 1852.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Philippe de Vigneulles ajoute à ce récit des détails personnels curieux, il
+                avait à l’époque quinze ans (naissance : 1471).</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7936"
+                    source="S2348"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le rôle de la sainte fut confié à ce jeune apprenti barbier, nommé Lyonard, « qui
+                estoit un très beau fils et ressembloit une belle jeune fille, et avoit l'année
+                d'avant si preudement et desvotement fait le personnage de madame sainte Barbe que
+                plusieurs pleuroient de compassion ». Cependant « le mystère de Sainte Catherine ne
+                fut pas si agréable au peuple parce que ledit Lyonard avoit desja un peu mué sa
+                voix, et avec ce les personnaiges et la rhétorique ne le langaige n'estoient point
+                si bien aornez comme ceulx du jeu et mistere de Sainte Barbe ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Huguenin, Chroniques de Metz — Abel, Mystère de saint
+                  Clément, préface, p. XVI.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Distribution des rôles</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

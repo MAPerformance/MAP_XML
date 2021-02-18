@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion et de la Résurrection</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2532">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion et de la Résurrection</title>
+                  </item>
+                  <item>
+                     <date when="1510"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Caylux</settlement>
+                        <region>Quercy/Toulouse</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>44.235841, 1.771856</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 98.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8123"
+                    source="S2532"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>En sec se so que ieu ay mes et fach per la companhia et que es mio. Lo jorn que
+                mosseu Anthoni Madie anet querre sab raubras forniguery als fustiers en hun péchié
+                de vy, 4 dinies. Item fezeri portar los banctz de la gleyza per mètre al torn del
+                portal per sing companhos que donery a cascun 4 dinies que monta en soma a 20
+                dinies. Item ay moy mes en très mejas pels de pargamen per far de canos (?) 3 sols.
+                Itemn per sinq rolles que ay fach valen 2 sols. Item 2 dinies en papier per envollar
+                la Resurrectio 2 dinies. Item ay moy fromic 4 denies en hun péchié de vy quant
+                ariben las crosetz dels layros. Item.ay facha una citation am sies traylatz par
+                levar las restas que eran degudas que val 12 dinies.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Dépenses</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Le compte suivant se rapporte à une représentation donnée à Caylux
+                (Tarn-el-Garonne) en 1510. [Petit de Julleville]</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8124"
+                    source="S2532"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Retorni de presen Raphaël bayten sens plus tardar Conforta Jehan en la priso Que no
+                se enoge pauc ni pro Car Herodes lo fara morir. Brevimen e sens salir Et que prenga
+                la mort en grat Quar per ela sera salvat En pardis mont autamen.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Le verso de ce compte porte le nom de Jean Mayraud, notaire de Caylux,
+                vice-gérant de l'official de Cahors en 1510. On a trouvé avec le compte, mais
+                séparé, un petit carré de papier portant au-dessous des mots Deus pater les vers
+                suivants. [Petit de Julleville] - On voit que ces vers sont placés dans la bouche de
+                Dieu le Père, qui envoie Raphaël annoncer à Jean-Baptiste sa mort prochaine. Ces
+                vers, rapprochés du compte cité plus haut, nous apprennent que la pièce jouée à
+                Caylux en 1510 fut sans doute une Passion complète, c'est-à-dire avec la
+                Résurrection. La Passion [ui jouée de nouveau à Caylux en 1540, comme on verra plus
+                loin. [Petit de Julleville]</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

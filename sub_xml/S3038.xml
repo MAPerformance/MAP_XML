@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Tobie</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3038">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Tobie</title>
+                  </item>
+                  <item>
+                     <date when="1581"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Amiens</settlement>
+                        <region>Somme/Picardie</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Beauvais</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.894067, 2.295753</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 169.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Saint local</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Vêpres (après)</item>
+                  <item>Saint Jacques</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Confrérie</item>
+                  <item>Paroissien</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Carrefour</item>
+               </list>
+               <note>Fragment du Vieux Testament.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8725"
+                    source="S3038"
+                   
+                   
+                   >
+                  <head>25 juillet 1581</head>
+                  <div type="transcription">
+                     <p>Du vendredi XVIe jour de juing 1581, vue la requeste presentee par les compaignons
+                joueurs de comedye de la paroisse Sainct Jacques ; par advis de messieurs, leur a
+                esté permis de jouer le jour de Sainct Jacques prochain, apres vespres, l’ystoire de
+                Tobie par personnages, au carrefour de la rue de l’Aventure et de la Hautoye, a la
+                charge qu’ilz ne juront rien de erroné et scandaleux, que, paravant juer, ilz
+                communiqueront leurs jeux au bureau, et que le lendemain ny autre jour ilz ne feront
+                aucune coeullette de poix reboullez, ne autrement avant la dite paroisse, ny
+                ailleurs.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Dubois, 1878. p. 30 – Petit de Julleville, 1880, t. 2. p. 169 – *Lavéant,
+                  2007. p. 416</bibl>
+                        <bibl type="additional"> Bulletin du comité de la langue, de l’histoire et des arts
+                  de France, t.III (1856), p. 335 et t. IV, p. 99. (1857).</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Autorisation sous condition</item>
+                        <item>Condition : Censure</item>
+                        <item>Condition : Sans scandale</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

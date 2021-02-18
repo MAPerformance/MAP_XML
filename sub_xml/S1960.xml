@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Procession du Saint sacrement</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S1960">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Procession du Saint sacrement</title>
+                  </item>
+                  <item>
+                     <date when="1404"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Tournai</settlement>
+                        <region>Wallonie/Hainaut</region>
+                        <country>Belgique</country>
+                        <placeName type="bishopric">Tournai</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>50.607234, 3.392589</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl/>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note/>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7379"
+                    source="S1960"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Audit Jehan de le Rue, pour avoir commandement des dessus dis Consaulx, porté
+                lettres du sauf conduit de le Franque Feste de la Procession de la dite ville,
+                dairainement passee, es ville d’Audenarde, Grantmont, Alost, Tenremonde, Anwiers,
+                Malisnes, Diestres, Louvaing, Brouxelle, Mons en Henau, Mauboege, Valenchiennes et
+                Orchies, en le manirre accoustumee; pour lequel voyage faire, il se party de
+                Tournay, le lundi XXVe jour d’aoust darrain passé, et en revint, le mardi, IXe jour
+                de septembre ensivant, lequel terme contient XVI jours, tant en alant et besognant,
+                comme en retournant, audit pris de VI sols, III deniers, pour jour, sont … C
+                sols</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Cauchie, 1892. p. 16 – *Lavéant, 2007. p. 453.</bibl>
+                        <bibl type="additional">Archives de Tournai, Compte d’ouvrages du 20 août 1404 au 20
+                  novembre id., n°2518 de l’inventaire, 2e somme des mises, f 5v (archives
+                  disparues).</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7380"
+                    source="S1960"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>A Jehan le Monne, aussi son compaignon, messagier de ladite ville, pour avoir
+                pareillement porté en pluseurs aultres bonnes villes, pareilles lettres […] … C
+                sols.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Cauchie, 1892. p. 16 – *Lavéant, 2007. p. 453.</bibl>
+                        <bibl type="additional">Archives de Tournai, Compte d’ouvrages du 20 août 1404 au 20
+                  novembre id., n°2518 de l’inventaire, 2e somme des mises, f 5v (archives
+                  disparues).</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

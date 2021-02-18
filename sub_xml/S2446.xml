@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Jean-Baptiste</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2446">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Jean-Baptiste</title>
+                  </item>
+                  <item>
+                     <date when="1500"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Chaumont</settlement>
+                        <region>Champagne</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>48.113748, 5.139256</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Jolibois, 1838. – Petit de Julleville, 1880, t. 2. p. 80.</bibl>
+                  <bibl type="additional">Pour les statuts en vers français d'une association ou confrérie
+              dont les membres étaient chargés de remplir à Chaumont ces rôles : Revue des sociétés
+              savantes, 5e série, t. I, p. 12.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Type : Document pontifical</item>
+                  <item>Type : Statut</item>
+                  <item>Scénario (théâtre et procession)</item>
+                  <item>Récurrence : Cinq ans</item>
+                  <item>Saint patron</item>
+                  <item>Juridiction : Coopération</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>circa 1500. - Une bulle de Sixte IV du 8 février 1475 avait accordé les privilèges les
+          plus étendus à l'église Saint-Jean-Baptiste de Chaumont. Tous les cinq ou six ans, quand
+          la Saint-Jean-Baptiste (24 juin) tombait un dimanche, une indulgence plénière était
+          proclamée, en vertu de cette bulle, sous le nom de grand pardon général de peine et de
+          coulpe. Des fêtes profanes ne tardèrent pas à se mêler aux fêtes religieuses du pardon. La
+          grande procession qui se déroulait par la ville fut suivie par des personnages costumés
+          qui rappelaient allégoriquement quelques scènes de la vie de saint Jean-Baptiste. Bientôt
+          l'idée vint de représenter les mêmes scènes sur un théâtre et dans un drame. Une requête
+          fut adressée à l'évoque et au bailli pour obtenir l'autorisation nécessaire. Elle n'est
+          point datée, mais le style accuse, à ce qu'il semble, le commencement du XVIe siècle. -
+          Cette pièce est sans date, mais comme on sait d'autre part qu'en 1515 il fut payé à
+          messire Claude Rolot, chanoine de la collégiale, une somme de treize livres (sans doute
+          comme droits (l'auteur ou de reviseur) à l'occasion des mystères joués au Pardon de cette
+          année, la pièce citée est au plus tard de cette époque. C'était la septième fois qu'on
+          célébrait le Pardon ; il avait eu lieu déjà en 1476, 1481, 1487, 1492, 1498, 1509. Mais on
+          sait que les représentations dramatiques n'avaient pas eu lieu dès l'origine. La date 1500
+          adoptée ci-dessus est une date moyenne. - Les mystères de Chaumont offraient sur plusieurs
+          points un caractère particulier. Joués aux stations d'une procession, ils se partageaient
+          en plusieurs scènes, qui se représentaient sur différents théâtres construits dans divers
+          quartiers sur le passage de la procession. Le nombre des théâtres fut d'abord de neuf; il
+          s'éleva plus tard jusqu'à quinze. Mais nous manquons absolument de documents qui nous
+          éclairent sur les représentations données au XVIe siècle. Celles du XVIIe sont bien
+          connues, mais ne rentrent plus dans notre sujet. Les textes dramatiques publiés par M.
+          Jolibois appartiennent tous à cette dernière époque et ne renferment presque rien qui
+          puisse être regardé comme ancien et traditionnel ; au contraire ils sont remplis
+          d'imitations ou de plagiats commis aux dépens de Malherbe, de Corneille ou d'autres poètes
+          du temps. - A toute époque, les plus goûtés parmi les acteurs du Pardon paraissent avoir
+          été les Diables. On a conservé les statuts en vers français d'une association ou confrérie
+          dont les membres étaient chargés de remplir à Chaumont ces rôles. Dans le mystère, ils
+          avaient mission de torturer l'âme d'Hérode. Pendant trois mois avant les jeux, depuis le
+          dimanche des Rameaux jusqu'à la Saint-Jean, ils avaient le privilège de parcourir costumés
+          la ville et les campagnes environnantes pour faire l'annonce de la fête : des Sarrasins
+          qui faisaient partie du cortège d'Hérode se joignaient à eux. Ces promenades amenèrent
+          d'étranges abus : diables et sarrasins, nombreux comme une armée, commencèrent à piller,
+          au profit de la fête de la Saint-Jean, les villages et les marchés (Ils prenaient même une
+          part tumultueuse à la procession de ce jour et s'efforçaient (d'empêcher le célébrant (qui
+          figurait Jésus) de franchir la porte du Barle, qui figurait Jérusalem). Leurs exactions
+          les firent redouter et haïr, et contribuèrent beaucoup à la suppression des mystères. La
+          dernière représentation eut lieu en 1663. Quant au Pardon proprement dit et aux fêtes
+          religieuses dont il était l'occasion, on les célébrait encore dans la première moitié de
+          notre siècle. - Un dicton champenois confirme la mauvaise réputation des diables de
+          Chaumont. On disait plaisamment: « S'il plaît à Dieu, à la Vierge, à Saint-Jean, je serai
+          diable et paierai mes dettes. »</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8035"
+                    source="S2446"
+                   
+                   
+                   >
+                  <head>Requête adressée à l’évêque et au bailli</head>
+                  <div type="transcription">
+                     <p>Supplyent humblement les soubsignez bourgeois, manans et habitans (le ceste ville
+                de Chaulmont, que comme vrays chrétiens meuz de dévotion a l'honneur de Dieu et de
+                monsieur saint Jehan Baptiste, patron de l'église de ceste dicte ville, ils ayent
+                proposé, soubz vos bons plaisirs, support et faveurs, jouer par misteres et
+                personnaiges figurans la vie du dict saint Jehan, en ceste dicte ville, en lieu le
+                plus commode d'icelle ; et en ce faisant s'employer du tout, par leur dicte
+                dévotion, a inciter le peuple a congnoistre par les dicts misteres quelle a esté la
+                nativité, parenté, vie, miracles et fin du dict Saint Jehan ; pour conforter ceulx
+                qui curieusement et dévotement par pareille dévotion désirent, au lieu
+                d'escriptures, sçavoir et congnoistre la vie dudict saint Jehan leur patron ;
+                toutefois n'ont voullu ce faire ne entreprendre sans sur ce avoir de vous, comme
+                chose très raisonnable, voz permission, congé, licence et consentement, qu'ils vous
+                demandent et requièrent bien humblement, n'entendans pour ce, faire aucune levée,
+                exaction ne prinse de deniers sur le peuple, sinon ce qu'il vous plaira leur
+                ordonner, et que de leurs pures liberallitez et dévotion, ils vouldront donner pour
+                ayder aux frais de la construction des chaffaulx et secrets qu'il conviendra faire ;
+                vous suppliant, mes dicts seigneurs, leur interposer au pied de cestes vos decretz
+                ad ce requis, spécialement que par voz supportz, aydes et faveurs, il ne soit faict
+                empescheinent ausdicts supplians, a la dicte construction de chaffaulx ne démolition
+                d'iceulx par aulcun de la dicte ville, mectant les dicts supplians et leurs aydes en
+                la proleclion et sauvegarde du roy, et de vous messeigneurs, le faisant a l'ayde de
+                Dieu, iceulx supplians feront leur debvoir et prieront Dieu pour vous, vos nobles
+                prosperitez et santez.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Petit de Julleville, 1880, t. 2. p. 80.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Autorisation (demande d'-)</item>
+                        <item>Contrôle : Evêque</item>
+                        <item>Motif : Enseignement // Motif : Honneur de Dieu</item>
+                        <item>Finance : Prix de la place</item>
+                        <item>Scène (construction de la -)</item>
+                        <item>Juridiction : Conflit</item>
+                        <item>Finance : Subvention (demande de -) // </item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

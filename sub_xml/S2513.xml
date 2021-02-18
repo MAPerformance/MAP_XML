@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2513">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1508"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Poitiers</settlement>
+                        <region>Poitou</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.580224, 0.340375</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Le Touzé de Longuemar, 1857. p. 306. – Rédet, 1857, t. 2. p. 193. – Petit de
+              Julleville, 1880, t. 2. p. 93.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Dimanche</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Chanoine</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Jean Bouchet, qui avait vu la représentation de 1486 et qui assista plus tard à celle
+          de 1534, ne dut pas manquer celle de 1508, car il écrivait après la Passion de 1534 :
+          « J'ai vu jouer ces mystères trois fois / Dont suis content… », mais il n'en a pas fait
+          mention dans les Annales d'Aquitaine. - Durée : 9 jours.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8102"
+                    source="S2513"
+                   
+                   
+                   >
+                  <head>26 juillet 1508, Délibération capitulaire</head>
+                  <div type="transcription">
+                     <p>Permissum es quibusdam civibus hujus civitatis, qui ad laudem Dei et fidei
+                exaltationem figuraturi sunt hac in urbe mysterium passionis Christi, habere
+                clericulos ecclesiæ præsentis ; nec non etiam permissum est magistro Natali Gallois
+                presbitero, tenoristæ præsentis ecclesiæ, ut valeat personatum Sathan ludere seu
+                figurare.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Le Touzé de Longuemar, 1857. p. 305 – Rédet, 1857, t. 2. p. 193.</bibl>
+                        <bibl type="additional"> D. Fonteneau, t. XXXV, extr. des archives de St Hilaire,
+                  p. 87.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération capitulaire</item>
+                        <item>Autorisation</item>
+                        <item>Motif : Honneur de Dieu // Organisation : Rôle de Satan</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Presbytère</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Le document est aujourd’hui perdu.</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8103"
+                    source="S2513"
+                   
+                   
+                   >
+                  <head>Mardi 8 août 1508, Délibération capitulaire</head>
+                  <div type="transcription">
+                     <p>Die martis octava mensis augusti anno Domini 1508 non fuit tentum capitulum propter
+                absentiam dominorum canonicorum, qui vacaverunt misterio ascensionis (et) passionis
+                Christi, dominica die præcedente, qua die celebratum est festum Transfigurationis
+                Christi, incepto.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Le Touzé de Longuemar, 1857. p. 306 – Rédet, 1857, t. 2. p. 193.</bibl>
+                        <bibl type="additional"> D. Fonteneau, t. XXXV, extr. des archives de St Hilaire,
+                  p. 87.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération capitulaire</item>
+                        <item>Autorisation</item>
+                        <item>Aménagement : Dispense pour les ecclésiastiques</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Chanoine</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>Le document est aujourd’hui perdu.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

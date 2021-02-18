@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2728">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1535"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Grenoble</settlement>
+                        <region>Savoie</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>45.188529, 5.724524</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 127 – Berriat-Saint-Prix, Remarques sur
+              les anciens jeux des mystères, Mémoires et dissertations par la Société royale des
+              antiquaires de France (textes tirés des registres du conseil de ville de
+              Grenoble).</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Organisation : Rôle de Jésus</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Pentecôte</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Actrice</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Lorsqu'on préparait cette représentation, Pierre Bûcher, docteur en droit, avait
+          accepté le rôle de Jésus Christ, mais il ne put ou ne voulut le remplir, on ignore par
+          quel motif. Cet incident donna lieu à des réclamations fort vives, qui furent portées
+          jusqu'au parlement de Grenoble. Le procureur général, François Feysan, se plaignit
+          qu'après cinq mois de répétitions, Pierre Bûcher rendît le rôle qu'il s'était engagé par
+          serment à remplir ; et demanda, au nom des ordonnateurs du jeu, des dommages-intérêts. On
+          ignore quelle suite eut l'affaire, mais Bûcher n'en mourut pas. Dès 1539 il devint le
+          substitut du même procureur qui le poursuivait en 1535, et par la suite il lui succéda. On
+          a conservé une délibération du conseil de ville de Grenoble, où, dans l'attente d'une
+          immense affluence d'étrangers à l'occasion de la représentation projetée, il fut résolu
+          qu'on ferait de grands approvisionnements de vin.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8313"
+                    source="S2728"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Dans la représentation de la vie du Christ et des saints (dit l'historien du
+                Rivail), ceux de Grenoble l'emportent sur les autres Allobroges et Gaulois ; j'ai
+                assisté à ces spectacles, en particulier à la Pentecôte de l'an du Christ 1535.
+                Françoise Buatier, qui jouait le rôle de la mère du Christ, par les gestes, la voix,
+                la prononciation, le débit, sut charmer tous les spectateurs au point d'exciter une
+                admiration générale ; la grâce et la beauté s'ajoutaient chez elle au bien dire.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Du Rivail, de Allobrogibus libri IX, p. 48.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vie Madeleine</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2449">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Vie Madeleine</title>
+                  </item>
+                  <item>
+                     <date when="1500"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Lyon</settlement>
+                        <region>Lyonnais</region>
+                        <country>France</country>
+                        <placeName type="bishopric">Lyon</placeName>
+                        <placeName type="eccl_province">Lyon</placeName>
+                        <geo>45.764043, 4.835659</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Brouchoud, 1865. p. 13. – Brouchoud, 1865. p. 18. – Petit de Julleville, 1880, t.
+              2. p. 82</bibl>
+                  <bibl type="additional"> Archives de la ville, BB 24, f°258 – Colonia, Histoire
+              littéraire de Lyon, 1730, t. II, p. 428.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Condition : Politique</item>
+                  <item>Motif : Politique</item>
+                  <item>Type : Entrée</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Présence du Roi</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Roi</item>
+                  <item>Louis XII de France</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Ce qui rendait les échevins de Lyon favorables par exception à une représentation
+          dramatique, c'est qu'à cette date Louis XII, de retour de Milan, avait réuni toute sa cour
+          à Lyon. [Brouchoud]
+          http://books.google.nl/books?id=QKBykrA76bUC&amp;dq=S%C3%A9jours%20de%20Charles%20VIII%20et%20Loys%20XII%20%C3%A0%20Lyon%20sur%20le%20Rosne&amp;hl=fr&amp;pg=PA40#v=onepage&amp;q=moralit%C3%A9s&amp;f=false</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8037"
+                    source="S2449"
+                   
+                   
+                   >
+                  <head>30 juin 1500, Délibérations échevinales</head>
+                  <div type="transcription">
+                     <p>Les échevins de Lyon autorisèrent Clément Trie « à faire tout le service qu'il
+                pourra aux joueurs qui veulent jouer la vie de la Magdeleine » et ordonnèrent
+                qu'« on leur presteroit tout ce qui leur seroit propice des pièces faictes pour les
+                entrées des rois »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>Brouchoud, 1865. p. 13 – Brouchoud, 1865. p. 18 – Petit de Julleville, 1880,
+                  t. 2. p. 82</bibl>
+                        <bibl type="additional"> Colonia, Histoire littéraire de Lyon, 1730, t. II, p. 428 –
+                  Archives de la ville, BB 24, f°258.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Délibération municipale</item>
+                        <item>Autorisation accordée</item>
+                        <item>Contrôle : Echevin // Organisation : Distribution des responsabilités</item>
+                        <item>Organisation : Prêt de matériel</item>
+                        <item>Organisation : Stockage pour prochaine représentation</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

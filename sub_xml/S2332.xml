@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Festivités</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2332">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Festivités</title>
+                  </item>
+                  <item>
+                     <date when="1484"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Reims</settlement>
+                        <region>Champagne</region>
+                        <country/>
+                        <placeName type="bishopric">Reims</placeName>
+                        <placeName type="eccl_province">Reims</placeName>
+                        <geo>49.258329, 4.031696</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 46. – Koopmans, 1997-2. p. 52.</bibl>
+                  <bibl type="additional"> Mémoires inédits de J. Foulquart, et Livre des conclusions du
+              conseil de Reims, cités par L. Paris. Toiles peintes et tapisseries de la ville de
+              Reims, Paris 1843, in-4°, t. 1, préface, p. LVII-LXI.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Couronnement</item>
+                  <item>Ascencion</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Roi</item>
+                  <item>Charles VIII de France</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>Sacre de Charles VIII. - On joue la Passion, l’histoire et couronnement du roi
+          Pharamond (Paris, p. 24), une histoire de Romulus et Remus et une histoire de de Clovis
+          premier roy Chrétien de France et la mission de la sainte Ampoule. - Le couronnement à
+          traditionnellement lieu à l’Ascencion.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T7918"
+                    source="S2332"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Le samedi, 29e jour du mois de mai 1481, après disner, le très-chrétien roi de
+                France, Charles VIIIe du nom, aagé de près de quatorze ans… se partist du chasteau
+                de Gueux, distant de la cité de Rheims de deux lieues, auquel il estoit arrivé dès
+                le jeudy devant et jour de l'Ascension, pour aller audit Rheims prendre et recevoir
+                son sainct sacre et couronnement, comme avoient fait ses prédécesseurs roys de
+                France. Et environ une heure après midy de ce jour, se partirent pour aller audevant
+                dudit roy les gens d'église, eschevins, nobles, bourgeois et habitans de ladite
+                ville de Rheims jusques au nombre de soixante, bien montez, et honnestement
+                habillez, avec et en la compagnie de Charles de la Ramée capitaine de Rheims,
+                lesquels chevauchèrent jusques à la descente de Muyre, où ils trouverent le roy,
+                vestu d'une robe courte de drap d'or, ayant un bonnet noir sur la teste, un chapeau
+                violet dessus et une plume d'autruche par dessus, monté sur un cheval de poil
+                moreau, fort esveillé, accompagné de tres hauts et puissants princes, barons et
+                seigneurs, Messeigneurs Loys duc d'Orléans, de Valois et de Milan, René due
+                d'Alençon, Pierre de Bourbon, comte de Clermont, de la Marche, sieur de Beaujeu et
+                d'Armignac… [Finir la transcription] […] Jean Malot fut « requis de baillier sa
+                fille pour faire Clothilde ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Paris, 1885. p. 21 – Koopmans, 1997-2. p. 52.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Femme</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

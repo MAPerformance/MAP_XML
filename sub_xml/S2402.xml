@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2402">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1492"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>La Rochelle</settlement>
+                        <region>Poitou</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.160329, -1.151139</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl type="additional">Les mystères, t. II, p. 61 – Mss. de la Rochelle, Bruneau, 3069,
+              — Conain, 1977-3064. M. E. Jourdan, juge au tribunal civil de la Rochelle, décédé en
+              1871, avait rassemblé avec soin dans ses Ephémérides les documents relatifs à
+              l'histoire du théâtre à la Rochelle.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>- Sept membres du corps de ville de la Rochelle entreprirent en 1492 de faire
+          représenter la Passion ; ils firent faire à leurs dépens « les plus beaux chafaulx qui
+          furent jamais en ce royaume » et qui coûtèrent plus de trois mille livres. On joua « la
+          Passion la plus triumphante dont il fut jamais mémoire ; elle dura plus de huit jours avec
+          autant de joye et de récréation que de contentement pour un chacun, ayant grand nombre de
+          musiciens et joueurs d'instruments qui ne cessaient tant de jour que de nuit a recréer le
+          peuple, tellement que la plupart des nuicts pendant la dite huitaine se passèrent en
+          toutes sortes d'esbattements tant pour les estrangers que pour les habitants ». On
+          n'estima pas à moins de quinze a vingt mille le nombre des personnes tant « grands
+          seigneurs, dames et damoiselles que commun peuple » qui vinrent de toutes parts assistera
+          ces pieuses représentations, qui eussent été de plus longue durée sans les différends qui
+          intervinrent entre Gaston de Foix, comte de Candaule, lieutenant général au gouvernement
+          de Guyenne, chargé d'un commandement de troupes dans l'Aunis, et Merichon, seigneur
+          d'Huré, auquel il succéda comme gouverneur de justice à la Rochelle.</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

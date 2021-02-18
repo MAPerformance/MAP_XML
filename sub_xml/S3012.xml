@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S3012">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1573"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Saint-Jean-de-Maurienne</settlement>
+                        <region>Savoie</region>
+                        <country>France</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>45.275403, 6.344886</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 166. – Truchet, 1879.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item>Evêque</item>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Eglise</item>
+                  <item>Eglise-théâtre</item>
+               </list>
+               <note>Nous ne savons pas quand les représentations commencèrent. On n'a pas non plus la
+          liste complète des acteurs. Parmi ceux qui sont connus, on remarque le grand nombre des
+          nobles et des prêtres môles aux bourgeois.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8690"
+                    source="S3012"
+                   
+                   
+                   >
+                  <head>mercredi 5 novembre</head>
+                  <div type="transcription">
+                     <p>Deux chanoines, deux nobles et trois bourgeois s'assemblèrent dans la maison de
+                l'un d'eux, le chanoine Guillaume de Mareschal, et établirent la liste des personnes
+                qui devaient contribuer aux frais de la représentation. La liste présente les noms
+                de trente-trois prêtres, vingt-huit nobles et quatre cent trente-trois bourgeois,
+                énumérés par quartiers et par rues.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Discussions préliminaires</item>
+                        <item>Organisation : Financement // Finance : Subvention par des particuliers</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item>Chanoine</item>
+                        <item>Bourgeois</item>
+                        <item>Noble</item>
+                        <item>Prêtre</item>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8691"
+                    source="S3012"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Les députés du mercredi se réunissent « afin de procéder a la detraction des
+                personnes misérables », et se déterminent à retrancher « tant seulement les
+                personnes qui vont mendiant ». La contribution de chaque personne du tiers est fixée
+                à la somme « de deux escus a cinq florins pièce ». Chaque corps d'état choisit son
+                trésorier receveur, chargé de percevoir et de conserveries cotisations.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Financement</item>
+                        <item>Finance : Obligation de financer</item>
+                        <item>Finance : Subvention par des particuliers</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8692"
+                    source="S3012"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>On décida que les livres et roolles dudit mystère seraient empruntés « a moindres
+                frais que faire se pourra » de damoyselle Janne, veuve de M. Anthoine Baptendier,
+                docteur en droit, « qui les avoit corrigé et traduit ». Mais le mercredi suivant
+                madame Baptendier refusa de céder le manuscrit copié par feu son mari sur un
+                original tiré de loin et à grands frais. Après pourparlers elle consentit à prêter
+                le manuscrit jusqu'à la fête de Saint-André ; s'il n'était rendu à cette date, il
+                serait payé à la dame « dix escus a cinq florins pièce, oultre ce en quoy elle
+                pourroit estre quottisée pour les frais dudit mystère ». On voit que la cotisation
+                n'était pas libre à Saint- Jean-de-Maurienne, mais constituait un véritable impôt
+                municipal.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Distribution des Rolles</item>
+                        <item>Représentation (manuscrit de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8693"
+                    source="S3012"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Douze jours après , les commissaires, réunis de nouveau,constatèrent le mauvais
+                état du texte qui leur avait été remis. On retourna chez madame Baptendier, on
+                obtint d'elle le prêt des « livres de Saint-Michel », c'est-à-dire du manuscrit
+                d'une Passion jouée dans la commune de ce nom. Elle y joignit « les livres de
+                Grenoble », probablement le texte joué à Grenoble en 1535, et « noble Jean Loys de
+                la Balme » fut chargé de tirer de ces divers textes celui qu'il conviendrait de
+                représenter.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (manuscrit de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8694"
+                    source="S3012"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Ensuite on demanda et on obtint licence de jouer du prince-évêque de Maurienne, et
+                du gouverneur du souverain sénat de Savoie ; l'autorité civile permit les poursuites
+                contre les « recusantz a payer la somme a laquelle ilz auront esté taxés ». L'impôt
+                ne suffisant pas, on décida encore que l'on ferait appel à la générosité des
+                habitants. Jean Marquet, secrétiare de la cité, dut recevoir tous dons volontaires.
+                Chaque « chef d'hostel » fut taxé cependant à un écu qu'il devait payer par
+                provision.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Autorisation (demande d'-)</item>
+                        <item>Contrôle : Evêque</item>
+                        <item>Contrôle : Gouvernement</item>
+                        <item>Finance : Collecte</item>
+                        <item>Finance : Taxe</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8695"
+                    source="S3012"
+                   
+                   
+                   >
+                  <head>Dimanche 1er février 1573,</head>
+                  <div type="transcription">
+                     <p>Les rôles de la première journée furent distribués aux acteurs.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Rôle (distribution de -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8696"
+                    source="S3012"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Ils se réunissaient deux fois par semaine, le mercredi et le dimanche ; les absents
+                payaient six gros d'amende. On imposa aux acteurs un règlement qui établissait une
+                répétition obligatoire tous les mercredis, à une heure ; tout acteur manquant,
+                lorsque sonnerait l'heure, devait payer un florin d'amende, même amende à celui qui
+                se conduirait mal pendant la répétition. Le public pouvait assister aux répétitions
+                en payant quatre gros ; les magistrats, les commissaires-syndics entraient
+                librement. Toute indiscrétion des acteurs, quant au texte et même quant au titre des
+                rôles, était punie d'un teston d'amende. Le règlement, lu devant tous, fut approuvé
+                unanimement.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Type : Règlement</item>
+                        <item>Organisation : Répétition</item>
+                        <item>Condamnation : Amende // </item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8697"
+                    source="S3012"
+                   
+                   
+                   >
+                  <head>Mardi 10 mars 1573</head>
+                  <div type="transcription">
+                     <p>Le mardi 10 mars 1573, tous les citoyens importants se réunirent à l'effet de
+                choisir un emplacement pour jouer le mystère. Apres avoir examiné divers prés, ou
+                champs, entre autres le pré de feu Pierre Girould, « au lieu du Clappey, ou l'on ha
+                aultrefoys représenté le mistere de la Passion, » la commission fit choix du « pré
+                de l'Evesque » , sauf consentement de monsieur de Maurienne, qui se hâta de le
+                donner</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Lieu de la représentation</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8698"
+                    source="S3012"
+                   
+                   
+                   >
+                  <head>Jeudi 30 mai 1573</head>
+                  <div type="transcription">
+                     <p>Le jeudi 30 mai, jour de l'Ascension, remise fut faite de toutes les amendes que
+                les acteurs avaient encourues jusqu'à ce jour.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Organisation : Répétition</item>
+                        <item>Condamnation : Amende</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item>Ascencion</item>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8699"
+                    source="S3012"
+                   
+                   
+                   >
+                  <head>17 juillet 1573</head>
+                  <div type="transcription">
+                     <p>Le 17 juillet 1573, la monstre solennelle fut fixée au premier dimanche d'août. « A
+                pied trestous commençant des l'esglise de Saint Jean,… et iront droict par la grand
+                rue jusqu'au portai de l'Horne, et de la retourneront dans l'esglise. »</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Monstre</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8700"
+                    source="S3012"
+                   
+                   
+                   >
+                  <head>23 juillet 1573</head>
+                  <div type="transcription">
+                     <p>A Saint-Jean-de-Maurienne comme partout, les acteurs s'habillèrent à leurs frais ;
+                mais ils durent même s'engager par écrit à le faire. La représentation d'un mystère
+                coûtait cher d'ailleurs, même en Savoie : au 23 juillet, Michaelis, trésorier des
+                nobles, avait déjà dépensé 205 florins sept gros et demi, pour les frais de copie et
+                les divers préparatifs. Dans un autre compte la copie de la seconde journée du
+                mystère figure pour huit florins, « sans y comprendre le papier ».</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Finance : Dépenses</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8701"
+                    source="S3012"
+                   
+                   
+                   >
+                  <head>Vendredi 18 février 1573</head>
+                  <div type="transcription">
+                     <p>La première répétition eut lieu le vendredi, dans l'église Notre-Dame, par
+                permission spéciale de l'évêque de Maurienne. Le matin de la répétition les
+                commissaires firent célébrer une grand'messe pour le succès de leur entreprise.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl/>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Autorisation accordée</item>
+                        <item>Messe pour le succès de la représentation // Organisation : Répétition</item>
+                        <item>Lieu sacré (statut du -)</item>
+                        <item>Contrôle : Evêque // </item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

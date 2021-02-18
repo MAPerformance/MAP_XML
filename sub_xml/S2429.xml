@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moralité du Mystère de Dieu</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2429">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Moralité du Mystère de Dieu</title>
+                  </item>
+                  <item>
+                     <date when="1497"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Orbe</settlement>
+                        <region>Vaud</region>
+                        <country>Suisse</country>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.724920, 6.534402</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Aebischer, 1972. p. 159.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Organisation : Rôle de Jésus pour un clerc</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item/>
+               </list>
+               <note>i.e. de la Passion et de la Résurrection, comme le précisent les comptes: de nouveau,
+          on dressa une croix flanquée cette fois de deux autres pour les deux larrons, et on
+          construisit un sépulcre. Le rôle du Christ était tenu par maître Anthoine Houlard,
+          chantre. Ce même compte mentionne encore une «gorge d'enfer» pour laquelle le trésorier
+          déboursa trente sols: il s'agit peut-être d'une excavation, creusée sur la place où avait
+          lieu la représentation, d'où sortaient les diables et où descendait le Christ, après sa
+          mort, pour délivrer les justes. [Aebischer] - Mystère mimé ou par personnage. [Chocheyras]
+          - Ce n’est plus une croix comme en 1467, mais trois pour les deux larrons. On a aussi une
+          “gorge d’enfer”. [Chocheyras]</note>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

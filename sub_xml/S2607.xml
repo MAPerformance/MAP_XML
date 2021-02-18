@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de la Passion</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2607">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author"/>
+                  </item>
+                  <item>
+                     <title>Mystère de la Passion</title>
+                  </item>
+                  <item>
+                     <date when="1521"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Limoges</settlement>
+                        <region>Limousin</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>45.833619, 1.261105</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 111.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Fête de la Vierge</item>
+                  <item>Dimanche</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Abbaye</item>
+               </list>
+               <note>- Le 11 août 1521, on commença à représenter la Passion à Limoges, avec une grande
+          magnificence de mise en scène.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8207"
+                    source="S2607"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Anno 1521, XI Aug. fuit incoeptum mysterium Passionis D. J. C. figurative in Castro
+                Lemovicensi representari, quod fuit solemniter et magnifice ostensum et lfiguratum,
+                tam in indumentis quam jocalibus et aliis ad hoc necessariis et opportunis.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Comment. P. Soucherii canon. Lemovic apud Stephanot, t. II.
+                  Fragm. hist., mss. cité par du Gange, Glossaire, au mot mysterium.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8208"
+                    source="S2607"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>L'an 1521 fust represanté par personnages le mistere de la Passion Nostre Seigneur
+                Jésus Christ le second dimanche d'aoust, finissant le 2e septembre. Lequel fust
+                autentiquement represanté soubz les arbres de l'abbaye de Saint Martial.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Annales manuscrites de Limoges, dites Manuscrit de 1638
+                  (Limoges, 1873), p. 319.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8209"
+                    source="S2607"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Item aussi est a noter que aucuns noctables parsonnages, comme gens d'esglisse,
+                consulz, bourgeois, marchans et aultres gens ayans bon zel au fait politique et pour
+                augmenter la foy catholique, deliberarent en l'an dessoubz escript (1521) se jouver
+                par represantacion de parsonnages la aspre passion de N. Sauveur Jésus Crist ;
+                laquelle fust jouve auctentiquement et moult richement, et commensa le segond
+                dimanche d'aoust, l'an mil Vc XXI et finit le segond jor du moys de septembre.
+                Lequel mistere fust jouvé en la place communément nommée « Dessoubs les Arbres » ;
+                et les eschaffaulx furent fait fort sontuezement et richement tous couvers de
+                toillez, lesquieulz constarent, comprint les faintes que estoient a se fere
+                nécessaires, environ troys mile livres tournoys. Et fust fait appoinctement entre
+                mes dissrs les consulz et révérend pere en Dieu mons. l'abbé de Sainct Marcial,
+                frère Albert Jouvyout et ces religieulx, touchant le différent que pouroit advenir
+                de l'exercice de la justice durant le dict mistere ; lequel fust passé par notre
+                graffier criminel maistre Marcial Bardin ; et au dict mistere joua Dieu M. de
+                Villereal ; et Nostre Dame joua Estienne Baud. S'ensuyt la teneur de l'appoinctement
+                faict entre révérend père en Dieu, etc… (Signé :) Bardin.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Registres consulaires de la ville de Limoges (Limoges,
+                  1867), p. 108.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8210"
+                    source="S2607"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>les vestements, joyaux et autres choses nécessaires à ces actes furent si riches et
+                si précieux que plusieurs Parisiens, Poitevins, Saintongeois, Bourdelois, Tolosains,
+                Lyonnois et autres qui en furent spectateurs, seigneurs, nobles hommes et femmes,
+                confessoient unanimement qu'on n'avoit jamais vu rien de plus magnifique.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Le père Bonaventure de Saint-Amable, Histoire de
+                  Saint-Martial</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Déguisement</item>
+                        <item>Représentation (description de la -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Le père Bonaventure de Saint-Amable (dans son Histoire de Saint-Martial) vante
+                la magnificence de la représentation de 1521.</note>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

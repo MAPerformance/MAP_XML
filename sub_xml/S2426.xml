@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mystère de Saint Martin</title>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName ref="orcid:0000-0001-9094-4475">Simon Gabay</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Engineering</resp>
+               <persName ref="orcid:0000-0003-0850-8266">Alexandre Bartz</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <name>Projet LeReMed - Les Représentations médiévales</name>
+               <ptr target="https://LeReMed..huma-num.fr"/>
+            </authority>
+            <availability status="restricted" n="cc-by">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Simon Gabay</author>
+               <title>L’Acteur au Moyen Âge: L’Histrion et ses avatars en Occident de saint Augustin à
+            saint Thomas</title>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Universiteit van Amsterdam</publisher>
+               <ptr target="https://hal.archives-ouvertes.fr/tel-01873198"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2021-02-17" who="orcid:0000-0003-0850-8266">Adaptation of the XML-TEI encoding
+        according to the new ODD.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="S2426">
+            <div type="metadata">
+               <list type="performance">
+                  <item>
+                     <persName role="Author">Andrieu de la Vigne</persName>
+                  </item>
+                  <item>
+                     <title>Mystère de Saint Martin</title>
+                  </item>
+                  <item>
+                     <date when="1496"/>
+                  </item>
+                  <item>
+                     <location>
+                        <settlement>Seurre</settlement>
+                        <region>Bourgogne</region>
+                        <country/>
+                        <placeName type="bishopric"/>
+                        <placeName type="eccl_province"/>
+                        <geo>46.999317, 5.145516</geo>
+                     </location>
+                  </item>
+               </list>
+               <listBibl>
+                  <bibl>Petit de Julleville, 1880, t. 2. p. 67.</bibl>
+               </listBibl>
+               <list type="keywords" subtype="General">
+                  <item>Saint local</item>
+                  <item>Scénario</item>
+                  <item>Représentation (titre de la -)</item>
+                  <item>Organisation : Annulation</item>
+                  <item>Organisation : Représentations multiples</item>
+               </list>
+               <list type="keywords" subtype="Time">
+                  <item>Dimanche</item>
+                  <item>Repas (dîner : après)</item>
+                  <item>Repas (dîner : après)</item>
+               </list>
+               <list type="keywords" subtype="People">
+                  <item/>
+               </list>
+               <list type="keywords" subtype="Location">
+                  <item>Eglise</item>
+               </list>
+               <note>Voici par exception une pièce dont nous connaissons l'histoire. Nous savons où, quand,
+          par qui et pour qui elle fut composée et représentée. Le mystère de Saint Martin fut joué
+          à Seurre. Cette petite ville, située à neuf lieues de Dijon, sur la rive gauche de la
+          Saône, n'a aujourd'hui que peu d'importance. Au XVe siècle ses foires et marchés y
+          faisaient affluer les étrangers et une certaine richesse. En 1496, il n'y avait pas vingt
+          ans que Louis XI avait réuni le duché de Bourgogne à la couronne, au prix d'une guerre
+          courte, mais sanglante. Seurre avait résisté au roi et tenu pour Marie, fille du
+          Téméraire. La ville avait été prise et fort maltraitée par les Français. Les années qui
+          suivirent la prise de Seurre ne furent pas non plus des années paisibles. La rivalité
+          était ouverte entre la maison de France et la maison d'Autriche, et Seurre, ville
+          fortifiée, située sur la frontière, entre la Bourgogne française et la Franche-Comté
+          autrichienne, était la première place exposée aux coups de l'ennemi. Les guerres d'Italie,
+          avec leurs alternatives cruelles de grands succès et de grands revers, avaient dans cette
+          petite cité un profond retentissement. C'est au milieu de ces circonstances peu favorables
+          que les bourgeois de Seurre, avec un courage digne d'éloges, conçurent le dessein, en
+          dépit des préoccupations politiques et militaires, de faire représenter dans leur ville,
+          pour eux seuls et par des acteurs choisis parmi eux, un grand mystère, composé
+          spécialement pour celte occasion, en l'honneur de saint Martin, patron de leur église et
+          de la ville tout entière. Il fallait avant tout rencontrer un auteur, un poète : André de
+          la Vigne s'offrit à eux. L'auteur a raconté lui-même dans le procès-verbal que nous allons
+          transcrire l'histoire de l'œuvre et celle de la représentation.</note>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T8012"
+                    source="S2426"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>A la louenge gloire honneur et exaltacion de Dieu, de la Vierge Marie et du très
+                glorieux patron de ceste ville de Seure, Monseigneur Saint Martin, l'an mil quatre
+                cens quatre vingts et seize, le neuliesme jour du moys de inay, avant veille de
+                l'Ascension, se assemblèrent en la chambre maistre Andrieu de de la Vigne, natif de
+                la Rochelle, facteur du Roy; vénérable et discrète personne, Messire Oudet Gobillon,
+                vicquaire de l'église Saint-Martin du dit Seure, honorables personnes Aubert Dupuys,
+                Pierre Loiseleur, Pierre Goillot, George Tasote, Pierre Gravielle, dit Belleville,
+                bourgeois; et maistre Pierre Masoye, recteur des escollespour lors dudit Seurre,
+                lesquelz marchandèrent de leur faire et composer ung registre, ouquel seroit couchée
+                et declairée par parsonnaiges, la vie Monseigneur Saint Martin, en façon que a la
+                voir jouer le commun peuple pourroit voir et entendre facillement comment le noble
+                patron dudit Seurre en son vivant a vescu saintement et devostement; lequel registre
+                fut fait et composé ainsi qu'il appert cinq sepmaynes après ledit jour; et eustesté
+                jouée la dicte vie a la Saint-Martin ensuivant, se n'enst esté le bruyt de guerre et
+                l'abondance de gendarmes qui survindrent audit Seurre, dont fut la chose prolongée
+                jusques au temps; et y donc pour ce faire si furent failz et louez par ledit maistre
+                Andrieu les parsonnages. Et pour iceulx bailler et livrer a gens suffisans de les
+                jouer, furent commis honnourables personnes, Sire Guyot Berbis pour lors maire de
+                Seurre, sire Gucrin Druet, Robin Joliqueur, et Pierre Loiseleur, bourgeois dudit
+                Seurre, lesquelz par bonne et mehure délibération furent délivrez lesdilz
+                parsonnages a chacun selon l'exigence du cas, prenant et recevant le serment desdits
+                joueurs en tel cas requis, pour estre délibérez déjouer si tost que le temps
+                viendroit a propos. Depuis ce fait chacun en droit soy mist payne d'estudier son
+                parsonnaige, et de se rendre au moustier mondit sieur Saint Martin, ou a Saint
+                Michiel quand besoing en estoit pour aller voir cerymonyes et façons de faire
+                lorsqu'ilz joueroient publiquement. Laquelle chose ne fust possible de faire pour
+                l'empeschement devant dit, sitost qu'ilz eussent bien volu, mais quand ilz eurent
+                tant actendu que plus ne povoient, veant le temps pour ce faire passer, conclurent
+                et délibérèrent les dessus ditz qu'ils joueroient le dymanche prochain après la
+                foire de Sur, dont chacun lit ses préparatifs. Touteffois derechief pour aulcunes
+                malles nouvelles de guerre courans en icelle foire ne fut possible de jouer le dit
+                jour; et la sepmaine ensuivant se commancerent vendanges de tous costez, pourquoy
+                force fut d'actendre qu'elles fussent faictes, aultrement il y eust heu peu de gens.
+                Après toutes ces choses pour parfaire ledit mistere ne fut le bon plaisir desditz
+                joueurs perdu; mais s'assemblèrent lesdits maistres gouverneurs et joueurs en ladite
+                église, et conclurent entièrement qu'ilz feroieut leurs monstres le mardi IIIIe jour
+                du moys d'octobre, et joueroient le dimanche ensuivant, jour de Saint Denys.
+                Laquelle conclusion ainsi prise, lesdits joueurs firent leur debvoir de quérir
+                acoustrement et habillement honnestes. Mon dit sieur le maire eust la charge de
+                faire achever eschaffaulx qu'il avoit fait encommencer a drecer des devant la dite
+                foire de Sur, lequel y print une merveilleuse sollicitude et grand deligence. Le
+                maistre des secretz nommé maistre Germain Jacquet fut envoyé quérir a Ostun, et luy
+                venu, par le devant dit Pierre Goillot receveur des denyers dudit mistere, luy fut
+                délivré toutes choses a luy nécessaires pour fare les ydolles, secretz et autres
+                choses. Quand le dit jour pour faire les monstres fut venu, on fit crier a son de
+                trompetes que toutes gens ayans parsonnages du dit mistere s'assemblassent a l'eure
+                de mydi en Lombardie chacun acoustré selon son parsonnage. Après lequel cry fait se
+                rendirent les dilz joueurs au dit lieu, et furent mys en ordre l'un après l'autre,
+                monstre, acoustré, armé et appoincté si très bien qu'il estoit impossible de mieulx.
+                Et est assavoir qu'ilz estoient si grand train que quand Dieu et ses anges sortirent
+                du dit lieu chevaulchant après les autres, les diables étoient desja oullre la tour
+                de la prison, près la porte du chevaut blanc, prenant leur tour par devers chelz
+                Perrenet de Pontoux, au long du marché aux chevaulx, devant a la maison Monsieur le
+                Marquis par auprès des murailles, et de la tout le long de la grant rue, jusques au
+                lieu que dit est, et n'y avoit de distance de cheval a aultre deux pielz et demy, et
+                se montoyent bien a environ neuf vingts chevaux, Laditte monstre faicte chacun pensa
+                de soy et furent baillées les loges le vendredi ensuivant aux joueurs pour les
+                fournir de tapisserie, et celles des villes prochaynes de Seurre. Pourquoy le samedi
+                tout le monde par le beau temps qu'il faisoit mit payne d'acoustrer les ditz
+                eschaffaulz. La quelle chose faicte n'estoit en mémoire d'omme d'avoir jamais veu
+                plus beaux eschaffaulx mieulx compassez, acoustrez en tapisserie ne mieulx
+                proporcionnez qu'ilz estoient. Le lendemain qui fut dymanche matin quant on cuyda
+                aller jouer, la pluye vint si habondamment qu'il ne fut possible de rien faire ; et
+                dura sans cesser depuis trois heures du matin jusques a trois heures le disgner,
+                sans faillir, qui fut chose fort griesve aux joueurs et aux autres. Et de fait ceux
+                qui estoient venus des villes circunvoisines se délibérèrent d'eulx en aller, quant
+                ils virent le dit temps ainsi changé. Cecy venu a la cognoissance de mondit sieur le
+                maire et autres, fut conclud quant on vit venir le beau temps qu'on yroit jouer une
+                farce sur le parc pour les contenter et aprestcr. Pourquoi la trompecte fit le cry
+                que tous joueurs se rendissent incontinant habillez de leurs habitz, en la maison
+                Monsieur le Marquis et tous les aultres allassent sur les eschaffaulz. Le dit cry
+                fait d'une part et d'aultre, chacun fit son debvoir. Lors on mist les joueurs en
+                ordre, et yssirent de chelz mondit sieur le marquis les ungs après les aultres, si
+                honnorablement que quant ils furent sur le parc tout le monde en fut fort esbahy;
+                ils firent leur tour comme il appartient, et se retira chacun en sa loge, et ne
+                demeura sur ce dit pare que les personnages de la farce du Munyier, ci devant
+                ecripte. Laquelle fut si bien jouée que chacun s'en contenlit entièrement et ne fut
+                fait aultre chose pour celuy jour. Au partir du dit parc tous les dits joueurs se
+                myrent en arroy, chacun selon son ordre et a sons de trompetes, clairons,
+                menestriers, haulz et bas instrumens, s'en \indrent en la dicte église monsieur
+                Sainct Martin devant Notre Dame, chanter un salut moult devostement, affin que le
+                beau temps vint pour exécuter leur bonne et devoste entention et l'entreprise du dit
+                mystère. Laquelle chose Dieu leur octroya; carie lendemain qui fut lundi, le beau
+                temps se mist dessus, dont commandement fut fait a son de trompeté par mes
+                dessusdits sieurs les maire et esche vins du dit Seurre, que tout le monde
+                cloystbon, et que nul ne fust si ose ne hardy de faire euvre mecquanique en la dite
+                ville l'espace de troys jours ensuivant, es quels on debvoit jouer le mistere de la
+                vie monseigneur Saint Martin, et que tous joueurs se rendissent au moustier du dit
+                Seurre. Incontinent le monde se retira aux eschaffaulz, les dits joueurs aussi ou
+                ils debvoient,et puis furent mys en ordre par le dit maistre Andrieu selon le
+                registre, et marchoient avant a sons de trompetes, clerons, bussines, orgues,
+                harpes, labourins et aultres bas et haulx intrumens, jouans de tous costez, jusqucs
+                sur le dit parc, faisant leur tour comme en tel cas est requis, qui estoit une si
+                gorrine et si très sumptueuse besongne, qu'il n'est pas possible a entendement
+                d'omme de le savoir escripre, tant estoit la chose belle et magniffique. Ce faict
+                chacun se retira a son enseigne; et commancerent les deux messagiers a ouvrir le jeu
+                ainsi que au devant de ce présent registre est escript; puis après commença a parler
+                Luciffer, pendant le quel parlement celuy qui jouoit le personnaige de Sathan ainsi
+                qu'il volut sortir de son secret par dessoubz terre, le feu se prist a son habit
+                autour des fesses, tellement qu'il fut fort bruslé; mais il fut si soudaynement
+                secouru, devestu et rabillé, que sans faire semblant de rien,, vint jouer son
+                personnaige ; puis se retira en sa maison. De ceste chose furent moult fort
+                espoventez les dits joueurs; car ils pensoyent que puisque au commencement
+                incontinent les assailloit, que la fin s'en ensuivroit. Toutefois moyennant l'ayde
+                de niondit seigneur Saint Martin, qui pris la conduite de la matière en ses mains,
+                les choses allèrent trop mieulx cent foys que l'on ne pensoit. Après ces choses le
+                père, la mère Saint Martin avecques leurs gens marchèrent oudit parc, et firent ung
+                commancement si très veyf que tout le monde tant les joueurs que les assislans
+                furent moull esbahis et défait. En abolissant la cremeur devant dicte, les dits
+                joueurs prindront une telle hardiesse et audasse en eulx, qu'onques lyon en sa
+                tayniere ne meurtrier en un boys ne furent jamais plus fiers ne mieulx assurez
+                qu'ils estoient quand ils jouoient. On commença ceste matinée entre sept et huit
+                heures du matin, et finist on entre unze et douze. Pour le commencement de l'après
+                disnée qui fut a une heure, le dit Salhan revint jouer son personnage et pour son
+                excuse dit a Luciffer : Malle mort le puisse avorter, Paillart, fils de putain
+                cognu, Pour a mal faire t'enorter, Je me suis tout brulc le cul. Et puis parfist son
+                parsonnage pour celle clause et les autres joueurs ensuivant chascun selon son
+                office. Puis firent pause pour aller souper entre cinq et six heures, lousjours
+                jouans et exploitant le temps au mieulz qu'ils pouvoient. Et puis a l'issue du parc,
+                les dits joueurs se mirent en ordre comme dit est, en venant jusques a la dite
+                église monseigneur Sainct Martin dire et chanter devostement en rendant grâces a
+                Dieu ung Salve Regina. Le lendemain qui fut mardy et mercredy ensuivant, entrèrent
+                et yssirent oudit parc es heures devant dictes. Ainsi doncques comme cy devant est
+                escript, fut joué le dit mistere du glorieux amy de Dieu monseigneur Sainct Martin,
+                patron de Seurre, si tryumphanment, aultentiquement, et magniffiquement, sans faulte
+                quelle qu'elle fust au monde qu'il n'est poinct en ia possibillité d'homme vivant
+                sur la terre, le scavoyr si bien rédiger par un ecripl qu'il fut exécuté par effect
+                le Xlle jour du moys d'octobre, l'an de Nostre Seigneur mil quatre cens quatre
+                vingts et seize. L'auteur a signé : Delavigne.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl>*Petit de Julleville, 1880, t. 2. p. 67 – Rousse, 2004. p. 290.</bibl>
+                        <bibl type="additional"> Bibl. nat., mss, fr., 24 332.</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Représentation (description de la -)</item>
+                        <item>Organisation : Rôle de Satan // Organisation : Répétition</item>
+                        <item>Organisation : Rôle (distribution de -)</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note>- Ce procès-verbal est complet, mais nous ajouterons quelques remarques à la
+                liste des personnages; laquelle est accompagnée, dans le manuscrit, de celle des
+                acteurs, au moins de la plupart d'entre les acteurs. En tête Andrieu de la Vigne a
+                soin de nommer les commissaires de la représentation, qu'il appelle « les
+                conducteurs ». « Premièrement les conducteurs : monsieur le maire de Seurre, Guyot
+                Berbis; sire Guenin Drutt, contre-registreur,. sire Robin Jolycueur, Pierre Goillot,
+                Pierre Loiseileur, maistre Andrieu de la Vigne, portant le registre ». On remarque
+                parmi les acteurs : messire Ponsot, qui joue Proserpine; messire Oudot Gobillon (le
+                vicaire), qui joue le père de saint Martin; Estienne Bossuet, qui joue la mère de
+                saint Martin; le fils Maulprest, un adolescent, qui joue à lui seul la seconde et la
+                tierce damoiselle. Messire Pierre Rebillart, qui joue le premier chapellain; messire
+                Jacques Bossuet, qui joue le second prestre. Jehan de Pontlioux joue saint Martin.
+                Messire Jehan Chevrel joue le povre (de) sainct Martin; dans la cinquième journée,
+                il joue un lépreux. Les autres acteurs non qualifiés messire appartiennent au tiers
+                état le plus modeste. Le filz Jehan Bertrand, le filz Girard Dupin, le filz Pierre
+                Loiseleur, jouent les trois anges Michel, Raphaël, Uriel; c'étaient sans doute de
+                très jeunes gens. Cinq moines (frère Pierre Caillot, frère Jehan Vexanel, frère
+                Guenichaut, frère Claude, frère Guienot delà Faye) jouent des rôles secondaires,
+                dans la troisième journée. Messire Jacques Bossuet joue l'official de Tours, dans la
+                quatrième journée. Le petit Morande joue un rôle de fille, le serviteur Charmaille
+                joue le tiers payen, dans la cinquième journée. Quoique le nombre des personnages
+                soit de cent cinquantedeux, plusieurs rôles peu importants ayant été confiés à un
+                seul acteur, le nombre de ces derniers ne dut pas dépasser cent vingt. On ne peut le
+                fixer exactement, parce que quelques noms sont restés en blanc dans le manuscrit. Il
+                y a quatorze rôles de femmes, tous tenus par des hommes. Au milieu de tous ces noms
+                obscurs, il en est deux qui forcent l'attention : ceux d'Estienne Bossuet et de
+                Jacques Bossuet. On sait que la famille Bossuet ne s'établit à Dijon qu'au
+                XVIe siècle. Elle était originaire de Seurre, où nous savons qu'un Jacques Bossuet
+                reçut le droit de bourgeoisie en 1460. C'est peut-être le même qui joua dans notre
+                mystère. Un Etienne Bossuet fut maire de Seurre en 4513. Est-ce celui qui figure sur
+                la liste de nos acteurs ? Jacques joue dans notre mystère le rôle d'un prêtre;
+                Etienne, celui de la mère de saint Martin. Une remarque est encore à faire à propos
+                du procès-verbal d'Andrieu de la Vigne. Non seulement la moralité intitulée
+                l'Aveugle et le Boiteux, qui termine fort gaiement le mystère, semble destinée à
+                tourner en ridicule les miracles de saint Martin, mais cette farce du Meunier, qui
+                servit, comme on dirait aujourd'hui, de lever de rideau à la représentation tout
+                édifiante de l'histoire du patron de Seurre, est l'une des plus licencieuses qui
+                nous soient restées de notre ancien théâtre comique. Mais tout le monde était alors
+                de bonne foi dans ce singulier mélange de cynisme et de dévotion. On n'en saurait
+                guère douter en voyant, à l'issue de la farce, tous les acteurs courir à l'église
+                Saint-Martin pour y « chanter un salut moult devostement, afin que le beau temps
+                vint pour exécuter leur bonne et devoste entention et l'entreprise du dict
+                mystère ».</note>
+                  </div>
+               </div>
+            </div>
+            <div type="Documentation">
+               <div xml:id="T9519"
+                    source="S2426"
+                   
+                   
+                   >
+                  <head/>
+                  <div type="transcription">
+                     <p>Icy doibt avoir ung autel bien accoustré de toutes choses, auquel sainct Martin
+                viendra pour chanter messe ; lors on le revestira et fera ne plus ne plus ne moins
+                que ung arcevesque. Il pourra dire la messe toute, mais il ne consacrera poinct.
+                Puis quand se viendra à la levacion du Corps de Dieu jusques à la poitrine
+                seulement, il doibt venir dessus son chief ung tourbillon de feu subtilement faict
+                sans toucher à sa teste et y demeurer ung petit espace de temps, radiant et
+                esclairant, puis s'en aller et perdre par subtil moyen, et sainct Martin, qui faict
+                semblant de ne le voir poinct achevera le résidu de sa messe, puis vient un ange qui
+                luy dit quand il veut faire son oraison.</p>
+                  </div>
+                  <div type="translation">
+                     <p/>
+                  </div>
+                  <div>
+                     <listBibl>
+                        <bibl type="additional">Édouard L. de Kerdaniel, Un auteur dramatique du quinzième
+                  siècle, André de La Vigne, p. 65. - Rey Flaud, p. 280 - André de La Vigne, Le
+                  Mystère de Saint Martin: 1496, André Duplat (éd.), p. 473</bibl>
+                     </listBibl>
+                     <list type="keywords" subtype="General">
+                        <item>Aménagement : Déplacement de la messe</item>
+                     </list>
+                     <list type="keywords" subtype="Time">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="People">
+                        <item/>
+                     </list>
+                     <list type="keywords" subtype="Location">
+                        <item/>
+                     </list>
+                     <note/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
