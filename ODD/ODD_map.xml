@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MAP</title>
+                <author xml:id="SG">
+                    <name>Simon Gabay</name>
+                    <idno type="ORCID" n="0000-0001-9094-4475"/>
+                </author>
+                <author xml:id="AB">
+                    <name>Alexandre Bartz</name>
+                    <idno type="ORCID" n="0000-0003-0850-8266"/>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted" n="cc-by">
+                    <licence target="https://creativecommons.org/licenses/by/4.0"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Created <date when="2020-02-12">12/02/2020</date> by <name ref="#AB"
+                    >AB</name></p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc/>
+    </teiHeader>
+    <text>
+        <body>
+            <schemaSpec ident="oddex1" start="TEI">
+                <moduleRef key="header"
+                    include="teiHeader fileDesc titleStmt publicationStmt sourceDesc revisionDesc authority availability change licence"/>
+                <moduleRef key="core" include="p date list item head note title bibl listBibl respStmt resp author pubPlace publisher ptr name"/>
+                <moduleRef key="tei"/>
+                <moduleRef key="textstructure" include="TEI text body div"/>
+                <moduleRef key="namesdates"
+                    include="persName location settlement region country placeName geo"/>
+
+                <elementSpec ident="location" mode="change">
+                    <content>
+                        <sequence preserveOrder="true">
+                            <elementRef key="settlement" minOccurs="1" maxOccurs="1"/>
+                            <elementRef key="region" minOccurs="1" maxOccurs="1"/>
+                            <elementRef key="country" minOccurs="1" maxOccurs="1"/>
+                            <elementRef key="placeName" minOccurs="2" maxOccurs="2"/>
+                            <elementRef key="geo" minOccurs="1" maxOccurs="1"/>
+                        </sequence>
+                    </content>
+                </elementSpec>
+                
+                <elementSpec ident="placeName" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="change">
+                            <valList mode="add" type="closed">
+                                <valItem ident="bishopric"/>
+                                <valItem ident="eccl_province"/>
+                            </valList>
+                        </attDef>
+                    </attList>
+                </elementSpec>
+                
+                <elementSpec ident="list" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="change" usage="req">
+                            <valList mode="add" type="closed">
+                                <valItem ident="keywords"/>
+                                <valItem ident="performance"/>
+                            </valList>
+                        </attDef>
+                        <attDef ident="subtype" mode="change">
+                            <valList mode="add" type="closed">
+                                <valItem ident="General"/>
+                                <valItem ident="Time"/>
+                                <valItem ident="People"/>
+                                <valItem ident="Location"/>
+                            </valList>
+                        </attDef>
+                    </attList>
+                    <content>
+                        <sequence preserveOrder="true">
+                            <elementRef key="item" minOccurs="1" maxOccurs="unbounded"/>
+                        </sequence>
+                    </content>
+                </elementSpec>
+                
+                <elementSpec ident="listBibl" mode="change">
+                    <content>
+                        <sequence preserveOrder="true">
+                            <elementRef key="bibl" minOccurs="1" maxOccurs="unbounded"/>
+                        </sequence>
+                    </content>
+                </elementSpec>
+
+            </schemaSpec>
+        </body>
+    </text>
+</TEI>
