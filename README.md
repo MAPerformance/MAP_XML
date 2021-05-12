@@ -1,4 +1,4 @@
-# MAP Project
+# LEREMEd
 
 _LEs REprésentations MÉdiévales (LeReMed)_
 
